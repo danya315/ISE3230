@@ -1,0 +1,1280 @@
+UPC,Brand,Product_Name,Price,Kroger_Name,Match_Score,Price_Source,Calories,Protein_g,Carbs_g,Fat_g,Sodium_g
+203224512025,Kroger,Pork loin,1.99,Kroger® Fresh Natural Pork Loin Boneless,57.1,Kroger API,142.9,21.4,0.0,5.4,0.1
+11110870681,Kroger,Vegetable oil spread,4.49,Kroger® Buttery Vegetable Oil Spread,85.7,Kroger API,500.0,0.0,0.0,57.1,0.6
+11110871510,Private Selection,Ice Cream Bars,5.99,Private Selection® Cookies & Cream Ice Cream Tub,72.5,Kroger API,462.0,4.4,38.8,32.1,0.0
+11110870940,Kroger,Teriyaki Beef Smokehouse Jerky,3.5,Kroger® Teriyaki Smokehouse Beef Jerky,85.3,Kroger API,982.0,153.0,63.8,12.7,0.0
+11110870896,Kroger,Corn Tots,2.99,Kroger® Traditional Favorites Frozen Corn on the Cob Tots Super Sweet,37.6,Kroger API,156.0,4.1,32.7,1.0,0.0
+51000201805,Campbell's,Tomato Condensed Soup,1.25,Campbell's® Condensed Tomato Soup,76.9,Kroger API,75.0,1.7,14.2,1.2,0.3
+11110870735,Kroger,Buttery Spread,4.49,Kroger® Buttery Vegetable Oil Spread,73.7,Kroger API,2300.0,0.0,0.0,255.0,0.0
+11110870728,Kroger,"Kroger, buttery spread, original",4.49,Kroger® Buttery Vegetable Oil Spread,57.5,Kroger API,429.0,0.0,0.0,50.0,0.8
+51000201935,Campbell's,Healthy Request Cream Of Chicken Condensed Soup,1.99,Campbell's® Healthy Request® Condensed Chicken Noodle Soup,70.7,Kroger API,50.0,0.8,7.5,1.7,0.3
+11110871602,Kroger,Spicy Orange Chicken,6.29,Kroger® Spicy Chicken Nuggets,71.4,Kroger API,37.1,2.0,6.0,0.6,0.0
+11110870230,Simple Truth,Cage Free Grain Fed Eggs,4.99,Simple Truth® Kipster Cage Free Medium White Eggs,69.8,Kroger API,136.0,13.6,0.0,9.1,0.1
+11110870193,Kroger,Low Fat Yellow Popcorn,2.89,Kroger® Yellow Popcorn Kernels,71.2,Kroger API,1190.0,29.3,234.0,14.7,0.0
+11110870131,Kroger,"Beef Smokehouse Jerky, Teriyaki",3.5,Kroger® Teriyaki Smokehouse Beef Jerky,66.7,Kroger API,286.0,42.9,21.4,3.6,1.8
+11110870124,Kroger,"Kroger, smokehouse jerky, beef, peppered",3.5,Kroger® Peppered Smokehouse Beef Jerky,63.4,Kroger API,286.0,39.3,21.4,3.6,2.1
+11110870094,Kroger,Beef Smokehouse Jerky,3.5,Kroger® Teriyaki Smokehouse Beef Jerky,75.8,Kroger API,288.0,48.8,17.5,2.5,1.8
+11110871572,Kroger,Skillet Meals Chicken Florentine,7.99,"Bertolli Chicken Florentine & Farfalle, Frozen Meal",51.1,Kroger API,41.8,3.0,4.8,1.2,0.0
+11110871671,The Kroger Co.,Coconut Flour,7.49,Bob's Red Mill Organic Coconut Flour,59.4,Kroger API,2960.0,102.0,408.0,102.0,0.0
+11110873576,The Kroger Co.,Instant Corn Masa Flour Mix,4.29,MASECA Tamal Instant Corn Masa Flour 4 Lb Bag,59.8,Kroger API,1260.0,33.3,256.0,11.1,0.0
+11110873521,Simple Truth Organic,Gluten Free Cornbread Baking Mix,5.49,Simple Truth® Gluten Free Organic Cornbread and Muffin Mix,75.7,Kroger API,367.0,3.3,83.3,0.0,0.7
+11110873347,Private Selection,Pita Chips,3.99,Private Selection® Sea Salt Pita Chips,84.8,Kroger API,1610.0,37.8,252.0,50.4,0.0
+11110873330,Private Selection,"Private selection, pita chips, sea salt",3.99,Private Selection® Sea Salt Pita Chips,71.0,Kroger API,464.0,10.7,67.9,14.3,0.8
+11110873057,Kroger,Onion Rings Breaded Minced Onion,3.99,Kroger® Thick Cut Onion Rings,52.9,Kroger API,265.0,2.7,33.4,13.4,0.0
+11110872753,Kroger,Traditional bread crumbs,4.19,Kroger® Gluten Free Traditional Bread Crumbs,82.7,Kroger API,367.0,6.7,83.3,1.7,0.7
+11110872647,Kroger,"Kroger, original sweet & creamy liquid creamer",3.5,International Delight Sweet & Creamy Liquid Coffee Creamer,65.5,Kroger API,500.0,0.0,60.0,30.0,0.0
+11110871756,Kroger,Macaroni & cheese dinner,1.5,Kroger® Deluxe Shells and Cheddar Macaroni and Cheese,54.8,Kroger API,371.0,12.9,72.9,2.9,0.8
+11110872623,"Kroger,  The Kroger Co.",Liquid creamer,2.79,Kroger® Hazelnut Coffee Creamer,55.1,Kroger API,500.0,0.0,60.0,30.0,0.0
+11110871954,Kroger,Sriracha Chili Sauce,4.29,Kroger® Sriracha Hot Chili Sauce,91.5,Kroger API,100.0,0.0,20.0,0.0,3.6
+11110871923,Kroger,Reduced Sodium Tomato Condensed Soup,1.0,Kroger® Reduced Sodium Chicken Noodle Condensed Soup,82.1,Kroger API,64.5,1.3,12.6,1.0,0.0
+11110871879,"Kroger,  The Kroger Co.",Pizza Crust,3.99,Kroger® Pizza Crusts,65.5,Kroger API,532.0,12.3,86.2,15.4,0.0
+11110871855,Kroger,Original Pizza Crust,3.19,Kroger® Original Pizza Crusts,96.4,Kroger API,520.0,12.3,83.1,15.4,0.0
+11110871824,Kroger,Crispy thin pizza crusts,3.19,Kroger® Crispy Thin Pizza Crusts,98.4,Kroger API,333.3,7.0,50.9,8.8,0.4
+11110869975,Kroger,Granola Bars Dipped In Peanut Coating,2.19,Kroger® Chewy Dipped Peanut Butter Granola Bars,41.8,Kroger API,1400.0,32.7,171.0,65.3,0.0
+11110865021,Kroger,Dry Rub Bbq Chicken Wings,7.99,Kroger® Fully Cooked Frozen Chicken Wings Buffalo Style,55.2,Kroger API,265.0,16.8,8.4,18.2,0.0
+11110866677,Simple Truth,Coconut Milk,3.49,Simple Truth® Dairy Free Original Coconut Milk Half Gallon,60.2,Kroger API,338.0,2.6,12.8,30.8,0.0
+11110866103,"Kroger,  The Kroger Co.",Corn Chips Cupz,1.99,Kroger® Cupz Corn Chips,61.3,Kroger API,1950.0,25.5,204.0,115.0,0.0
+11110866042,Kroger,Glazed breaded fully cooked chicken wings,7.99,Kroger® Fully Cooked Frozen Chicken Wings Buffalo Style,64.1,Kroger API,200.0,13.8,7.5,12.5,0.6
+11110865922,Kroger,Pulled Pork Bbq Potato Skins,12.99,Squishmallows Pig Burger Pulled Pork BBQ,53.3,Kroger API,182.0,8.4,18.1,8.4,0.0
+11110865847,Kroger,Cheddar & Bacon Potato Skins,7.99,Kroger® Cheddar & Bacon Potato Skins,98.6,Kroger API,232.0,10.9,14.5,14.5,0.0
+11110865410,Kroger,Cream of Mushroom Condensed Soup,0.79,Kroger Cream of Mushroom Condensed Soup,100.0,Kroger API,56.9,0.8,8.1,1.6,0.3
+11110865076,Kroger,Refried beans vegetarian,1.19,Kroger® Vegetarian Refried Beans,63.5,Kroger API,115.0,6.9,19.2,1.5,0.3
+11110865038,Kroger,Traditional Refried Beans,1.19,Kroger® Traditional Refried Beans,98.5,Kroger API,108.0,5.4,16.9,1.9,0.2
+11110865014,Kroger,Original Roasted Chicken Wings,7.99,Kroger® Traditional Roasted Chicken Wings,84.6,Kroger API,227.0,19.6,5.6,14.0,0.0
+11110869654,Simple Truth Organic,Refried Black Beans,1.29,Simple Truth Organic® Fat Free Refried Black Beans,88.9,Kroger API,69.2,4.6,13.1,0.0,0.0
+11110864970,"Kroger, The Kroger Co.",Strawberry yogurt,0.6,Kroger® Strawberry Blended Low Fat Yogurt Cup,56.5,Kroger API,90.0,5.0,15.0,1.5,0.1
+11110864963,Kroger,Low Fat Yogurt Pouches,5.49,Danimals Strawberry Kids Low Fat Yogurt Pouches,68.4,Kroger API,90.0,5.0,15.0,1.5,0.1
+11110864949,Kroger,Low Fat Ricotta Cheese,3.29,Kroger® 2% Low Fat Small Curd Cottage Cheese,76.7,Kroger API,142.0,13.0,7.8,6.5,0.0
+11110864901,Kroger,Pearl Onions,3.19,Kroger® Recipe Beginnings® Frozen Onions Pearl,52.3,Kroger API,35.3,1.2,7.1,0.0,0.0
+11110867070,Private Selection,Spicy bean simmer sauce,5.49,Patak's® Tikka Masala Spicy Curry Simmer Sauce,59.8,Kroger API,92.0,2.5,15.8,2.1,0.7
+11110867261,The Kroger Co.,Original Vienna Sausage,0.85,Kroger® Original Vienna Sausages,85.7,Kroger API,339.0,19.4,2.8,27.8,0.0
+11110869296,The Kroger Co.,White gluten free bread,6.49,Kroger® Gluten Free White Bread,69.6,Kroger API,278.0,5.6,55.6,4.2,0.5
+11110869005,Kroger,"Kroger, nice 'n cheesy, cheese spread",5.49,Kroger® Original Nice'N Cheesy® Pasteurized Prepared Cheese Product,62.4,Kroger API,286.0,14.3,10.7,21.4,1.6
+11110868701,Simple Truth Organic,Gluten Free Spaghetti Macaroni Product,2.99,Simple Truth® Gluten Free Organic Chickpea Spaghetti,61.3,Kroger API,644.0,15.9,131.0,6.4,0.0
+11110868466,Simple Truth Organic,"Graham Crackers, Honey",4.49,Annie's Organic Whole Grain Honey Graham Crackers,54.9,Kroger API,419.0,6.4,74.2,12.9,0.4
+11110868428,"Kroger,  The Kroger Co.",Pad Thai Sauce,3.49,Kroger® Thai Inspirations Pad Thai Sauce,69.2,Kroger API,300.0,3.3,43.3,13.3,1.2
+11110868121,"Kroger,  The Kroger Co.",Ponzu Sauce,3.49,Kikkoman® Ponzu Citrus Seasoned Dressing and Sauce,32.9,Kroger API,533.0,44.5,88.9,0.0,0.0
+11110868091,Kroger,Thai inspirations sweet chili peanut sauce,4.99,Heinz Flavor Tour Thai Inspired Sweet Chili Sauce,67.3,Kroger API,194.4,5.6,33.3,5.6,0.8
+11110868039,Kroger,Stir Fry Sauce,3.99,Kroger® Stir Fry General Tso Sauce,76.4,Kroger API,709.0,0.0,138.0,17.3,0.0
+11110867810,Kroger,"Kroger, big baked cheese bits crackers, original",2.99,Kroger® Baked Cheesy Bitz Cheddar Cheese Crackers,62.7,Kroger API,533.0,10.0,60.0,26.7,0.9
+11110867612,Kroger,Beef Gravy,1.5,Kroger® Beef Gravy,97.1,Kroger API,80.7,2.8,11.1,2.8,0.0
+11110867506,Simple Truth,Unsweetened Almond Milk,2.69,Simple Truth® Dairy Free Unsweetened Vanilla Almond Milk Half Gallon,69.2,Kroger API,6.9,0.2,0.4,0.5,0.0
+11110867490,Simple Truth Organic,Original Bbq Sauce,3.29,Simple Truth Organic® Original BBQ Sauce,98.7,Kroger API,176.0,0.0,41.2,0.0,0.8
+11110873743,simple truth,Natural Large Brown Eggs Grade AA,5.79,Simple Truth™ Natural Cage Free Grade A Large Brown Eggs,72.5,Kroger API,280.0,24.0,0.0,20.0,0.3
+11110873859,Kroger,Pepperoni pizza snack rolls,4.79,Kroger® Pepperoni Pizza Snack Rolls,98.6,Kroger API,247.1,7.1,28.2,11.8,0.5
+11110879608,Simple Truth Organic,Blue corn taco shells,3.49,Simple Truth Organic® Blue Corn Taco Shells,98.8,Kroger API,461.5,7.7,53.8,26.9,0.0
+11110879561,Simple Truth Organic,Yellow Corn Taco Shells,3.49,Simple Truth Organic® Yellow Corn Taco Shells,98.9,Kroger API,462.0,7.7,53.8,26.9,0.0
+11110879479,Simple Truth Organic,Lowfat Cottage Cheese,2.99,Simple Truth® Protein 2% Milkfat Small Curd Cottage Cheese,70.0,Kroger API,74.0,11.0,3.1,2.0,0.0
+11110879462,Simple Truth Organic,Small Curd Cottage Cheese,2.99,Simple Truth® Protein 2% Milkfat Small Curd Cottage Cheese,78.8,Kroger API,91.6,11.0,3.1,3.9,0.0
+11110879417,Private Selection,Creole Garlic Rice Fusion,6.49,Private Selection® Arborio Rice,70.3,Kroger API,708.0,16.0,152.0,4.0,0.0
+11110878038,Private Selection,Sliced Strawberries With Sugar,3.99,Private Selection® Sliced Frozen Strawberries in Sugar,88.2,Kroger API,79.6,0.5,19.4,0.0,0.0
+11110878946,Simple Truth Organic,Kettle Chips,2.99,Simple Truth Organic® White Corn Tortilla Chips,77.5,Kroger API,1810.0,25.2,202.0,101.0,0.0
+11110878915,The Kroger Co.,Aussie Style Yogurt,5.49,Aussie Miracle Curls Styling Mousse with Coconut and Jojoba Oil,33.0,Kroger API,55.2,2.7,6.6,2.0,0.0
+11110878700,The Kroger Co.,Corn flakes toasted cereal,1.99,Kroger® Corn Flakes Toasted Cereal,88.0,Kroger API,350.0,2.0,75.0,0.0,0.1
+11110878687,"The Kroger Co., Kroger",Olive Oil,7.79,Kroger® Pure Olive Oil,70.4,Kroger API,800.0,0.0,0.0,93.3,0.0
+11110880031,Kroger,Chipotle Peppers in Adobe Sauce,1.59,Kroger® Gluten Free Whole Chipotle Peppers in Adobo Sauce,77.9,Kroger API,89.3,0.0,14.3,0.0,0.5
+11110882837,Kroger,Chow Mein Noodles,1.79,Kroger® Chow Mein Noodles,98.0,Kroger API,464.0,10.7,67.9,16.1,0.8
+11110882486,Private Selection,Strawberry fruit & yogurt spread,3.99,Simple Truth Organic™ Strawberry Fruit Spread,58.9,Kroger API,267.0,3.3,26.7,16.7,0.0
+11110882196,Kroger,Complete buttermilk pancake & waffle mix,2.19,Kroger® Complete Buttermilk Pancake & Waffle Mix,98.9,Kroger API,375.0,7.8,71.9,5.5,0.0
+11110882165,The Kroger Co.,Ways Potato Chips,1.99,Kroger® Classic Potato Chips,76.7,Kroger API,1960.0,12.7,191.0,128.0,0.0
+11110881540,Kroger,Green curry sauce,3.99,Kroger® Green Curry Thai Style Hot Cooking Sauce,66.7,Kroger API,110.0,2.0,12.0,6.0,0.3
+11110881373,Kroger,Vindaloo Sauce,5.49,Patak's® Tikka Masala Spicy Curry Simmer Sauce,29.9,Kroger API,87.5,1.4,7.8,5.6,0.0
+1111088133,Kroger,"Sauce, tikka masala",5.49,Kroger® Tikka Masala Sauce,74.5,Kroger API,136.0,1.7,8.5,10.2,0.5
+11110881113,Kroger,Vanilla caramel coffee creamer,5.29,Kroger® Caramel Vanilla Coffee Creamer BIG DEAL!,68.2,Kroger API,30.0,0.0,5.0,1.0,0.0
+11110880079,Private selection,Turbinado Cane Sugar,4.59,Private Selection® Turbinado Cane Sugar,98.7,Kroger API,375.0,0.0,100.0,0.0,0.0
+11110874153,Kroger,ThaiJasmine Rice,3.99,Kroger® Jasmine Rice,88.4,Kroger API,222.2,6.7,77.8,0.0,0.0
+11110875891,Kroger,Seasoned Hash Brown Patties Shredded Potatoes,3.49,Kroger® Seasoned Hash Brown Shredded Potato Patties,85.4,Kroger API,320.0,2.5,37.8,17.6,0.0
+11110875853,The Kroger Co.,kroger steak fries,2.99,Kroger® Frozen Steak Fries,74.6,Kroger API,131.0,2.4,21.4,3.6,0.3
+11110875778,Kroger,Tater Bites Shredded Potatoes,7.29,Kroger® Tater Bites Shredded Potatoes,98.6,Kroger API,190.0,2.4,23.8,9.5,0.4
+11110875723,Kroger,Natural Cut Potato Wedges,3.49,Kroger® Sweet Potato Crinkle Cut French Fries,49.4,Kroger API,142.0,2.8,23.5,4.2,0.0
+11110875242,Kroger,Shoestring French Fried Potatoes,2.99,Kroger® Shoestring French Fries,85.7,Kroger API,141.0,1.2,20.0,5.9,0.4
+11110874955,The Kroger Co.,Peppermint Bark Cream Puffs,6.49,"Haagen-Dazs Peppermint Bark Ice Cream, 14 Oz",60.5,Kroger API,436.0,5.3,51.6,23.1,0.0
+11110874825,Kroger,Italian Sweet Cream Coffee Creamer,2.79,Kroger® Italian Sweet Cream Coffee Creamer,98.8,Kroger API,233.3,0.0,33.3,10.0,0.1
+11110874795,Kroger,Extra Creamy Whipped Topping,1.29,Kroger® Extra Creamy Whipped Topping Tub,93.3,Kroger API,333.0,0.0,22.2,22.2,0.1
+11110874788,Kroger,"Kroger, coffee creamer, original",3.99,Kroger® Original Non-Dairy Powdered Coffee Creamer,59.8,Kroger API,67.0,0.0,6.7,0.0,0.0
+11110874566,Kroger,Original Coffee Creamer,3.99,Kroger® Original Non-Dairy Powdered Coffee Creamer,75.0,Kroger API,133.3,0.0,13.3,6.7,0.0
+11110874481,Kroger,"Coffee Creamer, Hazel-Nut",2.79,Kroger® Hazelnut Coffee Creamer,67.7,Kroger API,233.3,0.0,40.0,10.0,0.0
+11110874238,The Kroger Co.,Basmati Rice,4.99,Kroger® Basmati Rice,80.9,Kroger API,830.0,19.8,188.0,0.0,0.0
+11110876003,Kroger,Multi-Grain Honey Crisp Medley Cereal,1.99,Kroger® Toasted Whole Grain Oat Cereal,53.7,Kroger API,395.3,7.0,83.7,5.8,0.4
+11110876096,The Kroger Co.,Rice bitz cereal,2.79,Kroger® Rice Bitz Cereal,83.6,Kroger API,365.8,7.3,85.4,0.0,0.7
+11110877857,Kroger,"Kroger, 100% juice",2.89,Kroger® 100% Apple Juice,70.8,Kroger API,169.0,1.4,40.8,0.0,0.0
+11110877796,Simple Truth,White Cheddar Finely Shredded Cheese,3.69,Simple Truth Organic® Sharp White Cheddar Shredded Cheese,79.2,Kroger API,1440.0,89.3,12.7,115.0,0.0
+11110877772,Kroger,"Kroger, frozen concentrated juice cocktail, grape",1.99,Kroger® Frozen 100% Grape Juice Concentrate,51.5,Kroger API,205.0,1.4,50.7,0.0,0.0
+11110877642,Kroger,Sugar free non-dairy french vanilla coffee creamer,2.79,Kroger® Zero Sugar French Vanilla Coffee Creamer,80.0,Kroger API,600.0,0.0,40.0,50.0,0.3
+11110877529,The Kroger Co.,Grape Fruit Juice Concentrate,1.99,Kroger® Frozen 100% Grape Juice Concentrate,73.6,Kroger API,166.7,1.7,40.0,0.0,0.0
+11110877437,Kroger,Original No Bean Chili,2.29,Kroger® Original Chili With Beans,67.7,Kroger API,40.9,2.5,2.9,2.2,0.0
+11110877406,The Kroger Co.,Hot dog chili sauce,0.89,Kroger® Hot Dog Chili Sauce,85.2,Kroger API,62.5,6.2,6.2,0.0,0.4
+11110877369,Kroger,Frozen orange juice plus calcium concentrate,3.29,Kroger® Frozen Orange Juice Concentrate,84.4,Kroger API,200.0,1.7,45.0,0.0,0.0
+11110877321,Simple Truth,Organic tortillas wheat flour,3.49,Simple Truth Organic® Blue Corn Taco Shells,61.2,Kroger API,295.0,6.8,45.4,9.1,0.4
+11110877307,Kroger,Frozen Orange Juice Cconcentrate With Pulp,4.0,Kroger® 100% Orange Juice From Concentrate Homestyle with Pulp,75.7,Kroger API,183.0,1.7,45.0,0.0,0.0
+11110877208,Kroger,Hard Cooked And Peeled Eggs,4.79,Kroger® Hard Cooked Peeled Eggs,92.3,Kroger API,310.0,31.0,0.0,20.7,0.0
+11110877031,Kroger,Frozen orange juice concentrate,3.29,Kroger® Frozen Orange Juice Concentrate,98.7,Kroger API,183.3,1.7,45.0,0.0,0.0
+1111087691,Simple truth organic,Fat free range chicken broth,1.79,Simple Truth Organic® Fat Free Free Range Chicken Broth,94.2,Kroger API,3.6,0.7,0.0,0.0,0.4
+11110883100,Kroger,Sweetened Condensed Milk,2.59,Kroger® Sweetened Condensed Milk,98.4,Kroger API,333.0,7.7,56.4,7.7,0.1
+11110851260,Kroger,Extra Wide Egg Noodles,1.79,Kroger® Extra Wide Egg Noodles,98.3,Kroger API,393.0,14.3,71.4,4.5,0.0
+11110851215,Kroger,Crispy Rice Cereal,1.99,Kroger® Crispy Rice Cereal,98.0,Kroger API,325.0,5.0,72.5,0.0,0.4
+11110850959,Kroger,Alfredo sauce,1.99,Kroger® Roasted Garlic Alfredo Sauce,71.4,Kroger API,113.0,1.6,4.8,9.7,0.6
+11110850805,Kroger,Oven roasted turkey breast,4.39,Kroger® Turkey Breast Oven Roasted Deli Thin Sliced Family Size,52.1,Kroger API,107.0,19.6,3.6,1.8,0.8
+11110850553,Kroger,Classic Fajita Cooking Sauce,5.99,Casa Martinez Fajita Cooking Sauce,72.5,Kroger API,178.0,0.0,44.4,0.0,0.0
+11110850447,Kroger,Chunky Applesauce,2.69,Kroger® Classic Apple Chunky Applesauce,76.2,Kroger API,59.8,0.7,14.3,0.0,0.0
+11110850416,The Kroger Co.,Apple Sauce,2.5,Musselman's® Caramel Apple Sauce,51.7,Kroger API,51.0,0.0,12.8,0.0,0.0
+11110850232,Kroger,HONEY ROASTED TURKEY BREAST,4.49,Kroger® Turkey Breast Honey Roasted Deli Thin Sliced,53.5,Kroger API,125.0,19.6,8.9,1.8,0.8
+11110850171,Kroger,Cookies,3.29,Kroger® ChipMates® Chewy Chocolate Chip Cookies,45.9,Kroger API,1770.0,12.7,230.0,89.3,0.0
+11110851468,Kroger,Shells & Cheese,1.5,Kroger® Deluxe Shells and Cheddar Macaroni and Cheese,56.0,Kroger API,530.0,20.2,98.8,6.0,0.0
+11110850119,Kroger,Reduced Fat Vienna Sausage,7.99,Kroger® Reduced Fat Breakfast Turkey Sausage Patties,68.2,Kroger API,297.0,21.7,8.7,19.5,0.0
+11110849953,simple truth organic,COCONUT AMINOS ALL-PURPOSE SEASONING SAUCE,5.99,Simple Truth Organic™ Coconut Aminos All-Purpose Seasoning Sauce,99.2,Kroger API,233.3,0.0,60.0,0.0,4.0
+11110849618,Kroger,SUPER SWEET CORN,0.89,Kroger® Super Sweet Golden Whole Kernel Corn,68.7,Kroger API,106.0,3.5,22.4,0.0,0.0
+11110849557,The Kroger Co.,Vanilla Sandwich Cookies,3.79,Kroger® Kaleidos Golden Double Filled Vanilla Cream Sandwich Cookies Family Size,55.5,Kroger API,1620.0,11.1,244.0,66.7,0.0
+11110849489,Private Selection,Italian Gnocchi With Potato,2.99,Private Selection® Italian Gnocchi with Potato,98.9,Kroger API,150.0,3.3,33.3,0.0,0.2
+11110849403,Simple Truth Organic,Tri-bean blend,4.79,Simple Truth Organic® Tri-Bean Blend,98.6,Kroger API,69.2,5.4,14.6,0.0,0.1
+11110849397,Simple Truth Organic,Organic Pinto Beans,1.0,Simple Truth Organic® Low Sodium Pinto Beans,83.3,Kroger API,80.0,5.6,15.2,0.0,0.1
+11110851352,Private Selection,Vodka Pasta Sauce,3.79,Private Selection® Imported Vodka Pasta Sauce,87.5,Kroger API,50.9,1.3,6.4,2.2,0.0
+11110851475,Kroger,Macaroni & Cheese,1.5,Kroger® Deluxe Original Macaroni and Cheese,68.7,Kroger API,520.0,18.1,103.0,4.0,0.0
+11110864178,Kroger,Pals combination pizza,7.99,Kroger® Combination Pizza Snack Rolls,72.7,Kroger API,252.0,7.5,32.0,10.2,0.4
+11110853264,Kroger,Quick -minute whole grain oats,4.49,Kroger® 100% Whole Grain 1 Minute Quick Oats,59.3,Kroger API,150.0,5.0,27.0,2.5,0.0
+11110853080,Kroger,Monterey Jack Queso Cheese Dip,2.69,Kroger® Medium Monterey Jack Queso Cheese Dip,90.2,Kroger API,129.0,3.2,9.7,8.1,0.8
+11110852878,Simple Truth,Salted Butter,6.49,Simple Truth Organic® Salted Butter Sticks,76.5,Kroger API,714.0,0.0,0.0,78.6,0.6
+11110852748,Kroger,Instant Mashed Potatoes,2.5,Kroger® Instant Mashed Potatoes,98.4,Kroger API,1880.0,55.4,416.0,0.0,0.0
+11110852687,Kroger,Crinkle cut potato fries,3.49,Kroger® Sweet Potato Crinkle Cut French Fries,65.8,Kroger API,143.0,2.4,23.8,3.6,0.0
+11110852410,"Kroger,  The Kroger Co.",Flour Tortillas,3.79,Kroger® CARBMaster® Flour Tortillas,70.3,Kroger API,805.0,17.0,108.0,34.0,0.0
+11110852052,Kroger,Classic Ripples Potato Chips,1.99,Kroger® Classic Ripples Potato Chips,98.6,Kroger API,1990.0,25.2,189.0,126.0,0.0
+11110851970,The Kroger Co.,"Living Well, Multi-Grain Cereal",4.99,General Mills Multi Grain Cheerios Cereal,58.1,Kroger API,375.0,9.4,78.1,4.7,0.4
+11110851895,Kroger,Premium chicken breast chunk in water,1.29,Kroger® Premium Chicken Breast Chunk in Water,98.9,Kroger API,11.8,14.1,2.4,1.2,0.5
+11110851796,Kroger,Quick bread & muffin mix,3.39,Pillsbury Quick Bread Banana Bread and Muffin Mix,62.5,Kroger API,394.0,6.1,78.8,6.1,0.6
+11110851727,"Kroger,  The Kroger Co.",Butter Spread,1.79,Kroger® Honey Peanut Butter Spread Creamy,59.0,Kroger API,3210.0,0.0,0.0,357.0,0.0
+11110851703,Kroger,Graham Cracker,2.79,Kroger® Original Graham Crackers,79.2,Kroger API,2380.0,22.7,317.0,113.0,0.0
+11110851628,Kroger,Deluxe Original Macaroni & Cheese Dinner,1.5,Kroger® Deluxe Original Macaroni and Cheese,86.7,Kroger API,337.0,11.2,47.8,11.2,0.0
+11110851499,Kroger,Macarini & Cheese Dinner,3.99,Kroger Original Mac and Cheese 2.05 oz - 4 Cup/Tub/Bowl,46.5,Kroger API,521.0,20.2,98.8,5.0,0.0
+11110849342,Kroger,Corn Tostadas,1.99,Kroger® White Corn Tortillas,70.8,Kroger API,1500.0,18.4,211.0,64.3,0.0
+11110849236,Kroger,Spaghetti Enriched Macaroni Half Length Pasta,2.79,De Cecco Enriched Macaroni Elbow Pasta,60.0,Kroger API,633.0,22.0,129.0,3.2,0.0
+11110844163,Kroger,COUNTRY STYLE SHREDDED HASH BROWNS Shredded Potatoes,3.49,Kroger® Country Style Hash Browns,69.6,Kroger API,96.9,1.4,24.9,0.0,0.0
+11110845313,Kroger,Tomato sauce,1.0,Kroger® Tomato Sauce,97.4,Kroger API,25.0,1.0,5.0,0.0,0.3
+11110845306,Simple Truth Organic,Diced Tomates in Tomato Juice,1.5,Simple Truth Organic® Diced Tomatoes in Tomato Juice,98.0,Kroger API,20.8,0.8,4.2,0.0,0.2
+11110845054,Kroger,Self rising crust double bacon pizza,4.49,Kroger® Four Cheese Rising Crust Frozen Pizza,72.7,Kroger API,222.2,8.9,31.8,6.7,0.6
+11110844965,Kroger,Italian style tomato paste,0.99,Kroger® Italian Style Tomato Paste,98.5,Kroger API,90.9,3.0,21.2,0.0,0.5
+11110844842,Kroger,Cream Puffs,6.99,Delizza Belgium Mini Cream Puffs,52.0,Kroger API,460.0,7.1,32.0,33.8,0.0
+11110844224,Kroger,Multi-Grain Country Club Crackers,3.29,Kroger® Country Club Multi-Grain Crackers,66.7,Kroger API,500.0,7.1,71.4,17.9,0.9
+11110843654,Kroger,Mini Bags Sweet & Salty Flavored Popcorn,2.99,Kroger® Sweet and Salty Kettle Microwave Popcorn,67.4,Kroger API,1300.0,16.2,114.0,86.5,0.0
+11110849212,The Kroger Co.,Reduced Sodium Chicken Broth,1.29,Kroger® Fat Free Reduced Sodium Beef Broth,70.6,Kroger API,1.4,0.2,0.2,0.0,0.0
+11110843586,Kroger,Movie Theater Butter Popcorn,6.99,Kroger® Movie Theater Butter Microwave Popcorn,86.4,Kroger API,1150.0,16.2,124.0,64.9,0.0
+11110843128,Kroger,"Lite Instant Drink Mix, Strawberry, Orange, Banana",2.69,Kroger® Lite Zero Sugar Strawberry Orange Banana Instant Drink Mix Packets,62.5,Kroger API,357.0,0.0,0.0,0.0,0.0
+11110842640,The Kroger Co.,"Ralphs, Salted Sticks, Butter",5.99,Challenge® Salted Butter Sticks,49.3,Kroger API,714.0,0.0,0.0,78.6,0.6
+11110842626,The Kroger Co.,"Psst, Chicken Strips",13.99,Kroger® Crispy Chicken Strip,74.2,Kroger API,263.0,10.5,14.5,17.1,0.7
+11110842534,The Kroger Co.,Fresh Microwave Popcorn,2.99,Kroger® Original Butter Microwave Popcorn,70.9,Kroger API,466.7,10.0,53.3,30.0,0.4
+11110841858,"Simple Truth,  The Kroger Co.",Unsweetened Coconutmilk,1.99,Simple Truth® Unsweetened Vanilla Almond Milk,63.3,Kroger API,25.0,0.4,0.4,2.1,0.0
+11110841629,Kroger,Mini Cheese Sandwich Crackers,5.99,Kroger® Mini Cheese Sandwich Crackers,98.6,Kroger API,1890.0,25.5,217.0,102.0,0.0
+11110848598,Kroger,Super sweet corn tots,2.99,Kroger® Traditional Favorites Frozen Corn on the Cob Tots Super Sweet,37.1,Kroger API,105.9,3.5,22.4,0.6,0.0
+11110848444,Simple Truth Organic,Sparkling coconut water,11.99,Simple Truth Organic® Pulp Free Coconut Water BIG DEAL!,74.7,Kroger API,25.0,0.0,6.3,0.0,0.0
+11110847775,Kroger,Nacho cheese sauce,10.49,Kroger® Nacho Cheese Sauce,98.0,Kroger API,112.9,1.6,9.7,7.3,0.8
+51000205803,Campbell's,"Campbell'S, Homestyle, Spicy Vegetable Chili Soup",1.99,Campbell's® Homestyle™ Chicken Noodle Soup,60.0,Kroger API,70.8,3.3,12.5,0.6,0.2
+11110847379,Kroger,Long Grain Enriched Precooked Boil-In-Bag Rice,1.79,Kroger® Enriched Long Grain White Rice,52.7,Kroger API,352.0,7.4,79.6,0.0,0.0
+11110847263,Kroger,Enriched White Rice,1.79,Kroger® Enriched Long Grain White Rice,81.2,Kroger API,370.0,8.7,82.6,0.0,0.0
+11110846952,Simple Truth Organic,Guayas Tea Energy Beverage,2.79,Simple Truth Organic® Elderberry Herbal Tea,57.8,Kroger API,3.0,0.0,0.8,0.0,0.0
+11110846792,Kroger,Chicken Pot Pie,0.89,Smart Way™ Frozen Chicken and Vegetable Pot Pie,55.1,Kroger API,93.3,2.0,7.0,6.4,0.0
+11110846778,Kroger,Enriched white bread,1.19,Smart Way™ Enriched White Bread,75.9,Kroger API,269.0,7.7,50.0,2.9,0.5
+11110846563,Kroger,"Microwave Popcorn, Butter",2.99,Kroger® Movie Theater Butter Microwave Popcorn,62.3,Kroger API,364.0,9.1,69.7,6.1,0.9
+51000206534,Campbell's,Cheeseburger O'S Pasta In Meat Sauce,1.39,SpaghettiOs® Canned Pasta with Meatballs,39.1,Kroger API,79.0,3.2,11.1,2.4,0.2
+11110845856,Kroger,Savory Pot Roast Ready To Serve Soup,2.5,Campbell's® Chunky® Savory Pot Roast Soup,54.8,Kroger API,18.2,1.0,3.2,0.2,0.0
+11110853295,Kroger,Buffalo Style Popcorn Chicken,6.99,Kroger® Buffalo Style Chicken Flatbread,74.7,Kroger API,214.0,14.3,20.2,8.3,0.3
+11110853301,Kroger,Original Instant Oatmeal,1.79,Kroger® Original Instant Oatmeal,98.4,Kroger API,1400.0,51.0,242.0,25.5,0.0
+11110861801,Simple truth,"Unsalted Butter, Unsalted",8.49,Vital Farms Grass-Fed Unsalted Butter Sticks,51.9,Kroger API,714.0,0.0,0.0,78.6,0.0
+11110862556,Simple Truth,Sandwich Cookies,2.99,Simple Truth® Duplex Sandwich Cookies,87.9,Kroger API,444.0,3.7,74.1,18.5,0.4
+11110862402,Kroger,Original cream cheese spread,3.19,Kroger® Original Cream Cheese Spread,98.6,Kroger API,233.3,6.7,6.7,23.3,0.4
+11110862365,Kroger,Cream Cheese Spread,2.19,Kroger® Original Cream Cheese Spread,83.9,Kroger API,225.8,6.5,3.2,29.0,0.3
+11110862341,Kroger,Sloppy Joe Sandwich Sauce,1.29,Kroger® Sloppy Joe Sandwich Sauce Can,92.8,Kroger API,46.9,1.6,10.9,0.0,0.5
+11110862020,Kroger,Apple cider vinegar,1.49,Kroger® 5% Apple Cider Vinegar,92.9,Kroger API,125.0,0.7,25.8,0.6,0.1
+11110861641,Kroger,Oat Squares,5.49,Quaker® Brown Sugar Oatmeal Squares Cereal,56.7,Kroger API,709.0,19.1,140.0,8.0,0.0
+11110861207,Kroger,Arborio Rice,3.99,Kroger® Arborio Rice,97.4,Kroger API,733.0,14.8,163.0,2.5,0.0
+11110861191,Private Selection,Miniature Cream Puffs,6.99,Delizza Belgium Mini Cream Puffs,59.2,Kroger API,430.0,7.1,28.4,32.0,0.0
+11110860903,Kroger,Basmathi rice,1.5,Kroger® 90 Second Basmati Rice Pouch,67.9,Kroger API,356.0,8.9,77.8,0.0,0.0
+11110860569,Kroger,Long Grain Rice,3.79,Kroger® Long Grain Rice,97.8,Kroger API,770.0,14.8,178.0,0.0,0.0
+11110860293,Kroger,Long Grain Brown Rice,1.79,Kroger® Long Grain Brown Rice,98.2,Kroger API,837.0,19.8,173.0,7.4,0.0
+11110862563,Simple Truth,duplex sandwich cookies,2.99,Simple Truth® Duplex Sandwich Cookies,98.6,Kroger API,481.5,3.7,74.1,18.5,0.4
+11110862679,The Kroger Co.,"Hemisfares, Tomato And Basil Sauce",1.99,Kroger® Tomato Basil Pasta Sauce,62.5,Kroger API,72.0,1.6,4.0,5.6,0.4
+11110862976,Kroger,Hazelnut spread with breadsticks,2.69,Nutella & Go! Creamy Hazelnut with Cocoa Spread and Breadsticks,60.8,Kroger API,481.0,9.6,63.5,21.2,0.3
+11110862983,"Kroger,  The Kroger Co.",Cranberry Raspberry Juice,2.5,Kroger® Cranberry Raspberry Flavored Juice Cocktail,64.0,Kroger API,24.7,0.0,6.2,0.0,0.0
+11110864154,Kroger,"Kroger, cheese pizza, cheese",2.33,Kroger® Pizza Blend Shredded Cheese,47.1,Kroger API,245.0,8.8,33.3,8.8,0.3
+11110863799,Simple Truth,Gluten free vanilla flavored sandwich cookies,2.99,Simple Truth® Gluten Free Animal Crackers,68.7,Kroger API,500.0,3.6,71.4,21.4,0.3
+11110863751,Kroger,Coffee Creamer,5.29,Kroger® French Vanilla Coffee Creamer BIG DEAL!,61.8,Kroger API,1490.0,0.0,222.0,66.7,0.0
+11110863706,Simple Truth,Gluten free Chocolate Chip Cookies,5.99,Simple Truth® Gluten Free Non Dairy Chocolate Chip Cookie Dough,83.6,Kroger API,461.5,3.8,69.2,15.4,0.3
+11110863652,Kroger,Cinnamon Raisin Bread,3.49,Kroger® Cinnamon Raisin Bread,98.2,Kroger API,285.7,7.1,53.6,3.6,0.4
+51000201973,Campbell's,Vegetable Soup,1.99,Campbell’s® Condensed Vegetarian Vegetable Soup,66.7,Kroger API,45.8,1.7,9.2,0.2,0.3
+51000202727,Campbell's,Chicken With Rice,1.99,Campbell's Condensed Chicken and Rice Soup with White and Wild Rice,58.9,Kroger API,67.0,1.7,0.4,1.7,0.7
+11110863348,Simple Truth,Long Brown Rice,3.99,Simple Truth Organic® Long Grain Brown Rice,78.9,Kroger API,355.6,8.9,77.8,3.6,0.0
+11110863294,Simple Truth,Multigrain Rice Crackers,2.79,Simple Truth® Gluten Free Ancient Grains with Sea Salt Rice Crackers,66.7,Kroger API,433.0,6.7,80.0,10.0,0.0
+11110863188,"Kroger,  The Kroger Co.",Juice,4.99,Kroger® Pineapple Juice,57.7,Kroger API,71.0,0.4,16.7,0.0,0.0
+11110863171,"Kroger,  The Kroger Co.","Juice Cocktail, Cranberry",2.5,Kroger® Cranberry Juice Cocktail,62.5,Kroger API,54.0,0.0,14.2,0.0,0.0
+11110863065,Simple Truth Organic,Virgin Coconut Oil,6.49,Simple Truth Organic® Unrefined Virgin Coconut Oil,87.6,Kroger API,6430.0,0.0,0.0,714.0,0.0
+11110860255,Kroger,Grade Aa Extra Large Eggs,3.79,Kroger® Grade A Large White Eggs,78.1,Kroger API,233.0,22.3,0.0,15.9,0.0
+11110853318,Kroger,Apples & cinnamon instant oatmeal,1.79,Kroger® Naturally Flavored Apple & Cinnamon Instant Oatmeal,78.8,Kroger API,371.4,8.6,80.0,4.3,0.4
+11110854285,Kroger,Large Grade AA Eggs,2.59,Kroger® Grade A Large Eggs,76.9,Kroger API,2.0,0.0,0.0,10.0,0.1
+11110856777,Simple Truth Organic,Cinnamon Applesauce,3.99,Simple Truth Organic® Cinnamon Applesauce Cups,93.0,Kroger API,61.9,0.0,15.0,0.0,0.0
+11110856289,Kroger,Pure Corn Oil,5.49,Kroger® 100% Pure Corn Oil,87.0,Kroger API,6430.0,0.0,0.0,714.0,0.0
+11110856012,Kroger,Vegetable Oil,3.49,Kroger® 100% Pure Vegetable Oil,78.4,Kroger API,857.0,0.0,0.0,100.0,0.0
+11110855954,Private Selection,Harvest Whole Green Beans,2.29,Del Monte® harvest Selects Blue Lake Whole Green Beans,57.7,Kroger API,34.8,1.4,7.2,0.0,0.0
+11110860057,simple truth,organic yellow corn tortilla chips,2.99,Simple Truth Organic® Taqueria Style Yellow Corn Tortilla Chips,85.5,Kroger API,500.0,7.1,67.9,21.4,0.4
+11110854209,Kroger,Cookie Spread,3.99,Private Selection® Cookie Butter Creamy,44.1,Kroger API,1530.0,7.3,146.0,102.0,0.0
+11110854148,Kroger,Self rising enriched flour,3.29,Kroger® Bleached Self Rising Enriched Flour,86.8,Kroger API,333.3,10.0,73.3,0.0,1.2
+11110853738,Kroger,Salsa con Queso Cheese Dip,2.69,Kroger® Medium Salsa Con Queso Cheese Dip,89.2,Kroger API,132.0,2.9,8.8,8.8,0.8
+11110853707,Kroger,Beef Ravioli,4.79,Kroger® Beef Ravioli,97.4,Kroger API,137.0,5.7,20.9,3.3,0.0
+11110853479,Simple Truth,Powdered sugar,3.79,Simple Truth Organic® Powdered Sugar,85.7,Kroger API,400.0,0.0,100.0,0.0,0.0
+11110857088,Kroger,Tomato & Basil Pasta Sauce,1.99,Kroger® Tomato Basil Pasta Sauce,95.4,Kroger API,57.3,1.8,9.8,1.2,0.0
+11110857132,Simple Truth Organic,Cut Green Beans,1.5,Simple Truth Organic® Cut Green Beans,98.6,Kroger API,13.9,0.7,2.8,0.0,0.0
+11110857187,"Kroger,  The Kroger Co.",Iced coffee beverage,4.79,Kroger® French Vanilla Cappuccino Coffee Beverage Mix Pods,52.9,Kroger API,58.0,0.8,11.2,1.0,0.1
+11110859747,Simple Truth Organic,Cage Free Large Brown Eggs,5.29,Simple Truth Organic™ Cage Free Grade A Large Brown Eggs,91.3,Kroger API,276.0,24.0,0.0,20.0,0.0
+11110859570,Kroger,Mixed Beans,0.89,Kroger® Mixed Chili Beans in Mild Sauce,63.2,Kroger API,914.0,57.1,171.0,0.0,0.0
+11110859310,Kroger,Baby Lima Beans,1.49,Kroger® Southern Style Frozen Lima Beans Baby,56.7,Kroger API,947.0,57.1,180.0,0.0,0.0
+11110859082,"Kroger,  The Kroger Co.",Small Red Beans,2.29,Kroger® Small Red Beans,71.0,Kroger API,914.0,57.1,171.0,0.0,0.0
+11110858672,The Kroger Co.,Bean Soup Mix,1.25,Kroger® Bean with Bacon Condensed Soup,48.5,Kroger API,947.0,65.3,171.0,0.0,0.0
+11110858603,The Kroger Co.,Garden Zesty Garlic Chips,2.0,Kroger® Zesty Ranch Tortilla Chips,59.5,Kroger API,51.0,0.0,12.7,0.0,0.0
+11110858535,simple truth organic,Tomato Ketchup,2.59,Simple Truth Organic® Reduced Sugar & Sodium Tomato Ketchup,74.5,Kroger API,118.0,0.0,23.5,0.0,0.9
+11110858504,Kroger,Chunk Light Tuna in Water,0.99,Kroger® Less Sodium Wild Caught Chunk Light Tuna in Water,71.9,Kroger API,255.0,54.2,0.0,3.2,0.0
+11110858474,Simple Truth Organic,Angel Hair Organic Spaghetti Product,1.69,Simple Truth Organic™ Angel Hair Pasta,73.7,Kroger API,357.0,10.7,75.0,1.8,0.0
+11110858061,Kroger,Homestyle Pasta Sauce,2.79,Prego® Homestyle Alfredo Pasta Sauce Jar,70.6,Kroger API,57.6,1.8,9.2,1.5,0.0
+11110857835,Kroger,Butter Recipe Cake Mix Naturally Flavored,2.19,Betty Crocker Favorites Super Moist Butter Recipe Yellow Cake Mix,47.8,Kroger API,1080.0,6.6,204.0,26.3,0.0
+11110857576,Kroger,"Kroger, homestyle pasta sauce, parmesan & romano",1.99,Kroger® Parmesan & Romano Pasta Sauce,53.3,Kroger API,86.0,3.1,11.7,2.7,0.4
+11110857569,Kroger,Pasta Sauce,1.99,Kroger® Tomato Basil Pasta Sauce,72.0,Kroger API,55.5,1.8,7.9,1.8,0.0
+11110857552,Kroger,Home Style Pasta Sauce,2.49,Ragu® Old World Style® Traditional Pasta Sauce,56.0,Kroger API,60.1,1.8,9.8,1.5,0.0
+11110857484,Kroger,Water beverage,5.99,Kroger® Purified Bottled Water,47.1,Kroger API,17.0,0.0,4.5,0.0,0.0
+11110857446,Kroger,Chunky Green Pepper & Mushroom Pasta Sauce,1.99,Kroger® Mushroom & Green Pepper Chunky Pasta Sauce,70.7,Kroger API,55.2,1.8,8.6,1.5,0.3
+1111085735,Simple Truth,Organic Coconut Milk,2.99,Simple Truth Organic® Dairy Free Organic Shelf Stable Original Coconut Milk,61.1,Kroger API,185.0,1.5,3.1,18.5,0.0
+11110857323,Simple Truth Organic,Lite Coconut Milk,2.29,Simple Truth™ Organic Light Coconut Milk,94.9,Kroger API,61.5,0.0,1.5,6.2,0.0
+51000204721,Campbell's,Campbell's sauces pot roast,2.5,Campbell's® Chunky® Savory Pot Roast Soup,63.3,Kroger API,83.0,0.0,11.7,4.2,1.0
+11110993779,Kroger,turkey pepperoni,3.29,Kroger® Sliced Turkey Pepperoni,85.2,Kroger API,250.0,32.1,3.6,14.3,1.4
+51000181947,Campbell's,"Campbell'S, Vegetable Soup With Pasta",1.99,Campbell's® Condensed Vegetable Beef Soup,65.9,Kroger API,25.0,1.2,5.0,0.0,0.3
+51000182852,Campbell's,"Campbell'S, Homestyle Light Savory Chicken With Vegetables",2.5,Campbell's® Chunky® Savory Vegetable Soup,58.7,Kroger API,32.9,1.7,5.4,0.4,0.3
+11114084985,Simple truth organic,4 cheese pasta sauce,2.79,Simple Truth Organic Traditional Pasta Sauce,77.6,Kroger API,11.3,0.6,1.4,0.4,6.4
+11110998484,Private Selection,Beef Snacks Bites,6.99,Private Selection® Beef Snack Bites,97.1,Kroger API,1270.0,55.6,11.1,111.0,0.0
+11110993847,Simple Truth,Extra lean ground turkey breast,7.99,Simple Truth Organic® 93/7 Ground Turkey Tray 1 LB,68.1,Kroger API,107.0,24.1,0.0,0.9,0.0
+11110992079,Kroger,Southern Style Potato Salad,3.99,Kroger® Southern Style Potato Salad,98.6,Kroger API,134.0,1.0,15.3,7.6,0.0
+11110991904,Kroger,"Kroger, cole slaw, creamy",3.99,Kroger® Creamy Cole Slaw,70.4,Kroger API,108.0,0.8,6.1,8.6,0.2
+11110990280,Kroger,White Corn Tortillas,1.99,Kroger® White Corn Tortillas,98.2,Kroger API,222.0,4.4,44.4,2.2,0.0
+11110990167,Kroger,Cajun Style Chicken Breast With Rib Meat,5.0,Kroger® Boneless Skinless Uncooked Chicken Breast With Rib Meat Thin-Sliced,63.9,Kroger API,118.0,19.1,3.2,3.2,0.0
+11110980274,Private Selection,Steamed Clams,6.99,SeaPak Crunchy Breaded Clam Strips,46.2,Kroger API,31.4,3.1,1.3,1.5,0.0
+11110979964,Kroger,Fresh Ground Turkey Patties,4.49,Kroger® 85/15 Fresh Ground Turkey Tray 1 LB,72.7,Kroger API,179.0,14.3,0.0,13.6,0.0
+11110979773,Kroger,Kroger Ground Beef 93/7,9.49,Kroger® 93/7 Ground Beef Tray 1 LB,62.5,Kroger API,151.8,20.5,0.0,7.1,0.1
+11110979438,Simple Truth,Natural Beef Burger,11.99,Simple Truth® 100% Grass-Fed Natural Beef Burgers,79.0,Kroger API,252.0,18.5,0.0,19.9,0.1
+11110979223,Kroger,100% pure beef- Groubd Beef,8.99,Kroger® 100% Pure Beef Quarter Pound Burgers,74.4,Kroger API,312.5,15.2,0.0,27.7,0.1
+11110979094,"Kroger,  The Kroger Co.",Breakfast Sausage,2.99,Kroger® Original Breakfast Sausage Links,66.7,Kroger API,568.0,38.3,3.2,44.6,0.0
+51000174345,Campbell's,"Campbell'S, Condensed Lentil Soup",1.25,Campbell's® Condensed Tomato Soup,71.1,Kroger API,100.0,5.0,18.3,0.8,0.7
+51000174321,Campbell's,"Campbell'S, Italian-Style Wedding Condensed Soup",2.5,Campbell’s® Chunky® Healthy Request® Split Pea and Ham Soup with Smoke Flavor,26.7,Kroger API,66.7,2.5,10.0,1.7,0.4
+11110969903,Simple Truth Organic,Ground Turkey,5.49,Simple Truth® 93/7 Natural Ground Turkey Tray 1 LB,69.0,Kroger API,134.0,18.8,0.0,6.2,0.0
+51000149824,Campbell's,Chicken & Mini Round Noodles Soup,2.19,Campbell's® Sipping Soup Chicken & Mini Round Noodle Soup Microwavable Cup,72.9,Kroger API,20.3,1.0,2.4,0.7,0.3
+51000150066,Campbell's Chunky,Chicken And Sausage Gumbo,2.5,Campbell’s® Chunky® Healthy Request Chicken and Sausage Gumbo Soup,77.1,Kroger API,58.3,2.5,8.3,1.5,0.3
+51000153180,Campbell's,100% original vegetable juice,4.49,Campbell's® 100% Tomato Juice Bottle,65.8,Kroger API,17.6,0.9,3.8,0.0,0.3
+51000154453,Campbell's,Spaghettios Meatballs,2.0,Campbell's® SpaghettiOs® Canned Pasta with Meatballs,76.2,Kroger API,94.8,4.4,12.7,2.8,0.2
+51000173430,Campbell's,"Mexican-Style Chicken Tortilla Soup, Mexican-Style Chicken Tortilla",1.99,Campbell's® Homestyle™ Mexican-Style Chicken Tortilla Soup,68.1,Kroger API,50.0,2.9,7.1,0.8,0.2
+51000159045,Campbell's Chunky,Cambell's Chunky Chili w/ Beans,2.99,Campbell's® Chunky™ Chili With Beans Microwavable Bowl,60.2,Kroger API,100.0,5.6,12.1,3.3,0.3
+51000160263,Campbell's,"Campbell'S, Hold The Beans Beef Chili",2.99,Campbell's® Chunky™ Chili With Beans Microwavable Bowl,53.5,Kroger API,117.0,7.5,6.7,6.7,0.3
+51000161505,Campbell's,Campbell's condensed soup pasta,1.99,Campbell's® Condensed Kids Soup Disney Princess Cool Shapes Pasta With Chicken in Broth Can,45.1,Kroger API,50.0,1.7,7.5,1.7,0.4
+51000166807,Campbell's,25% Less Sodium Chicken Noodle Soup,1.99,Campbell's® Condensed 25% Less Sodium Chicken Noodle Soup,89.3,Kroger API,20.3,1.0,3.0,0.5,0.2
+51000167750,Campbell's,CHICKEN NOODLE SOUP,1.25,Campbell's® Condensed Chicken Noodle Soup,84.5,Kroger API,100.0,6.7,11.2,2.9,0.4
+51000167767,Campbell's,Campbell's chunky soup vegetable beef,2.5,Campbell's® Chunky® Old Fashioned Vegetable Beef Soup,69.3,Kroger API,50.0,3.1,7.5,0.8,0.2
+11136644,Private Selection,Provolone Sliced Cheese,8.99,Private Selection® Grab and Go Provolone Cheese Deli Sliced,68.0,Kroger API,364.0,27.3,0.0,27.3,0.4
+51000167804,Campbell's,Chunky savory vegetable soup,2.5,Campbell's® Chunky® Savory Vegetable Soup,97.5,Kroger API,92.0,2.8,19.6,0.4,0.3
+51000173355,Campbell's,"Classic Chicken Noodle Soup, Classic Chicken Noodle",2.5,Campbell's® Chunky® Classic Chicken Noodle Soup Can,75.0,Kroger API,45.8,2.9,5.8,1.0,0.2
+11110978790,Private Selection,Butcher Selected Prime Rib Beef Patties,14.99,Private Selection® Butcher Selected Prime Rib Beef Patties,99.1,Kroger API,278.0,15.9,0.7,23.2,0.5
+11110978721,Kroger,Chicken party wings,13.99,Kroger® Raw Frozen Bone In Skin On Chicken Wings Party Size,51.8,Kroger API,196.0,17.0,0.0,14.3,0.2
+11110978615,Kroger,CHICKEN THIGHS,8.99,Kroger® Frozen Raw Boneless Skinless Chicken Thighs,58.3,Kroger API,125.0,14.3,0.0,8.0,0.2
+11110972729,Kroger,Mild Italian Ground Sausage,3.99,Kroger® Mild Ground Italian Sausage,78.3,Kroger API,270.6,16.5,1.2,22.4,0.7
+11110972651,Kroger,Beer Bratwurst Sausage,4.99,Kroger® Beer Bratwurst,82.4,Kroger API,295.0,17.9,5.1,23.1,0.9
+11110972613,Kroger,Classic Bratwurst Sausage,4.99,Kroger® Classic Bratwurst,84.2,Kroger API,308.0,17.9,5.1,23.1,0.0
+11110972606,Kroger,Mild italian sausage,3.99,Kroger® Mild Ground Italian Sausage,87.1,Kroger API,307.7,17.9,6.4,23.1,1.0
+11110972583,Kroger,Traditional Bacon,3.99,Kroger® Fully Cooked Natural Smoke Traditional Bacon,63.2,Kroger API,500.0,27.8,0.0,44.4,1.3
+11110972095,Kroger,Thick Cut Sugar Cured Bacon,4.99,Kroger® Thick Cut Naturally Hardwood Smoked Bacon,69.9,Kroger API,455.0,36.4,0.0,36.4,2.0
+11110972057,Kroger,Fully cooked traditional bacon,3.99,Kroger® Fully Cooked Natural Smoke Traditional Bacon,83.1,Kroger API,533.0,33.3,0.0,40.0,2.1
+11110971944,Kroger,Sliced canadian bacon,3.29,Kroger® Sliced Canadian Bacon,98.2,Kroger API,105.3,17.5,1.8,2.6,0.8
+11110971913,Kroger,Naturally Hardwood Smoked Bacon,4.99,Kroger® Naturally Hardwood Smoked Bacon,98.7,Kroger API,471.0,29.4,0.0,41.2,1.8
+11110971906,Kroger,Bacon,4.99,Kroger® Naturally Hardwood Smoked Bacon,47.1,Kroger API,467.0,46.7,0.0,26.7,1.8
+11110971296,Simple Truth,Pork Sausage Patties,4.29,Simple Truth™ Traditional Breakfast Pork Sausage Patties,74.2,Kroger API,215.0,23.1,1.5,12.3,0.7
+11110978097,Kroger,Roast Beef,4.49,Kroger® Roast Beef Traditional Deli Thin Sliced,53.1,Kroger API,107.0,19.6,0.0,3.6,0.6
+11110970978,Simple Truth,Smoked Sliced Uncured Canadian Bacon,6.29,Simple Truth® Thick Sliced Uncured Hardwood Smoked Bacon,72.4,Kroger API,190.0,34.0,3.1,4.6,0.0
+11110970459,Kroger,Pork Sausage,3.49,Kroger® Mild Pork Sausage Roll,77.6,Kroger API,308.0,18.5,3.1,24.6,1.0
+11110970442,Kroger,"Kroger, pork sausage patties, maple",2.99,Kroger® Maple Pork Sausage Patties,78.4,Kroger API,308.0,18.5,6.2,23.1,1.0
+11110970404,Simple Truth Organic,Traditional Breakfast Sausage Links,4.29,Simple Truth™ Traditional Breakfast Sausage Links,91.4,Kroger API,218.0,23.6,1.8,12.7,1.0
+11110970381,Kroger,Sweet ground italian sausage,3.99,Kroger® Sweet Ground Italian Sausage,98.6,Kroger API,303.6,17.9,7.1,23.2,1.0
+11110970343,Kroger,Ham Steaks,3.5,Kroger® Ham Steaks,97.1,Kroger API,106.0,16.5,3.5,2.9,1.1
+51000187680,Campbell's,"Campbell'S, Chicken Noodle Condensed Soup",1.25,Campbell's® Condensed Chicken Noodle Soup,73.9,Kroger API,58.3,2.5,9.2,1.7,0.7
+11110972743,Kroger,Country Pork Ground Sausage,3.99,Kroger® Country Pork Ground Sausage,98.6,Kroger API,304.0,17.9,5.4,23.2,0.0
+11110972934,Kroger,Traditional Pork Sausage,2.99,Kroger® Traditional Pork Sausage Patties,87.3,Kroger API,309.0,18.2,3.6,23.6,1.0
+11110972989,Kroger,Mild pork sausage roll,3.49,Kroger® Mild Pork Sausage Roll,98.3,Kroger API,333.3,21.1,0.0,26.3,0.7
+11110978066,Kroger,Deli Thin Sliced Honey Turkey Breast,6.79,Kroger® Oven Roasted Turkey Breast and Uncured Honey Ham Variety Pack Deli Thin Sliced BIG DEAL!,38.8,Kroger API,107.0,17.9,7.1,0.9,0.8
+11110978059,Kroger,Mesquite Smoked Turkey Breast,4.49,Kroger® Turkey Breast Mesquite Smoked Deli Thin Sliced,55.6,Kroger API,167.0,28.3,6.3,3.2,0.0
+11110977724,Private Selection,Top Sirloin Steak,11.99,Private Selection® Natural USDA Choice Angus Beef Top Sirloin Steak,68.6,Kroger API,221.0,20.0,0.0,15.0,0.0
+11110977625,Kroger,Sausage Links,2.99,Kroger® Original Breakfast Sausage Links,66.7,Kroger API,894.0,24.7,9.9,84.0,0.0
+11110977601,Kroger,Turkey Sausage Links,4.49,Johnsonville Turkey Cheddar Smoked Sausage Links,61.3,Kroger API,378.0,39.5,4.9,22.2,0.0
+11110977502,Kroger,Real bacon bits,2.29,Kroger® Real Bacon Bits,97.8,Kroger API,357.1,42.9,0.0,21.4,2.4
+11110976499,Simple Truth,Ground Beef,9.99,Simple Truth Organic® 90/10 Grass Fed Ground Beef Pack 1 LB,57.8,Kroger API,168.0,20.4,0.0,8.8,0.1
+11110975690,Kroger,Ground Chuck Beef,7.49,Private Selection® Premium Blend Chuck & Brisket Ground Beef,40.5,Kroger API,221.0,14.8,0.0,17.9,0.0
+11110975669,Private Selection,Angus ground beef lean,7.99,Private Selection™ Angus 80/20 Lean Ground Beef,80.5,Kroger API,212.4,18.6,0.0,15.0,0.1
+11110975287,The Kroger Co.,Ground Beef Carne molina,4.99,Kroger® 80/20 Ground Beef Tray 1 LB,62.2,Kroger API,152.0,20.5,0.0,7.1,0.1
+51000186522,Campbell's,"Zesty Tomato Bisque Soup, Zesty Tomato Bisque",1.99,Campbell's Condensed Tomato Bisque Soup,63.8,Kroger API,45.8,1.2,7.9,0.8,0.3
+11110974426,The Kroger Co.,White Turkey,2.5,Kroger® Turkey Sausage Egg White Scramble Breakfast Bowl,36.1,Kroger API,376.0,38.2,12.7,19.1,0.0
+11110974358,Kroger,Teriyaki Seasoned Pork Tenderloin,7.0,Kroger® Teriyaki Seasoned Pork Filet,81.6,Kroger API,149.0,18.3,13.6,2.4,0.0
+11110973085,Kroger,Thin sliced chicken breast cutlets,9.49,Kroger® Frozen Raw Thinly Sliced Boneless Skinless Chicken Breast Cutlets,71.9,Kroger API,98.2,20.5,0.0,1.3,0.2
+51000142986,Campbell's,"Potato Broccoli Cheese Soup, Potato Broccoli Cheese",1.67,Campbell's® Condensed Broccoli Cheese Soup,64.1,Kroger API,70.8,1.2,6.7,4.2,0.3
+51000142931,Campbell's Chunky,Creamy Chicken & Dumplings,2.99,Campbell's® Chunky® Creamy Chicken & Dumplings Soup Microwavable Bowl,77.9,Kroger API,77.1,3.3,6.0,4.4,0.4
+51000142924,Campbell's,Campbell's soup beef,2.5,Campbell's® Chunky® Old Fashioned Vegetable Beef Soup,47.6,Kroger API,50.0,2.5,8.3,0.8,0.3
+328463302326,Tillamook,Strawberry Banana,0.8,Yoplait Original Low Fat Mixed Berry Yogurt Cup,27.0,Kroger API,82.4,3.5,10.6,1.2,0.0
+75620558651,Tyson,All natural fresh boneless skinless chicken thighs,4.49,Tyson® All Natural Fresh Boneless Skinless Chicken Thighs,99.1,Kroger API,142.0,16.8,0.0,8.8,0.1
+75620556695,Tyson,Ground chicken,4.99,PERDUE® No Antibiotics Ever Fresh Ground Chicken,50.0,Kroger API,134.0,17.9,0.0,7.1,0.1
+75620556190,Tyson,Premium Boneless Skinless Chicken Breasts,13.99,Tyson® Boneless Skinless Chicken Breasts,89.7,Kroger API,101.0,22.0,0.0,1.2,0.1
+826766169207,Kroger,Buffalo Style Chicken Dip,4.99,Kroger® Medium Buffalo Style Chicken Dip,88.9,Kroger API,200.0,12.0,4.0,14.0,1.0
+826766149117,Kroger,Chipotle Cheddar Chicken Wrap,6.0,Deli Kitchen Chipotle Cheddar Chicken Wrap,82.1,Kroger API,124.0,5.0,11.6,6.2,0.3
+508290015891,Chobani,S’more Coffee Creamer,4.5,Chobani Sweet Cream Coffee Creamer,82.5,Kroger API,267.0,0.0,33.3,10.0,0.0
+50830302287,Tillamook,Chive and Onion Creamcheese,4.59,Philadelphia Chive & Onion Cream Cheese Spread,69.9,Kroger API,323.0,6.4,9.7,29.0,0.4
+51000011114,Campbell's,Soup beef vegetable & barley,1.99,Campbell's® Condensed Beef With Vegetables and Barley Soup,68.0,Kroger API,83.0,3.3,15.0,0.8,0.7
+51000000118,Campbell's,Tomato Soup,1.25,Campbell's® Condensed Tomato Soup,80.0,Kroger API,75.0,1.7,16.7,0.0,0.4
+51000005519,Campbell's,Chunky soup,2.5,Campbell's® Chunky® Classic Chicken Noodle Soup Can,60.3,Kroger API,41.7,1.2,8.3,0.2,0.3
+51000005564,Campbell's,Chunky sirloin burger with country vegetables soup,2.5,Campbell’s® Chunky® Healthy Request Soup Sirloin Burger with Country Vegetables Beef Soup Can,77.9,Kroger API,54.4,2.4,7.3,1.7,0.3
+51000005687,Campbell's Chunky,Steak and Potato Soup,2.5,Campbell's® Chunky® Steak & Potato Soup,92.3,Kroger API,46.9,2.4,6.9,1.1,0.3
+51000006844,Campbell's,Chicken Broth Low Sodium Soup,1.99,Campbell's® Condensed 25% Less Sodium Chicken Noodle Soup,55.7,Kroger API,10.1,1.0,0.3,0.3,0.0
+51000010360,Campbell's,Campbell's cream of chicken,1.25,Campbell's® Condensed Cream of Chicken Soup,76.5,Kroger API,83.3,1.7,7.5,5.0,0.6
+51000010476,Campbell's,Beef Consommé,1.67,Campbell's® Condensed Beef Consomme Soup,71.9,Kroger API,20.8,4.2,0.8,0.0,0.6
+51000010513,Campbell's,Chicken with Rice Soup,1.99,Campbell's Condensed Chicken and Rice Soup with White and Wild Rice,56.0,Kroger API,66.7,1.7,10.8,1.7,0.7
+7562056813,Tyson,Chicken Livers,2.19,Heritage Farm® Natural Chicken Gizzards,47.5,Kroger API,107.0,17.0,0.0,4.5,0.1
+75620568131,Tyson,"All Natural, Chicken Liver",2.19,Heritage Farm® Chicken Livers,60.0,Kroger API,93.0,16.1,0.0,3.8,0.1
+75620596486,Tyson,Chicken wingettes,5.99,Tyson Frozen Popcorn Chicken,51.0,Kroger API,196.4,14.3,0.0,15.2,0.1
+210130010996,Kroger,Parmesan Chicken Breast Cutlet,9.49,Kroger® Frozen Raw Thinly Sliced Boneless Skinless Chicken Breast Cutlets,60.0,Kroger API,204.0,21.1,6.3,9.9,0.2
+210373204923,Kroger,Boneless Diced Pork,1.99,Kroger® Fresh Natural Pork Loin Boneless,45.5,Kroger API,194.0,19.4,0.0,12.3,0.0
+812071035597,Home chef,"Sweet Potato Souffle, Sweet Potato",7.99,Home Chef Heat & Eat Maple Pecan Mashed Sweet Potatoes,47.4,Kroger API,179.0,2.9,30.0,5.7,0.0
+812071038819,Home Chef,Fettuccine Alfredo With Chicken 397g Pack,8.99,Home Chef Chicken Fettuccine Alfredo,64.4,Kroger API,312.0,18.0,35.6,10.7,0.5
+812071039755,Home chef,Grilled chicken with bbq sauce,8.99,Home Chef Heat And Eat Grilled Chicken with BBQ Sauce And Mashed Potatoes,70.8,Kroger API,105.0,8.7,13.6,2.0,0.4
+211009023413,Private Selection,Beef Brisket,12.99,Private Selection® Natural Angus Beef Brisket with Salt and Pepper,62.5,Kroger API,273.0,15.0,0.0,22.9,0.1
+978270,Oscar Mayer,Natural original smoked uncured bacon,8.99,Oscar Mayer Original Center Cut Bacon,72.1,Kroger API,150.0,15.0,0.0,7.5,0.6
+7572540,Chobani,Yogurt,3.49,Chobani® Vanilla with Mixed Berry Low Fat Greek Yogurt Cups,38.4,Kroger API,73.7,10.5,4.7,1.6,0.1
+213584009622,Private Selection,Duroc Pork Butt,4.49,Private Selection® Natural Duroc Pork Shoulder Roast Boneless,63.8,Kroger API,185.0,17.6,0.0,12.3,0.1
+531269,Barilla,Whole Grain Spaghetti,1.99,Barilla Whole Grain Spaghetti Non-GMO and Kosher Pasta Made With Whole Wheat,55.2,Kroger API,321.4,14.3,69.6,2.7,0.0
+826766871278,Kroger,Green Goddess Salad with Chicken & Bacon,6.0,Deli Kitchen Green Goddess Salad With Chicken and Bacon,82.4,Kroger API,130.0,6.3,3.7,10.0,0.2
+826766250103,Kroger,American Cheese,2.5,Kroger® Singles American Sliced Cheese,73.3,Kroger API,381.0,19.0,0.0,33.3,1.3
+75620619895,Tyson,Chicken Leg Quarters,7.99,Heritage Farm® Bone In Skin On Chicken Leg Quarters,64.9,Kroger API,259.0,15.2,0.0,22.3,0.1
+75620609568,Tyson,All Natural Chicken Wing Sections,9.99,Tyson® All Natural Chicken Wing Sections,98.7,Kroger API,214.0,16.1,0.0,17.0,0.1
+51000010551,Campbell's,"Condensed Soup, Chicken With Rice",1.99,Campbell's Condensed Chicken and Rice Soup with White and Wild Rice,67.3,Kroger API,66.7,1.7,11.7,1.7,0.7
+51000011510,Campbell's,Condensed Vegetarian Vegetable Soup,1.99,Campbell’s® Condensed Vegetarian Vegetable Soup,96.8,Kroger API,66.7,2.5,14.2,0.4,0.5
+51000069597,Campbell's Chunky,CHICKEN BROCCOLI CHEESE WITH POTATO,2.5,Campbell’s® Chunky® Soup Chicken Broccoli Cheese Soup,79.2,Kroger API,89.6,2.9,7.5,5.4,0.4
+51000038135,Campbell's Chunky,Chicken Corn Chowder,2.5,Campbell’s Chunky Soup Chicken Corn Chowder Soup,86.0,Kroger API,79.0,2.5,8.3,3.8,0.4
+51000038852,Campbell's Chunky,Classic Chicken Noodle Soup,2.5,Campbell's® Chunky® Classic Chicken Noodle Soup Can,93.8,Kroger API,54.2,4.0,6.2,1.5,0.4
+51000038869,Campbell's,"Campbell'S, Chicken Noodle Soup",1.25,Campbell's® Condensed Chicken Noodle Soup,82.9,Kroger API,48.9,2.6,6.9,1.3,0.3
+51000049377,Campbell's,Campbellscondensed cream of broccoli soup,1.67,Campbell's® Condensed Broccoli Cheese Soup,72.3,Kroger API,75.0,0.8,7.5,4.2,0.7
+51000059772,Campbell's,Cream of Chicken Soup,1.25,Campbell's® Condensed Cream of Chicken Soup,85.3,Kroger API,58.3,1.7,7.5,2.1,0.3
+51000060075,Campbell's,Condensed soup cream of mushroom,1.25,Campbell's® Condensed Cream of Mushroom Soup,87.4,Kroger API,58.3,1.0,8.3,2.1,0.3
+51000061874,Campbell's,Condensed vegetable beef soup,1.99,Campbell's® Condensed Vegetable Beef Soup,98.8,Kroger API,66.7,3.3,12.5,0.8,0.3
+51000061973,Campbell's,Campbell's soup chicken & rice,1.99,Campbell'S Condensed 25% Less Sodium Chicken And Rice Soup,66.7,Kroger API,67.0,1.7,10.8,1.7,0.3
+51000065698,Campbell's,Campbell's soup cream of celery,1.67,Campbell's® Condensed Cream of Celery Soup,71.4,Kroger API,50.0,0.8,8.3,1.7,0.3
+21300051837,Tyson,Rotisserie Chicken Breast Strips,9.49,Tyson Frozen Grilled Chicken Breast Strips,85.0,Kroger API,131.0,20.2,2.4,4.2,0.5
+51000011619,Campbell's,Condensed Cream of Celery Soup,1.67,Campbell's® Condensed Cream of Celery Soup,98.8,Kroger API,83.3,0.8,6.7,5.8,0.7
+51000100610,Campbell's,Turkey Gravy,1.59,Campbell's® Turkey Gravy Can,90.2,Kroger API,50.0,1.7,6.7,1.7,0.5
+51000115515,Campbell's,Campbell's soup cream mushroom-ff,1.25,Campbell's® Condensed Cream of Mushroom Soup,65.9,Kroger API,41.7,0.8,7.5,2.1,0.6
+51000115539,Campbell's,Campbell's soup cream chicken-ff,1.25,Campbell's® Condensed Cream of Chicken Soup,65.1,Kroger API,52.1,1.7,7.0,2.2,0.7
+51000121318,Campbell's,Campbell'S Soup Broccoli Cheese-Ff,1.67,Campbell's® Condensed Broccoli Cheese Soup,69.0,Kroger API,66.7,1.7,9.2,2.1,0.6
+51000121653,Campbell's,Chicken Gravy,1.59,Campbell's® Chicken Gravy,98.0,Kroger API,25.0,1.7,5.0,0.0,0.5
+51000128683,Campbell's,New England Clam Chowder Soup,2.5,Campbell's® Chunky® Soup New England Clam Chowder Can,77.4,Kroger API,75.0,2.5,7.1,4.2,0.3
+51000132727,Campbell's,Chunky Hearty Beef Barley Soup,2.5,Campbell’s® Chunky® Soup Hearty Beef and Barley Soup Can,82.5,Kroger API,57.9,3.3,10.0,0.4,0.3
+51000134622,Campbell's,"Vegetable Soup Made With Beef Stock, Vegetable",1.99,Campbell's® Condensed Vegetable Soup With Beef Stock,74.1,Kroger API,42.1,0.4,9.2,0.2,0.3
+51000137364,Campbell's,Soup tomato,1.25,Campbell's® Condensed Tomato Soup,69.1,Kroger API,44.0,1.0,9.5,0.2,0.2
+51000029515,Campbell's,Pork & Beans,1.99,Campbell's® Condensed Vegetable Beef Soup,53.1,Kroger API,100.0,3.8,20.0,0.8,0.3
+51000025784,Campbell's,"Campbell'S, Chicken Gravy",1.59,Campbell's® Chicken Gravy,80.0,Kroger API,66.7,0.0,5.0,5.0,0.4
+51000025562,Campbell's,Campbell's gravy pork,1.25,Campbell's® Condensed Cream of Mushroom Soup,39.5,Kroger API,58.3,0.8,6.7,2.5,0.5
+51000011770,Campbell's,French Onion Soup,1.67,Campbell's® Condensed French Onion Soup,83.6,Kroger API,58.3,1.7,10.0,0.8,0.6
+51000012210,Campbell's,Beef Noodle,4.49,Campbell's Slow Kettle Style Roasted Chicken Noodle Soup with White Meat Chicken,39.2,Kroger API,58.3,4.2,7.5,1.2,0.7
+510000126160,Campbell's,Vegetable Beef Condensed Soup,1.99,Campbell's® Condensed Vegetable Beef Soup,74.1,Kroger API,75.0,3.3,12.5,0.8,0.8
+51000012913,Campbell's,Bean with bacon condensed soup,1.99,Campbell's® Condensed Bean With Bacon Soup,74.7,Kroger API,133.3,5.8,21.7,2.5,0.7
+51000012937,Campbell's,Tomato Juice,4.49,Campbell's® 100% Tomato Juice Bottle,78.0,Kroger API,20.6,0.9,4.1,0.0,0.3
+51000014771,Campbell's,"Campbell'S, Cheddar Cheese Condensed Soup",1.67,Campbell's® Condensed White Cheddar Cheese Soup,69.4,Kroger API,83.3,0.8,11.7,4.2,0.7
+51000015419,Campbell's,Chicken & Starts,1.99,Campbell's® Condensed Chicken and Stars Soup,62.0,Kroger API,58.3,2.5,8.3,1.2,0.7
+51000015952,Campbell's,"Campbell'S, Turkey Gravy",1.59,Campbell's® Turkey Gravy Can,74.2,Kroger API,41.7,1.7,5.0,1.7,0.4
+51000016171,Campbell's,Campbell's soup cream onion,1.67,Campbell's® Condensed Cream of Onion Soup,65.8,Kroger API,100.0,0.8,10.0,5.8,0.7
+51000016218,Campbell's,Condensed Chicken NoodleO’s Soup,5.49,Campbell's® Condensed Homestyle Chicken Noodle Soup,85.1,Kroger API,67.0,2.5,10.0,1.7,0.4
+51000016607,Campbell's,"Vegetable Medley Soup, Vegetable Medley",2.5,"Birds Eye Steamfresh Asian Vegetable Medley, Frozen Vegetables",59.5,Kroger API,37.9,1.2,7.5,0.2,0.3
+51000017154,Campbell's,Low Sodium Chicken with Noodles,1.99,Campbell's® Condensed 25% Less Sodium Chicken Noodle Soup,70.7,Kroger API,50.0,2.1,5.8,2.1,0.1
+51000017673,Campbell's,Campbells condensed beefy mushroom soup,1.67,Campbell's® Condensed Beefy Mushroom Soup,87.9,Kroger API,41.7,2.5,5.0,1.7,0.8
+51000018755,Campbell's,"Minestrone Soup, Minestrone",2.5,Campbell's® Chunky Minestrone with Italian Sausage Soup,56.5,Kroger API,42.1,1.7,7.5,0.4,0.3
+51000020253,Campbell's,Campbell'S Beverage Tomato,4.49,Campbell's® 100% Tomato Juice Bottle,49.3,Kroger API,20.8,0.8,4.2,0.0,0.3
+51000021410,Campbell's,Campbellscondensed golden mushroom soup,1.67,Campbell's® Condensed Golden Mushroom Soup,89.1,Kroger API,75.0,1.7,9.2,2.5,0.6
+51000024022,Campbell's,chicken ala king,1.59,Campbell's® Chicken Gravy,76.9,Kroger API,87.2,4.0,5.4,5.4,0.4
+51000025128,Campbell's,"Campbell'S, Spaghetti In Tomato Sauce With Cheese",2.0,Campbell's® SpaghettiOs® Canned Pasta with Meatballs,59.5,Kroger API,79.0,2.8,15.9,0.6,0.4
+11110969583,Simple Truth,Natural ground turkey patties,10.99,Simple Truth® 93/7 Natural Turkey Burgers,72.3,Kroger API,133.9,17.9,0.0,7.1,0.1
+11110896582,Kroger,Roasted Redskin Potatoes,3.49,Kroger® Sea Salt & Cracked Black Pepper Roasted Redskin Potatoes,65.3,Kroger API,129.0,2.4,21.2,4.1,0.4
+11110896346,Kroger,Dry Large Lima Beans,2.49,Kroger® Large Lima Beans,90.2,Kroger API,343.0,22.9,62.9,0.0,0.0
+11110895905,Kroger,Whole Baby Corn,3.59,Reese® Whole Spears Baby Corn On The Cob,58.1,Kroger API,19.0,1.2,3.6,0.0,0.0
+11110895691,Simple Truth,Almondmilk,2.69,Simple Truth® Plant Based Non Dairy Unsweetened Almondmilk Half Gallon,49.5,Kroger API,12.0,0.4,0.4,1.0,0.1
+11110895295,"Kroger,  The Kroger Co.",Sausage & Pancake,12.99,Jimmy Dean® Pancakes and Sausage on a Stick Frozen Breakfast,33.7,Kroger API,183.0,6.0,20.8,8.4,0.0
+11110895080,Kroger,Sausage egg & cheese croissant sandwiches count,10.99,Kroger® Sausage Egg and Cheese Croissant Breakfast Sandwich,79.6,Kroger API,300.0,10.0,23.8,20.0,0.7
+11110894465,Kroger,All Natural Fresh Mozzarella Cheese,4.99,BelGioioso Fresh Mozzarella Cheese,65.8,Kroger API,819.0,50.4,12.6,63.0,0.0
+11110894267,Kroger,Hamburger Dill chips oval cut,2.69,Kroger® Hamburger Dill Oval Cut Pickle Chips,75.0,Kroger API,14.3,0.0,3.6,0.0,0.8
+11110894199,simple truth organic,CHILI BEANS,1.0,Simple Truth Organic® Pinto Chili Beans in Chili Sauce,74.4,Kroger API,65.1,4.1,11.8,0.0,0.2
+11110893406,Simple Truth Organic,Free range hard boiled eggs,2.49,Simple Truth Organic® Frozen Kale Chopped,67.4,Kroger API,136.0,13.6,2.3,9.1,0.1
+11110892577,Kroger,Old fashioned bread & butter pickle chunks,3.79,Mt. Olive Old Fashion Sweet Bread & Butter Pickle Chips,78.8,Kroger API,107.1,0.0,25.0,0.0,0.6
+51000199249,Campbell's,"Campbell'S, Skillet Sauces, Sesame Chicken, Sesame Chicken",1.59,Campbell's® Mushroom Gravy,26.1,Kroger API,66.7,1.7,15.0,0.0,0.6
+11110969484,Kroger,Ground Round Beef With Natural Flavors,6.99,Kroger® 80/20 Ground Beef Roll 1 LB,57.5,Kroger API,185.0,16.4,0.0,13.3,0.0
+11110902252,Simple Truth Organic,Organic low sodium popcorn,2.29,Simple Truth Organic® Low Sodium Popcorn,89.7,Kroger API,545.5,9.1,54.5,31.8,0.3
+11110901385,Kroger,Flame broiled meatballs,6.79,Kroger® Homestyle Meatballs,73.7,Kroger API,235.3,16.5,8.2,15.3,0.7
+11110901361,Simple Truth Organic,Brown rice,2.79,Simple Truth Organic® 100% Whole Grain Brown Rice & Ancient Grains with Black Pepper,53.9,Kroger API,220.0,6.0,46.0,1.5,0.2
+11110901217,Kroger,Pure sesame oil,4.99,Kroger® Pure Sesame Oil,97.8,Kroger API,866.7,0.0,0.0,93.3,0.0
+11110900159,Kroger,Italian style turkey meatballs,6.79,Kroger® Italian Style Meatballs,88.2,Kroger API,188.2,20.0,4.7,11.8,0.5
+11110900128,Private Selection,andouille smoked sausage,4.29,Private Selection® Naturally Hardwood Smoked Andouille Sausage,67.3,Kroger API,303.6,14.3,1.8,26.8,1.0
+11110899873,Simple Truth Organic,Peanut butter powder,4.99,Simple Truth Organic® Powdered Peanut Butter,80.0,Kroger API,50.0,4.0,7.0,1.0,0.0
+11110898814,Kroger,Thai jasmine rice,3.99,Kroger® Jasmine Rice,86.4,Kroger API,333.0,6.7,77.8,0.0,0.0
+11110897268,Kroger,Crinkle Cut Carrots,1.79,Kroger® Traditional Favorites Frozen Carrots Crinkle Cut,43.9,Kroger API,35.3,0.0,8.2,0.0,0.1
+11110898753,Kroger,Enriched long grain rice,1.79,Kroger® Enriched Long Grain White Rice,89.9,Kroger API,356.0,6.7,80.0,0.0,0.0
+11110898517,Kroger,Classic Grains Brown Rice,3.29,Kroger® Classic Grains Brown Rice,98.5,Kroger API,92.3,2.1,19.4,0.7,0.0
+11110897916,Kroger,Chopped onions,7.49,Kroger® Chopped Onions Shaker,84.0,Kroger API,29.4,0.0,7.1,0.0,0.0
+11110897909,Kroger,Vegetable Soup Mix,1.79,Kroger® Frozen Vegetable Soup Mix,86.2,Kroger API,73.7,2.8,15.6,0.0,0.0
+11110897565,Kroger,Enticed long grain rice,1.79,Kroger® Enriched Long Grain White Rice,85.3,Kroger API,355.6,6.7,80.0,0.0,0.0
+11110897442,Kroger,Southern Style Breaded Cut Okra,1.79,Kroger® Southern Style Frozen Okra Cut,76.3,Kroger API,156.0,3.9,33.6,0.6,0.0
+11110897411,Kroger,Peas & carrots,0.99,Kroger® Sweet Peas & Carrots,85.7,Kroger API,58.8,3.5,11.8,0.0,0.0
+11110897336,Kroger,Southern Style Fordhook Lima Beans,3.99,Kroger® Southern Style Frozen Lima Beans Fordhook,77.8,Kroger API,124.0,7.8,23.2,0.0,0.0
+11110897312,Kroger,FRENCH STYLE GREEN BEANS,0.89,Kroger® French Style Sliced Green Beans,88.6,Kroger API,35.3,2.4,7.1,0.0,0.0
+11110897299,Kroger,Cut Italian Green Beans,0.99,Kroger® Italian Style Cut Green Beans,77.6,Kroger API,42.0,1.4,8.4,0.0,0.0
+11110891440,The Kroger Co.,Pizza crusts count,3.99,Kroger® Pizza Crusts,71.7,Kroger API,333.3,7.0,50.9,8.8,0.4
+11110891273,Private Selection,Italian Bucatini (pasta),1.99,Private Selection® Italian Bucatini,88.3,Kroger API,200.0,7.0,42.0,1.0,0.0
+11110885852,Simple Truth Organic,No Salt Added Crushed Tomato,2.29,Simple Truth Organic® No Salt Added Crushed Tomatoes,97.0,Kroger API,32.8,1.6,6.6,0.0,0.0
+11110887047,Private Selection,Cream Soda,3.99,Private Selection® Cookies & Cream Ice Cream Pint,64.9,Kroger API,12.5,0.0,3.1,0.0,0.0
+11110886989,Kroger,Beef smokies,3.99,Kroger® Smoked Beef Sausage Smokies,70.4,Kroger API,321.4,10.7,8.9,25.0,1.2
+11110886736,Simple Truth,Sprouted Grain and Legume Bread,3.99,Simple Truth Organic® Frozen Bread,59.0,Kroger API,264.7,14.7,44.1,1.5,0.4
+11110886576,Simple Truth,Sprouted Seeded Thin Sliced Bread,3.99,Simple Truth Organic® Sprouted Thin Sliced Seeded Bread,77.2,Kroger API,250.0,10.7,46.4,3.6,0.3
+11110886446,Simple Truth Organic,Blue Corn Tortilla Cupz,2.99,Simple Truth® Blue Corn Tortilla Chips,82.9,Kroger API,1800.0,25.2,227.0,88.2,0.0
+11110886378,Simple Truth Organic,Cream Cheese,3.19,Simple Truth Organic® Cream Cheese,98.5,Kroger API,1180.0,22.2,22.2,111.0,0.0
+11110886361,Kroger,Butter flavored jumbo biscuits count,1.99,Kroger® Flaky Butter Flavored Jumbo Biscuits,85.1,Kroger API,298.2,5.3,43.9,10.5,0.8
+11110886330,Kroger,Flaky butter flavored jumbo biscuits count,1.99,Kroger® Flaky Butter Flavored Jumbo Biscuits,92.5,Kroger API,298.2,5.3,45.6,8.8,0.8
+11110886323,Kroger,Garlic Cheese Texas Toast,2.69,Kroger® Garlic 3-Cheese Texas Toast,95.5,Kroger API,326.0,8.7,30.4,19.6,0.6
+11110885609,Simple Truth Organic,Diced tomatoes in tomato juice,1.5,Simple Truth Organic® Diced Tomatoes in Tomato Juice,99.0,Kroger API,24.0,0.8,4.8,0.0,0.0
+11110884657,Kroger,Sourdough bread,1.69,Kroger® Sourdough English Muffins,65.5,Kroger API,266.7,8.9,51.1,2.2,0.5
+11110884596,Simple Truth Organic,2% Reduced Fat Milk,4.29,Simple Truth Organic® 2% Reduced Fat Milk Half Gallon,86.0,Kroger API,58.0,4.2,5.4,2.1,0.1
+11110884534,Kroger,Instant Nonfat Dry Milk,3.79,Kroger® Instant Non-Fat Dry Milk Pouches,85.7,Kroger API,1510.0,151.0,227.0,0.0,0.0
+11110887153,Kroger,Popcorn,2.99,Kroger® Original Butter Microwave Popcorn,50.9,Kroger API,1760.0,25.5,242.0,76.5,0.0
+11110887238,Kroger,Cinnamon Puffs Cereal,2.79,Kroger® Puffs Peanut Butter Chocolate Corn Cereal,49.4,Kroger API,1360.0,20.8,250.0,31.2,0.0
+11110890887,Kroger,Solid white albacore tuna in water,1.79,Kroger® Solid White Albacore Tuna in Water,98.8,Kroger API,92.2,21.3,0.0,0.7,0.3
+11110890115,Kroger,Buttermilk biscuits,1.99,Kroger® Buttermilk Jumbo Biscuits,88.1,Kroger API,250.0,6.2,48.4,3.1,0.9
+11110889782,Kroger,Chicken & wild rice soup,1.99,Campbell's Condensed Chicken and Rice Soup with White and Wild Rice,42.9,Kroger API,33.0,2.4,5.7,0.0,0.3
+11110889171,Private Selection,Thin Crust Pizza,8.99,Private Selection® French Goat Cheese & Marinated Vegetable Thin Crust Frozen Pizza,58.1,Kroger API,250.0,12.5,24.3,11.0,0.7
+1111088905,Private Selection,French GOAT Cheese And Veggie Pizza,8.99,Private Selection® French Goat Cheese & Marinated Vegetable Thin Crust Frozen Pizza,76.5,Kroger API,243.0,8.8,29.4,10.3,0.4
+11110888594,Simple Truth Organic,Fire Roasted Dices Tomatoes,1.99,Simple Truth Organic® Fire Roasted Diced Tomatoes,96.9,Kroger API,20.7,0.8,4.1,0.0,0.2
+11110888211,Simple Truth Organic,Pineapple flavored coconut water,1.99,Simple Truth Organic® Pineapple Flavored No Sugar Added Coconut Water Carton,82.2,Kroger API,16.7,0.0,3.9,0.0,0.0
+11110888204,Private Selection,Thai Inspired Chili Wing Sauce,4.99,Heinz Flavor Tour Thai Inspired Sweet Chili Sauce,59.8,Kroger API,1520.0,0.0,381.0,0.0,0.0
+11110888068,Simple Truth Organic,Unsweetened Soy Milk,2.19,Simple Truth Organic™ Dairy Free Organic Shelf Stable Unsweetened Plain Soy Milk Quart,64.6,Kroger API,29.2,2.9,1.2,1.5,0.0
+11110887955,simple truth,organic creamy parmesan caesar dressing,3.99,Simple Truth Organic® Creamy Parmesan Caesar Dressing,99.0,Kroger API,267.0,0.0,3.3,30.0,0.1
+11110887948,simple truth organic,CREAMY RANCH DRESSING,3.99,Simple Truth Organic® Creamy Ranch Salad Dressing,92.3,Kroger API,267.0,3.3,6.7,26.7,0.9
+11110887887,Private Selection,Carolina Bbq Sauce,3.99,Private Selection® Carolina Inspired BBQ Sauce,87.8,Kroger API,424.0,0.0,106.0,0.0,0.0
+11110887689,Simple Truth,simple truth organic apple sauce,3.99,Simple Truth Organic® Unsweetened Applesauce Cups,66.0,Kroger API,55.6,0.0,13.3,0.0,0.0
+11110902610,Simple truth organic,Plain bagels,4.99,Simple Truth® Protein Plain Bagels,83.6,Kroger API,271.0,9.4,51.8,1.8,0.4
+11110902719,Private Selection,Traditional Panko Bread Crumbs,2.39,Private Selection® Traditional Panko Bread Crumbs,99.0,Kroger API,1070.0,33.3,233.0,0.0,0.0
+11110966476,Kroger,Corn dogs,7.99,Kroger® Corn Dogs,97.0,Kroger API,289.5,7.9,31.6,14.5,0.8
+11110965639,Kroger,Beef Skirt Steak,13.99,Beef Choice Skirt Steak,69.6,Kroger API,126.0,16.2,1.5,6.2,0.0
+11110965585,Kroger,Beef For Barbacoa Seasoned,10.99,Kroger® Beef Barbacoa,74.1,Kroger API,239.0,19.1,4.8,15.9,0.0
+51000199225,Campbell's,Skillet Sauces Chicken Marsala,1.59,Campbell's® Mushroom Gravy,38.8,Kroger API,100.0,1.7,6.7,6.7,0.6
+11110963710,Kroger,Crunchy Butterfly Shrimp,10.99,Kroger® Crunchy Butterfly Shrimp Frozen,88.6,Kroger API,247.0,8.2,22.4,14.1,0.5
+11110963536,Kroger,Crunchy jumbo butterfly shrimp,6.49,Kroger® Crunchy Jumbo Butterfly Shrimp Frozen,90.2,Kroger API,247.1,8.2,22.4,14.1,0.5
+11110917027,Kroger,Chicken caesar salad kit for one,3.67,Kroger® Chicken Caesar Salad Kit,87.3,Kroger API,141.2,10.0,7.6,7.6,0.4
+11110963529,Kroger,Crunchy Popcorn Shrimp,10.49,Kroger® Wild Caught Crunchy Popcorn Shrimp Frozen,74.4,Kroger API,332.0,13.8,34.6,15.2,1.1
+11110952363,Kroger,Beef smoked sausage,3.29,Kroger® Beef Smoked Sausage,98.1,Kroger API,321.0,10.7,7.1,26.8,0.6
+11110952202,Kroger,Bbq Baked Beans,4.99,Kroger® Beef Brisket BBQ Baked Beans,75.9,Kroger API,177.0,6.2,36.2,1.9,0.6
+11110952103,Kroger,Chicken Salad - Premium White Meat,6.99,Kroger® Chicken Salad,97.6,Kroger API,190.0,10.0,6.0,15.0,0.7
+11110952011,Kroger,Chicken salad,6.99,Kroger® Chicken Salad,97.6,Kroger API,240.0,11.0,8.0,18.0,0.5
+11110920270,Kroger,"Kroger, pudding, banana",1.0,Kroger® Banana Cream Pudding & Pie Filling,54.3,Kroger API,100.0,1.5,20.0,1.5,0.2
+11110917577,Kroger,Idaho potatoes,5.49,Kroger® Russet Potatoes Big Deal in 10 lb Bag,48.5,Kroger API,79.0,2.1,18.1,0.1,0.0
+11110917416,"Kroger, The Kroger Co.",BLT Salad with Chicken,3.67,Kroger® BLT Chicken Salad Kit,48.6,Kroger API,146.7,8.2,5.4,10.3,0.4
+11110917409,Kroger,Apple Walnut with Chicken Salad Kit,3.67,Kroger® Apple Walnut With Chicken Salad Kit,98.8,Kroger API,166.7,5.1,13.5,10.3,0.4
+51000195777,Campbell's,"Tomato Soup, Tomato",1.25,Campbell's® Condensed Tomato Soup,71.0,Kroger API,42.1,0.8,9.2,0.0,0.2
+51000195753,Campbell's,Campbellscondensedhealthy requestcheddar cheese soup,2.5,Campbell’s® Chunky® Soup Chicken Broccoli Cheese Soup,48.3,Kroger API,50.0,0.8,10.0,0.8,0.3
+51000195708,Campbell's,Campbell's chunky soup chicken vegetable,2.5,Campbell's® Chunky® Savory Vegetable Soup,65.2,Kroger API,38.0,2.3,6.4,0.4,0.2
+11110968333,Simple Truth,Smoked turkey breast lunch meat,4.99,Simple Truth Organic® Turkey Breast Smoked Sliced,68.8,Kroger API,107.1,17.9,3.6,1.8,0.9
+11110968272,Simple Truth,Uncured hardwood smoked bacon,6.29,Simple Truth® Uncured Hardwood Smoked Bacon,98.8,Kroger API,389.0,33.3,11.1,25.0,1.4
+11110967923,Simple Truth,Thick Sliced Uncured Hardwood Smoked Bacon,6.29,Simple Truth® Thick Sliced Uncured Hardwood Smoked Bacon,99.1,Kroger API,2020.0,175.0,50.0,125.0,0.0
+11110967893,Kroger,Turkey Smoked Sausage,3.29,Kroger® Turkey Smoked Sausage,98.2,Kroger API,179.0,16.1,8.9,10.7,0.6
+11110967879,Kroger,Smoked sausage,3.29,Kroger® Beef Smoked Sausage,87.5,Kroger API,321.4,10.7,7.1,28.6,0.6
+11110967848,Simple Truth Organic,Organic Ground Beef,8.49,Simple Truth® 80/20 Natural Ground Beef Pack 1 LB,60.7,Kroger API,179.0,20.5,0.0,9.8,0.1
+11110967718,The Kroger Co.,Homestyle Beef Patties,31.99,Kroger® 100% Pure Beef Quarter Pound Burgers BIG Deal!,37.4,Kroger API,225.0,11.4,0.0,20.0,0.0
+11110967152,Kroger,Braised Beef Barbacoa,10.99,Kroger® Beef Barbacoa,81.6,Kroger API,143.0,17.9,1.4,7.1,0.3
+11110967138,Kroger,Seasoned Pork Carnitas,10.99,Kroger® Seasoned Pork Carnitas,98.3,Kroger API,143.0,17.9,2.4,7.1,0.4
+11110967121,Simple Truth,Sliced Beef Fajita Strips,4.99,Simple Truth Organic® Roast Beef Seasoned Sliced,44.2,Kroger API,148.0,23.5,4.2,4.2,0.0
+51000193070,Campbell's,"Condensed Soup, Sun-Ripened Yellow Tomato",1.25,Campbell's® Condensed Tomato Soup,64.3,Kroger API,83.3,1.7,18.3,0.8,0.4
+11110966919,Kroger,"Kroger, country sausage patties, mild",9.49,Kroger® Mild Country Sausage Patties,79.5,Kroger API,353.0,11.8,2.9,32.4,0.5
+11110916884,Kroger,Vine ripe tomatoes,3.19,Kroger® Vine Ripe Tomatoes,98.0,Kroger API,19.3,0.9,2.5,0.3,0.0
+11110903389,Kroger,Turkey meatballs,8.99,Farm Rich® Flame Broiled Turkey Meatballs,62.5,Kroger API,188.2,16.5,7.1,10.6,0.6
+11110907097,The Kroger Co.,Buttermilk jumbo junior biscuits,1.99,Kroger® Buttermilk Jumbo Biscuits,80.0,Kroger API,357.1,3.6,42.9,17.9,0.8
+11110906731,The Kroger Co.,Reduced fat milk,3.59,Kroger® 2% Reduced Fat Milk Gallon,73.8,Kroger API,54.2,3.8,5.4,1.9,0.0
+11110906540,Kroger,Spicy breaded chicken sandwich,9.99,Tyson Frozen Original Chicken Breast Sandwich,53.7,Kroger API,279.5,10.6,33.5,9.9,0.4
+11110906526,Kroger,Cheeseburger,1.49,Kroger® Skillet Meals Double Cheeseburger,63.3,Kroger API,225.0,10.0,22.4,10.6,0.0
+11110906434,Private Selection,Sliced Extra Sharp White Cheddar Cheese,5.99,Private Selection® Extra Sharp White Cheddar Cracker Cuts Sliced Cheese,78.1,Kroger API,388.0,21.2,0.0,31.7,0.6
+11110906274,Private Selection,Peppery Sweet Corn Salsa,4.39,Private Selection® Black Bean & Corn Salsa,73.8,Kroger API,311.0,11.1,66.7,0.0,0.0
+11110906021,Private Selection,Shortbread Tartlet Shells,1.99,Athens Phyllo Mini Crusts,20.6,Kroger API,2310.0,37.8,284.0,113.0,0.0
+11110916761,Simple Truth,Orange juice,5.99,Simple Truth Organic® No Pulp 100% Orange Juice,69.4,Kroger API,41.7,0.4,9.6,0.0,0.0
+11110905659,Kroger,Sardines In Soybean Oil,1.19,Kroger® Wild Caught Sardines in Soybean Oil,82.2,Kroger API,367.0,41.4,0.0,22.3,0.0
+11110905536,Private Selection,Kona blend coffee k-cups,6.79,Private Selection® Kona Blend Medium Roast Coffee Pods,79.2,Kroger API,0.0,0.1,0.0,0.0,0.0
+11110905420,Kroger,Roasted Chicken Rice,1.5,Kroger® 90 Second Roasted Chicken Rice,83.1,Kroger API,104.0,2.1,20.9,1.3,0.0
+11110905390,Kroger,Garden Vegetable Rice,5.29,Kroger® Chinese Inspirations Vegetable Fried Rice Frozen Meal,53.9,Kroger API,118.0,2.1,23.5,1.7,0.0
+11110904140,Kroger,Premium coconut milk,2.49,Kroger® Premium Coconut Milk,98.2,Kroger API,140.0,1.0,2.0,14.0,0.0
+11110903556,"Kroger,  The Kroger Co.",String Mozzarella Cheese,3.39,Kroger® Mozzarella String Cheese,60.0,Kroger API,1100.0,89.3,12.7,76.5,0.0
+11110916501,Kroger,"Kroger, fresh selections, shredded carrots",2.29,Kroger® Shredded Carrots,64.8,Kroger API,41.0,1.2,9.4,0.0,0.1
+11110916211,The Kroger Co.,Cut & peeled baby carrots,2.49,Kroger® Cut and Peeled Baby Carrots Bag,78.5,Kroger API,40.2,0.6,7.6,0.5,0.1
+11110914521,Kroger,Yellow Popcorn,2.89,Kroger® Yellow Popcorn Kernels,82.4,Kroger API,1260.0,44.4,244.0,11.1,0.0
+11110913319,Simple Truth Organic,"Beef Jerky, Teriyaki",4.99,Simple Truth Organic® Teriyaki Grass Fed Beef Jerky,68.1,Kroger API,286.0,42.9,21.4,3.6,2.1
+11110912503,Simple Truth,Sweet potato chips,2.99,Simple Truth® Sweet Potato Chips,98.4,Kroger API,536.0,3.6,53.6,35.7,0.3
+11110911933,Kroger,Petite medley snacking tomatoes,5.0,Private Selection® Petite Medley Snacking Tomatoes,77.3,Kroger API,18.1,0.9,3.9,0.2,0.0
+11110910776,Kroger,Butter Lettuce & Lolla Rosa,3.49,Simple Truth Organic® Butter Lettuce,51.4,Kroger API,16.6,1.4,2.8,0.0,0.0
+11110908629,Kroger,Bacon egg and cheese crosissant,10.99,Kroger® Bacon Egg and Cheese Croissant Breakfast Sandwich,77.9,Kroger API,254.9,10.8,30.4,12.7,0.6
+11110840981,Private Selection,"Alfredo, Rich Cream Sauce",4.19,Private Selection® Classic Alfredo Pasta Sauce,75.0,Kroger API,125.0,3.1,4.7,10.9,0.5
+11110840967,Kroger,Bread & Butter Sandwich Slims,2.99,Kroger® Gluten Free Bread & Butter Pickle Sandwich Slims,78.3,Kroger API,403.0,0.0,101.0,0.0,0.0
+11110629333,Private Selection,Angus Beef Patties Three Cheese,20.0,Private Selection® Angus Beef Patties,83.7,Kroger API,275.0,18.8,0.7,21.5,0.3
+11110630889,Private Selection,Pork & Angus Beef Ground Blend,7.99,Private Selection™ Angus 80/20 Lean Ground Beef,73.7,Kroger API,309.0,15.9,0.0,27.3,0.0
+11110630643,Kroger,Chicken Caesar Salad Kit,3.67,Kroger® Chicken Caesar Salad Kit,98.4,Kroger API,206.0,10.6,7.1,15.3,0.5
+11110630636,Kroger,Salad Kit Caesar Salad With Chicken,3.67,Kroger® Chicken Caesar With Bacon Salad Kit,37.6,Kroger API,180.0,8.0,7.0,13.0,0.4
+11110630605,Kroger,BLT Chicken Salad,3.67,Kroger® BLT Chicken Salad Kit,90.6,Kroger API,168.0,7.1,4.4,13.6,0.4
+11110629821,Private Selection,Margherita Pizza Flavored Cream Cheese Dip,5.49,La Terra Fina® Spinach & Parmesan Greek Yogurt Dip & Spread,28.6,Kroger API,200.0,6.7,10.0,15.0,0.6
+11110629562,Kroger,Yogurt Covered Pretzels,3.99,Kroger® Yogurt Covered Pretzels,98.4,Kroger API,467.0,3.3,70.0,20.0,0.4
+11110629340,Private Selection,Angus Beef Patties Jalapeño Jack,20.0,Private Selection® Angus Beef Patties,82.8,Kroger API,262.0,17.4,1.3,20.8,0.4
+11110629326,Private Selection,Bacon Cheddar Burgers,13.99,Private Selection® Applewood Smoked Bacon & Cheddar Angus Beef Patties,64.2,Kroger API,289.0,20.8,0.7,22.8,0.6
+11110631275,Kroger,White American Cheese,9.99,Kroger® Grab and Go White American Cheese Deli Sliced,69.1,Kroger API,348.0,21.7,4.4,30.4,1.3
+11110629296,Private Selection,Swordfish Steaks,10.99,Private Selection® Frozen Wild Caught Swordfish Steaks,77.3,Kroger API,142.0,19.5,0.0,7.1,0.0
+41260016073,Simple Truth Organic,Mini Rice Cakes-Blueberry,2.99,Simple Truth Organic® Mini Blueberry Rice Cakes,77.4,Kroger API,416.7,16.7,83.3,0.0,0.0
+11110629111,Private Selection,buffolo chicken,5.99,Private Selection® Chicken Breast Buffalo Style Deli Sliced,54.3,Kroger API,161.0,8.9,5.4,10.7,1.0
+51000228321,Campbell's,Swanson broth chicken,3.49,Swanson® Organic Chicken Broth,54.8,Kroger API,10.0,0.4,0.4,0.8,0.5
+11110628756,Private selection,Smoked wildflower Honey turkey breast,5.99,Private Selection® Smoked Wildflower Honey Deli Turkey Breast Sliced,89.4,Kroger API,102.0,16.9,5.1,0.8,0.8
+11110628565,Private Selection,Traditional Feta Cheese Crumbles,4.99,Private Selection® Traditional Feta Crumbles,91.5,Kroger API,250.0,21.4,7.1,14.3,1.2
+11110627865,Kroger,Hardwood Smoked Bacon,4.99,Kroger® Naturally Hardwood Smoked Bacon,83.6,Kroger API,533.0,40.0,0.0,40.0,1.8
+11110631220,Private Selection,American Sliced Cheese,5.99,Private Selection® American Sliced Cheese,98.8,Kroger API,348.0,21.7,0.0,30.4,1.4
+11110616067,Simple Truth,Chicken Sausage,5.99,Simple Truth™ Apple Gouda Chicken Sausage,81.2,Kroger API,176.0,16.5,3.5,11.8,0.8
+11110635228,Private Selection,Angus Beef Ground Chuck,7.99,Private Selection® 80/20 Angus Ground Beef Chuck Tray 1 LB,72.7,Kroger API,250.0,17.0,0.0,19.6,0.1
+11110636812,Private Selection,Parmesan Wedge Extra Aged Cheese,5.99,Private Selection® 18-Month Aged Parmesan Wedge Cheese,75.0,Kroger API,393.0,28.6,3.6,28.6,1.1
+11110636607,Simple Truth,Berries & Banana Trail Mix,8.99,Simple Truth® Berries & Banana Trail Mix,98.7,Kroger API,500.0,13.3,43.3,33.3,0.2
+11110636423,Private Selection,Strawberry Cheesecake Cupcakes,3.99,Private Selection® New York Style Classic and Strawberry Swirl New York Style Cheesecake Slices,60.1,Kroger API,373.0,2.4,50.6,18.1,0.3
+11110636416,Private Selection,Vanilla Bean Cupcake,6.0,Private Selection® Vanilla Bean Cupcakes,97.4,Kroger API,422.0,2.4,54.2,21.7,0.3
+41260015328,Private Selection,Milk chocolate sea salt caramel,5.99,Private Selection® Milk Chocolate Sea Salt Toffee Truffles Bag,77.5,Kroger API,416.7,4.2,58.3,20.8,0.3
+11110635914,Kroger,Cookie Cake,5.29,Spritzal® Cookie Company Birthday Cake Shortbread Cookies,34.7,Kroger API,446.0,4.0,70.3,17.6,0.3
+11110635853,Kroger,Mini M&M Cookies,2.5,Kroger® Mini Vanilla Wafer Cookies,70.2,Kroger API,458.0,0.0,62.5,25.0,0.3
+11110635730,Simple Truth,Uncured Pepperoni & Cheese Lunchkit,2.99,Simple Truth® Uncured Pepperoni & Cheese Lunchkit,99.0,Kroger API,436.0,15.4,34.6,25.6,0.8
+11110635235,Private selection,Beef,7.99,Private Selection® 80/20 Angus Ground Beef Chuck Tray 1 LB,55.0,Kroger API,89.3,0.0,0.0,9.8,0.1
+11110634764,Private Selection,Toasted Sweet Onion Flatbread Crackers,5.49,Private Selection® Rosemary Olive Oil Flatbread Crackers,76.8,Kroger API,464.0,7.1,64.3,17.9,0.5
+11110634627,Kroger,Beef Patties,8.99,Kroger® 100% Pure Beef Quarter Pound Burgers,47.6,Kroger API,150.0,20.4,0.0,7.1,0.1
+11110634603,Private Selection,Angus Beef Patties Ground Sirloin,9.99,Private Selection® 90/10 Angus Ground Beef Sirloin Tray 1 LB,68.5,Kroger API,150.0,18.0,0.0,8.6,0.0
+51000226358,Campbell's,"Campbell'S, Organic Cream Of Mushroom Condensed Soup",1.25,Campbell's® Condensed Cream of Mushroom Soup,69.8,Kroger API,83.3,0.8,8.3,5.0,0.7
+11110634450,Kroger,Boneless Pork Loin Chops,10.0,Kroger® Boneless Center Cut Pork Loin Chops,83.8,Kroger API,156.0,21.1,0.0,7.8,0.0
+11110634429,Kroger,Russet Potatoes,2.79,Kroger® Russet Potatoes,97.8,Kroger API,78.9,2.1,17.8,0.1,0.0
+11110634221,Private Selection,Ginger Molasses Cookies,3.5,Lotus Biscoff® Cookies,38.1,Kroger API,386.0,4.3,70.0,10.0,0.1
+11110633538,Kroger,Nacho Cheese Dip Mild,5.49,Kroger® Mild Nacho Cheese Dip,80.7,Kroger API,167.0,10.0,6.7,10.0,0.8
+11110627032,Private Selection,Vermont Sharp White Cheddar Sliced Cheese,5.99,Private Selection® Vermont Sharp White Cheddar Sliced Cheese,99.2,Kroger API,409.0,22.7,4.6,31.8,0.7
+11110626998,Kroger,Mexican style street corn salad - Kroger,3.67,Kroger® Mexican Style Street Corn With Chicken Salad Kit,80.9,Kroger API,160.0,5.5,7.7,12.2,0.4
+51000233202,Campbell's,Spaghettios Original,4.99,Campbell's® SpaghettiOs® Original Canned Pasta,80.5,Kroger API,60.3,2.5,12.3,0.3,0.2
+11110622495,Simple Truth Organic,Cold Pressed Juice Blend,3.0,Evolution Fresh® Organic Super Fruit Greens Cold-Pressed Juice Blend,63.7,Kroger API,12.8,0.3,2.6,0.0,0.1
+11110622488,Simple Truth,Cold Pressed Orange Pineapple Ginger,7.99,Suja Organic® Ginger Love™ Cold Pressed Juice,40.4,Kroger API,30.8,0.3,7.4,0.0,0.0
+11110622105,Kroger,Seasoned Slow Cooked Shredded Chicken,7.99,Kroger® Fully Cooked Frozen Boneless Skinless Grilled Chicken Breast Dices,47.5,Kroger API,129.0,25.9,0.0,2.4,0.2
+11110622099,Kroger,Pork Tamales,9.79,Del Real Foods® Gluten Free Pork Tamales,61.0,Kroger API,224.0,7.1,21.2,12.9,0.6
+11110620941,Private Selection,Toffee Pecan Chocolate Chunk Cookie,6.99,Private Selection® Toffee Pecan Chocolate Chunk Cookies,98.1,Kroger API,421.0,2.6,57.9,23.7,0.3
+11110620934,Private Selection,Turtle Brownie Cookie,6.99,Private Selection® Toffee Pecan Chocolate Chunk Cookies,63.8,Kroger API,457.0,5.7,62.9,22.9,0.5
+11110620927,Private Selection,chocolate chip cookie,3.69,Private Selection® Soft Baked Chocolate Chip Cookies,85.7,Kroger API,514.0,5.7,68.6,28.6,357.0
+11110620866,simple truth,Natural Chicken patties,3.99,Simple Truth® Fully Cooked Chicken and Maple Breakfast Sausage Patties,58.5,Kroger API,126.0,19.9,0.7,4.0,0.4
+11110620330,Kroger,Traditional Roast Beef,4.49,Kroger® Roast Beef Traditional Deli Thin Sliced,55.3,Kroger API,125.0,19.6,1.8,4.5,0.9
+11110626974,Kroger,Cut & Peeled Sticks Carrots,1.99,Kroger® Cut & Peeled Carrot Sticks,76.5,Kroger API,35.3,1.2,8.2,0.0,0.1
+11110619778,Private Selection,Chipotle Pepper hummus,3.49,Private Selection® Chipotle Pepper Hummus,98.8,Kroger API,233.0,6.7,20.0,16.7,0.5
+11110619464,Kroger,Lemon Garlic pork Tenderloin,9.99,Hormel® Lemon Garlic Pork Loin Filet,70.4,Kroger API,107.1,17.9,2.7,3.1,0.7
+11110618832,Private Selection,Blackened Turkey Breast,11.99,Private Selection® Blackened Deli Turkey Breast Sliced,86.3,Kroger API,107.0,19.6,1.8,1.8,19.6
+11110618108,Kroger,Bacon Wrapped Tenderloin Filet,5.0,Kroger® Smoky Bourbon Bacon Wrapped Beef Tenderloin Filet,78.7,Kroger API,229.0,14.7,2.9,17.6,0.0
+11110617415,Simple Truth,Upcycled Seeded Multigrain Bread,4.29,Simple Truth Organic® Seeds & 21 Multigrain Bread,76.6,Kroger API,277.8,11.1,41.7,8.3,0.4
+11110616791,Kroger,Garden Pasta Salad,4.99,Kroger® Garden Pasta Salad with Poppy Seed Dressing,65.8,Kroger API,220.0,5.0,18.4,14.2,0.7
+11110616104,Kroger,Orange chicken,7.49,Kroger® Chinese Inspirations Chicken Fried Rice Frozen Meal,45.0,Kroger API,228.6,9.3,17.9,13.6,0.7
+11110616081,Simple Truth,Chicken sausage apple Gouda,5.99,Simple Truth™ Apple Gouda Chicken Sausage,69.1,Kroger API,200.0,18.8,7.1,10.6,0.9
+11110616074,simple truth,CHICKEN SAUSAGE SPINACH GRUYERE,5.99,Simple Truth™ Spinach Gruyere Chicken Sausage,62.9,Kroger API,235.0,20.8,4.2,15.2,0.9
+11110623119,Kroger,Butter Shrimp Scampi,5.0,Kroger® Farm Raised Raw Shrimp Scampi Butter,64.8,Kroger API,190.0,22.0,2.0,10.5,0.2
+11110623126,Kroger,Atlantic Salmon Brown Sugar Bourbon,10.0,Kroger® Farm Raised Brown Sugar Bourbon Atlantic Salmon Portions Cedar Plank,52.5,Kroger API,220.0,20.3,1.8,15.0,0.1
+51000232847,Campbell's,Campbell's pasta with sliced franks,2.0,Campbell's® SpaghettiOs® Canned Pasta with Meatballs,55.1,Kroger API,93.0,3.8,12.3,3.0,254.0
+11110626899,Kroger,Mercado Pinto Beans,1.0,Kroger® Pinto Beans,80.0,Kroger API,229.0,20.0,60.0,2.9,0.0
+11110626790,Kroger,Select Cuts Angus Seasoned Roast Beef,6.49,Kroger® Select Cuts Roast Beef Angus Seasoned,74.2,Kroger API,127.0,20.6,3.2,4.0,0.7
+11110626783,Kroger,Four Pepper Turkey Breast,10.99,Castle Wood Reserve® Four Pepper Turkey Breast,74.4,Kroger API,98.4,19.7,1.6,1.6,1.1
+11110626776,Kroger,Select Cuts Oven Roasted Chicken Breast,6.49,Kroger® Select Cuts Chicken Breast Oven Roasted,71.0,Kroger API,109.0,18.2,1.8,2.7,1.0
+11110626653,Private Selection,HoneyCrisp Apple Pie,9.99,Private Selection® Honeycrisp Apple Pie,98.7,Kroger API,272.0,1.6,39.2,12.8,0.2
+51000232571,Campbell's,Campbell'S Well Yes Soup Minestrone With Kale,1.99,Campbell's® Condensed Vegetable Beef Soup,43.3,Kroger API,40.8,2.0,6.1,1.0,0.2
+11110625724,Private Selection,Cookie Dough Layer Cake,3.99,Private Selection® 3-Layer Tiramisu Layer Cake Slice,66.7,Kroger API,351.0,4.0,37.8,21.6,0.3
+11110625656,Private Selection,Carrot Layer Cake,8.99,Private Selection® Layer Carrot Cake,78.9,Kroger API,349.0,4.8,42.2,18.1,0.3
+11110625557,Kroger,Chorizo Sausage Links,4.99,Kroger® Mercado Chorizo Sausage Links,86.2,Kroger API,321.0,16.7,5.1,25.6,1.1
+51000232595,Campbell's,Well yes italian vegetables with farro soup,1.99,Campbell's® Condensed Vegetable Beef Soup,63.2,Kroger API,28.6,1.2,5.7,0.0,0.2
+11110624840,Kroger,Shrimp Cocktail With Cocktail Sauce,9.99,Kroger® Medium Shrimp Tray with Cocktail Sauce,81.8,Kroger API,94.1,15.3,5.9,0.0,0.7
+51000232823,Campbell's,Campbellscanned pasta spaghetti,1.39,Campbell's® Spaghetti O's® Where's Waldo?® Shapes Canned Pasta,51.9,Kroger API,75.9,1.3,8.9,0.2,0.2
+11110624734,Kroger,Uncured Bacon Cheddar Meatballs,5.49,Kroger® Jalapeno & Cheddar Meatballs,73.0,Kroger API,301.0,15.9,5.3,23.0,0.9
+11110624307,Kroger,NY Style Cheesecake,19.99,Private Selection® Assorted New York Style Cheesecake,58.2,Kroger API,301.0,4.4,36.3,15.0,0.3
+51000224675,Campbell's,Condensed Chicken Noodle Soup,1.25,Campbell's® Condensed Chicken Noodle Soup,98.8,Kroger API,58.0,2.5,9.2,1.7,0.7
+11110636959,Private Selection,Coconut Cream Pie,14.99,Private Selection® Coconut Crème Pie,93.0,Kroger API,282.0,3.8,31.3,16.8,0.2
+11110636966,Private Selection,Private Selection Banana Creme Pie,14.99,Private Selection® Banana Crème Pie,75.9,Kroger API,270.0,0.0,28.6,16.7,0.2
+11110654601,Kroger,Kroger Chipotle Chicken Wrap,6.0,Deli Kitchen Chipotle Cheddar Chicken Wrap,67.5,Kroger API,244.0,9.9,22.9,12.2,0.5
+11110655196,Kroger,Chicken Salad Original,6.99,Kroger® Chicken Salad,80.0,Kroger API,310.0,14.0,8.0,24.0,0.3
+11110655004,Kroger,Light Lemon Chicken Salad,7.99,Deli Kitchen Deviled Egg Salad,48.4,Kroger API,100.0,11.0,3.0,5.0,0.5
+11110654687,Kroger,Roast Beef On Pretzel Bun,4.49,Pretzilla® Soft Pretzel Burger Buns,44.8,Kroger API,257.0,11.8,25.1,11.2,0.5
+51000219985,Campbell's,"Campbell'S, Organic Sun-Ripened Tomato & Basil Bisque",4.49,Campbell's® Slow Kettle® Style Tomato & Sweet Basil Bisque,59.5,Kroger API,62.1,0.8,10.8,1.7,0.3
+51000220653,Campbell's,Slow Cooker Sauces Beef Stew,1.59,Campbell's® Beef Gravy,52.5,Kroger API,91.7,1.7,15.0,2.5,1.5
+11110654502,Kroger,Chicken Salad Croissant,6.0,Deli Kitchen Chicken Salad Croissant Sandwich,69.3,Kroger API,260.0,11.3,16.2,16.7,0.5
+11110654489,Kroger,Chicken Bacon Caesar Wrap,6.0,Deli Kitchen Chicken Bacon Caesar Wrap,80.0,Kroger API,256.0,12.0,18.0,15.8,0.7
+11110654472,Kroger,Sweet Chicken Salad with Grapes,8.99,Deli Kitchen Chicken Salad With Grapes,73.7,Kroger API,210.0,12.0,5.0,16.0,0.4
+11110653819,Private Selection,Lobster Mac And Cheese,7.99,Private Selection® Wild Caught North Atlantic Lobster Mac and Cheese,74.1,Kroger API,206.0,9.7,13.8,12.1,0.4
+11110653727,The Kroger Co.,Potato Salad,3.99,Kroger® Mustard Potato Salad,72.7,Kroger API,104.0,1.1,13.7,4.9,0.0
+51000221353,Campbell's,"Campbell'S, Grilled Chicken Sauce, Teriyaki, Teriyaki",4.19,P.F. Chang's Home Menu Teriyaki Sauce,44.9,Kroger API,100.0,0.0,23.3,0.0,0.9
+41260011603,Simple Truth,Banana & Blueberry,5.79,Simple Truth Organic® Blueberry Banana Kale Spinach Pouch,56.8,Kroger API,97.3,0.0,22.1,0.0,0.0
+11110655295,Private Selection,Cheesecake Classic,3.99,Private Selection® New York Style Classic and Strawberry Swirl New York Style Cheesecake Slices,48.9,Kroger API,345.0,3.5,38.1,19.5,0.3
+51000219411,Campbell's,"Lobster Bisque Reserve Soups, Lobster Bisque",6.99,Panera Bread Ready-to-Heat Lobster Bisque Soup Cup,48.1,Kroger API,135.0,2.4,6.9,10.6,0.4
+11110660701,The Kroger Co.,Butter Pancake Syrup,2.49,Kroger® Buttered Pancake Syrup,83.1,Kroger API,589.0,0.0,147.0,0.0,0.0
+11110660077,Kroger,Strawberries & Cream Instant Oatmeal,1.79,Kroger® Strawberries & Cream Instant Oatmeal,98.9,Kroger API,1130.0,16.3,220.0,20.4,0.0
+51000218872,Campbell's,Campbell's chunky soup thai chicken,2.5,Campbell's® Chunky® Classic Chicken Noodle Soup Can,57.7,Kroger API,60.7,2.8,7.8,2.1,0.3
+41260007675,Simple Truth Organic,Banana,3.49,Simple Truth Organic® Banana Chips,88.5,Kroger API,97.3,0.9,22.1,0.0,0.0
+51000219114,Campbell's,Campbell's sauces marsala,1.59,Campbell's® Mushroom Gravy,41.9,Kroger API,100.0,0.0,8.3,6.7,0.6
+51000219138,Campbell's,Shrimp scampi skillet sauces,1.59,Campbell's® Mushroom Gravy,52.3,Kroger API,83.3,0.0,5.0,6.7,0.7
+51000219251,Campbell's,"Chicken Noodle Soup, Chicken Noodle",1.25,Campbell's® Condensed Chicken Noodle Soup,69.8,Kroger API,42.1,2.9,5.4,0.8,0.3
+51000219398,Campbell's,"Campbell'S, Creamy Broccoli Cheese Reserve Soups",1.67,Campbell's® Condensed Broccoli Cheese Soup,72.0,Kroger API,82.0,3.3,4.9,5.3,0.3
+11110656483,Kroger,75 Lean/ 25 Fat Ground Beef,12.0,Kroger® 75/25 Ground Beef Tray,75.0,Kroger API,282.0,15.9,0.0,24.7,0.1
+11110651945,Kroger,Pineapple Coconut Loaf Cake,5.99,Bakery Fresh Pineapple Coconut Loaf Cake,83.8,Kroger API,360.0,4.0,46.0,18.0,0.3
+11110637758,Kroger,Marshmallow Crispy Rice Treat,1.79,Rice Krispies Treats® Homestyle Original Crispy Marshmallow Squares,40.8,Kroger API,378.0,2.2,68.9,8.9,0.0
+11110641489,Kroger,Kroger Pork Loin Chops,10.0,Kroger® Boneless Center Cut Pork Loin Chops,72.2,Kroger API,134.0,20.5,0.0,5.4,0.1
+11110641472,Private Selection,Garlic Butter Tilapia,7.99,Private Selection® Tilapia Marinated in Garlic Butter,67.4,Kroger API,150.0,17.7,3.5,7.1,0.2
+11110641403,Kroger,Marble Cake With Whipped Ice Cream,27.99,Bakery Fresh Marble Sheet Cake with Whipped Icing,68.9,Kroger API,352.0,4.2,43.7,18.3,0.4
+11110641120,Private Selection,Angus Beef Patties,13.99,Private Selection® Traditional Steakhouse Angus Beef Patties,75.0,Kroger API,275.0,22.1,2.0,20.1,0.4
+11110640512,Simple Truth Organic,Smoked turkey breast,4.99,Simple Truth Organic® Turkey Breast Smoked Sliced,62.2,Kroger API,80.0,16.0,0.0,2.0,0.5
+11110640086,Kroger,Brown Sugar & Bacon Pork Tenderloin,7.0,Kroger® Cook In Bag Brown Sugar and Bacon Pork Tenderloin,82.8,Kroger API,152.0,18.8,9.8,4.5,0.7
+11110640079,Kroger,Pork Tenderloin,4.99,Kroger® Fresh Natural Pork Tenderloin,74.6,Kroger API,115.0,16.8,4.4,3.1,0.7
+11110651785,Kroger,Pineapple Mini Cupcakes,5.0,Bakery Fresh Vanilla Mini Cupcakes,62.5,Kroger API,423.0,2.8,53.5,21.1,0.1
+11110639684,Kroger,Peppercorn Pork Loin Filet,7.0,Kroger® Peppercorn Seasoned Pork Loin Filet,86.8,Kroger API,125.0,17.0,3.6,4.5,0.8
+11110639547,Kroger,CHILI CHEESE BRATWURST,4.99,Kroger® Limited Edition Chili Cheese Bratwurst,77.3,Kroger API,463.0,21.4,7.1,37.4,1.2
+51000224422,Campbell's,"Campbell'S, Chunky, Hold The Beans Chili",2.99,Campbell's® Chunky™ Chili With Beans Microwavable Bowl,62.1,Kroger API,129.0,7.1,6.2,8.3,0.3
+11110639189,Private Selection,Brown Sugar Ham,10.99,Private Selection® Brown Sugar Uncured Deli Ham Sliced,75.9,Kroger API,140.0,17.5,10.5,3.5,1.2
+11110639103,Private Selection,Toffee Apple Pie,9.99,Private Selection® Toffee Apple Pie,98.6,Kroger API,303.0,2.5,39.3,15.6,0.2
+11110638854,Private Selection,Classic Butter Shortbread Cookies,6.99,Private Selection® Classic Butter Shortbread Cookies,99.0,Kroger API,467.0,6.7,50.0,26.7,0.3
+11110638571,Kroger,Greek Pasta Salad,4.99,Kroger® Greek Pasta Salad,98.0,Kroger API,164.0,3.6,14.3,10.0,0.3
+11110637888,Kroger,Veggie Chips With Buffalo Blue Cheese Dip,5.0,Kroger® Veggie Chips & Buffalo Dip,78.0,Kroger API,105.0,0.0,5.7,8.6,0.2
+11110641533,Private Selection,Monterey Jack And Cheese Cubes,4.99,Private Selection® Monterey Jack and Colby Cubed Cheese,81.6,Kroger API,393.0,25.0,0.0,32.1,0.6
+11110641649,Kroger,Buffalo Style Chicken Salad,6.99,Kroger® Buffalo Style Chicken Flatbread,87.7,Kroger API,190.0,11.0,6.0,14.0,1.2
+1111064206,Private Selection,Vanilla Bean Cake,24.99,Private Selection® Vanilla Bean Iced Four Layer White Cake,75.3,Kroger API,448.0,1.9,50.5,25.7,0.3
+11110642462,Private Selection,Harvest Apple Spiced Apple Cookies,1.99,Private Selection® Harvest Apple Spiced Apple Pie Cookies,95.4,Kroger API,486.0,2.9,71.4,22.9,0.3
+11110651778,Kroger,Mini Cupcakes w/ Buttercream Icing,5.0,Bakery Fresh Unicorn Mini Cupcakes with Buttercreme Icing,73.5,Kroger API,423.0,2.8,54.9,22.5,0.3
+11110651655,Private Selection,Coffee Cake Muffins,6.99,Private Selection Coffee Cake Muffins,100.0,Kroger API,387.0,4.7,48.1,19.8,0.3
+11110651419,Private Selection,Cheddar Bacon Poblano Salad,3.99,Private Selection® Cheddar Bacon Poblano Chopped Salad Kit,87.4,Kroger API,170.0,5.0,8.0,13.0,0.4
+11110650108,Kroger,Cocktail Shrimp With Sauce,9.99,Kroger® Medium Shrimp Tray with Cocktail Sauce,53.2,Kroger API,92.9,14.3,5.0,1.4,0.4
+11110650016,Private Selection,Original Goat Cheese Crumbles,4.99,Private Selection® Original Goat Cheese Crumbles,98.9,Kroger API,286.0,17.9,3.6,21.4,0.4
+11110649782,Kroger,Thick & spicy barbecue sauce,4.99,Stubb's Spicy Barbecue Sauce,69.8,Kroger API,167.0,0.0,41.7,0.0,1.1
+11110647849,Kroger,Sour Cream Cake Donut,2.99,Kroger® Sour Cream Glazed Donuts,86.7,Kroger API,415.0,3.7,57.3,19.5,0.4
+11110647580,Kroger,Beef Bacon,7.49,Kroger® Hickory Smoked Beef Bacon,68.0,Kroger API,161.0,17.9,3.6,8.9,1.0
+11110647481,Kroger,Peeled Hard Cooked Eggs,4.29,Kroger® Deli Kitchen Peeled Hard-Cooked Eggs,78.4,Kroger API,136.0,12.5,1.1,9.1,0.1
+41260014444,Private Selection,Milk chocolate caramel macadamia clusters,4.99,Private Selection® Milk Chocolate Caramel Macadamia Clusters,99.2,Kroger API,486.5,5.4,54.1,32.4,0.1
+51000224279,Campbell's,"Campbell'S, Spaghettios, Shaped Pasta With Meatballs",2.0,Campbell's® SpaghettiOs® Canned Pasta with Meatballs,83.2,Kroger API,90.9,4.4,12.3,2.8,0.2
+11110646118,Kroger,Cookies & Cream Square,2.99,Kroger® Cookies and Cream Ice Cream Tub,70.6,Kroger API,404.0,4.3,60.6,17.0,0.5
+11110645968,Private Selection,Feta Cheese Chunk,5.99,Private Selection® Traditional Feta Cheese Chunk,84.3,Kroger API,212.0,17.6,3.5,14.1,1.3
+11110645456,Private Selection,Birria Seasoned Angus Beef Burger Patties,13.99,Private Selection® Thin Seasoned Angus Beef Patties,85.5,Kroger API,265.0,16.6,4.6,19.9,39.3
+11110644770,Kroger,Tuna Steak,7.0,Kroger® Wild Caught Ahi Tuna Steak,66.7,Kroger API,106.0,24.8,0.0,0.4,0.0
+11110644503,Simple Truth,Beef Chuck Roast,20.99,Simple Truth Organic® Grass Fed Beef Chuck Roast,75.3,Kroger API,116.0,22.3,0.0,2.2,0.1
+11110643759,Kroger,"Ground Beef 85% Lean, 15% Fat",8.49,Kroger® 85/15 Ground Beef Tray 1 LB,60.0,Kroger API,212.0,18.5,0.0,15.0,0.1
+11110642493,Kroger,93% Lean Ground Beef,4.99,Kroger® 93/7 Lean Fresh Ground Turkey - 1 LB,64.8,Kroger API,152.0,20.5,0.0,7.1,0.1
+1111061607,Simple Truth,"Sausage, Chicken, Spinach Gruyere",5.99,Simple Truth™ Spinach Gruyere Chicken Sausage,62.9,Kroger API,200.0,17.6,3.5,12.9,0.8
+11110840837,Kroger,"Hard-Cooked Peeled Egg, Sharp White Cheddar Cheese",4.79,Kroger® Hard Cooked Peeled Eggs,66.7,Kroger API,315.8,14.7,13.7,23.2,0.7
+11110505606,Kroger,Lite Nonfat Greek Yogurt,0.89,Kroger® Strawberry Nonfat Light Greek Yogurt Cup,73.4,Kroger API,42.9,6.2,4.0,0.2,0.0
+11110507099,Kroger,Chocolate cherry nut truffle ice cream,2.99,Kroger® Chocolate Cherry Nut Truffle Ice Cream Tub,94.7,Kroger API,229.9,3.4,33.3,10.3,0.8
+11110507082,Kroger,Ruby red pulp-free grapefruit juice,4.49,Kroger® Premium Pulp Free Ruby Red Grapefruit Juice,68.8,Kroger API,37.5,0.4,7.9,0.0,0.0
+51000233455,Campbell's,Campbell's chunky soup beef & barley,2.5,Campbell’s® Chunky® Soup Hearty Beef and Barley Soup Can,66.0,Kroger API,58.2,3.8,9.4,0.7,0.3
+11110505859,Kroger,Ice Cream,2.99,Kroger® Cookies and Cream Ice Cream Tub,58.2,Kroger API,327.0,4.7,45.0,14.2,0.0
+51000233462,Campbell's,"Spicy Vegetable Chili Soup, Spicy",2.79,Campbell's® Spicy Tomato Soup,66.7,Kroger API,67.1,2.9,12.5,0.6,0.2
+41260018831,Simple Truth Organic,Oatmilk Non-dairy Chocolate Hazelnut,3.99,Simple Truth® Sweet Cream Non-Dairy Oatmilk Coffee Creamer,59.1,Kroger API,567.0,3.3,50.0,40.0,0.0
+11110505804,Simple Truth Organic,Colby jack cheese bar,3.69,Simple Truth Organic® Colby Jack Block Cheese,87.4,Kroger API,392.9,21.4,3.6,32.1,0.7
+11110505590,Kroger,Lowfat Greek Yogurt,0.6,Kroger® Strawberry Banana Blended Low Fat Yogurt Cup,51.3,Kroger API,51.1,6.2,3.6,1.3,0.0
+11110507112,Kroger,Deluxe mint chocolate chip ice cream,2.99,Kroger® Mint Chocolate Chip Ice Cream Tub,85.7,Kroger API,228.6,4.3,25.7,11.4,0.1
+11110505552,Kroger,Nonfat Greek Yogurt,0.89,Kroger® Peach Fruit on the Bottom Nonfat Greek Yogurt Cup,62.7,Kroger API,58.7,5.8,8.9,0.0,0.0
+11110505408,Simple Truth Organic,Sharp white cheddar cheese bar,3.69,Simple Truth Organic® Sharp White Cheddar Sliced Cheese,88.7,Kroger API,429.0,21.4,3.6,35.7,0.7
+11110505392,Simple truth organic,Mozzarella shredded cheese,3.69,Simple Truth Organic® Low Moisture Part Skim Mozzarella Shredded Cheese,79.7,Kroger API,286.0,21.4,10.7,17.9,0.7
+11110505019,Kroger,Deluxe lactose free peanut butter fudge swirl,2.99,Kroger® Churned Lactose Free No Sugar Added Peanut Butter Fudge Swirl Ice Cream Tub,69.6,Kroger API,185.7,5.7,30.0,7.1,0.1
+11110504999,Simple Truth Organic,Fat free milk,4.29,Simple Truth Organic® Skim Fat Free Milk Half Gallon,79.1,Kroger API,37.5,3.8,5.4,0.0,0.0
+11110507105,Kroger,Deluxe chocolate chip ice cream,2.99,Kroger® Chocolate Chip Ice Cream Tub,83.8,Kroger API,218.0,3.4,26.4,11.5,0.1
+11110507129,Kroger,Deluxe chocolate paradise ice cream,5.49,Kroger® Deluxe Chocolate Swirl & Strawberry Swirl Variety Pack Ice Cream Party Cups,57.6,Kroger API,214.3,4.3,27.1,10.0,0.1
+11110615527,Private Selection,cheesecake bites,9.99,Private Selection® Variety Cheesecake Bites,88.3,Kroger API,391.3,4.3,26.1,30.4,0.2
+11110529022,Private Selection,Southern Butter Pecan Ice Cream,3.99,Private Selection® Southern Butter Pecan Ice Cream Pint,94.2,Kroger API,275.0,3.7,24.8,18.3,0.2
+11110570451,Kroger,Fun Daze Sundaes Frozen Yogurt Cones,6.49,Kroger® Vanilla Peanut Top Frozen Dairy Dessert Sundae Cones,50.5,Kroger API,313.0,7.1,36.7,15.3,0.0
+11110570444,Kroger,Sherbet Topped Sugar Cones,1.5,Kroger® Sugar Cones,69.2,Kroger API,253.0,3.0,40.0,9.0,0.0
+11110560599,Kroger,Party Pail Vanilla ice cream,6.99,Kroger 1883 Vanilla Ice Cream 1 gal Party Pail BIG DEAL!,54.9,Kroger API,203.1,3.1,23.4,9.4,0.1
+11110560537,Kroger,Low Fat Frozen Yogurt,2.99,Kroger® Low Fat Chocolate Frozen Yogurt Tub,78.9,Kroger API,140.6,3.1,28.1,1.6,0.1
+11110529398,Kroger,Deluxe churned light ice cream,2.99,Kroger® Churned Cookies and Cream Light Ice Cream Tub,66.7,Kroger API,214.0,4.3,34.3,6.4,0.1
+11110529350,Kroger,"Kroger, deluxe ice cream, triple brownie",2.99,Kroger® Chocolate Chip Ice Cream Tub,56.8,Kroger API,286.0,4.3,30.0,17.1,0.1
+11110529046,Private Selection,Cookies & cream ice cream,3.99,Private Selection® Cookies & Cream Ice Cream Pint,93.5,Kroger API,256.1,3.7,30.5,13.4,0.1
+11110507167,Kroger,Deluxe ice cream,5.49,Kroger® Deluxe Chocolate Swirl & Strawberry Swirl Variety Pack Ice Cream Party Cups,43.4,Kroger API,206.9,2.3,28.7,9.2,0.1
+11110507488,Kroger,"Kroger, deluxe ice cream, strawberry surf",2.99,Kroger® Strawberry Surf Ice Cream Tub,53.0,Kroger API,186.0,2.9,24.3,8.6,0.1
+11110507334,Kroger,Deluxe banana split ice cream,2.99,Kroger® Neapolitan Ice Cream Tub,67.6,Kroger API,214.3,2.9,28.6,10.0,0.1
+11110507266,Kroger,Deluxe southern crunch butter pecan ice cream,2.99,Kroger® Southern Style Butter Pecan Crunch Ice Cream Tub,72.2,Kroger API,242.9,4.3,24.3,14.3,0.2
+11110507211,Kroger,"Kroger, deluxe ice cream, neapolitan",2.99,Kroger® Neapolitan Ice Cream Tub,57.5,Kroger API,200.0,4.3,25.7,10.0,0.1
+11110507204,Kroger,Deluxe peppermint ice cream,2.99,Kroger® Peppermint Ice Cream Tub,81.8,Kroger API,206.9,3.4,27.6,10.3,0.1
+11110504975,Kroger,Light ice cream,2.99,Kroger® Churned Cookies and Cream Light Ice Cream Tub,58.7,Kroger API,200.0,4.6,29.2,7.7,0.2
+11110502995,Kroger,"Kroger, original orange juice, orange",8.49,Kroger® 100% Orange Juice From Concentrate Original,51.6,Kroger API,42.0,0.8,10.0,0.0,0.0
+51000246325,Campbell's,Well yes soup red pepper tomato,1.25,Campbell's® Condensed Tomato Soup,58.7,Kroger API,45.0,0.6,7.0,1.6,0.2
+11110502797,Kroger,1% Lowfat Milk,2.59,Kroger® 1% Lowfat Milk Half Gallon,76.4,Kroger API,75.0,3.8,13.8,1.0,0.1
+11110502780,Kroger,Skim Grade A Fat Free Milk,2.49,Kroger® Fat Free Skim Milk 32 fl. oz. Bottle,51.9,Kroger API,32.7,3.3,4.9,0.0,0.0
+11110502575,Kroger,Chocolate Milk,2.99,Kroger 1% Lowfat Chocolate Milk Half Gallon,65.6,Kroger API,100.0,3.8,13.8,3.8,0.1
+11110502452,Kroger,Blended vanilla bean lowfat yogurt,2.99,Kroger® CARBmaster® Vanilla Lactose Free Lowfat Yogurt Tub,66.7,Kroger API,76.5,4.1,12.9,1.2,0.1
+41260022500,Kroger,Fatass Jellybeans,1.5,Kroger® Assorted Jelly Beans Candy Bag,67.7,Kroger API,367.0,0.0,90.0,0.0,0.0
+74960968083,Kroger,Chicken Drumsicks,5.0,Kroger® Fresh Uncooked Chicken Drumsticks,73.8,Kroger API,152.0,17.9,0.0,8.9,0.1
+11110504937,Kroger,"Deluxe Churned Light Ice Cream, Caramel Delight",2.99,Kroger® Churned Caramel Delight Light Ice Cream Tub,61.5,Kroger API,191.2,4.4,32.4,4.4,0.1
+11110502087,Kroger,2% Milk Reduced Fat Monterey Jack Cheese,2.33,Kroger® Monterey Jack Shredded Cheese,64.3,Kroger API,321.0,25.0,0.0,21.4,0.9
+11110502025,Kroger,Monterey Jack Finely Shredded Cheese,2.33,Kroger® Monterey Jack Shredded Cheese,90.0,Kroger API,1330.0,89.3,12.7,102.0,0.0
+11110501967,Kroger,Finely Shredded Swiss Cheese,2.33,Kroger® Swiss Shredded Cheese,75.0,Kroger API,393.0,25.0,0.0,32.1,0.3
+11110501950,Kroger,Parmesan Shredded Cheese,2.33,Kroger® Parmesan Shredded Cheese,98.4,Kroger API,393.0,35.7,3.6,25.0,0.0
+11110501899,Kroger,Reduced Fat Mild Cheddar Cheese,2.33,Kroger® Reduced Fat Mexican Style Shredded Cheese,78.2,Kroger API,1050.0,89.3,0.0,76.5,0.0
+11110501844,Kroger,Pizza Blend Shredded Cheese,2.33,Kroger® Pizza Blend Shredded Cheese,98.6,Kroger API,321.4,25.0,3.6,25.0,0.7
+11110501813,Kroger,Blended peach lowfat yogurt,0.6,Kroger® Peach Blended Low Fat Yogurt Cup,75.7,Kroger API,140.0,7.0,22.0,2.0,0.1
+11110501806,Kroger,Blended blueberry lowfat yogurt,0.6,Kroger® Blueberry Blended Low Fat Yogurt Cup,73.2,Kroger API,143.0,7.0,23.0,2.5,0.1
+51000245670,Campbell's,Campbell's chunky soup chicken sausage gumbo,2.5,Campbell’s® Chunky® Healthy Request Chicken and Sausage Gumbo Soup,66.1,Kroger API,77.0,5.2,6.1,3.6,0.3
+51000245199,Campbell's,Sirloin Burger With Country Vegetables Soup,2.5,Campbell’s® Chunky® Healthy Request Soup Sirloin Burger with Country Vegetables Beef Soup Can,72.1,Kroger API,50.0,2.9,8.3,0.6,0.2
+11110503121,Kroger,Heavy Whipping Cream,3.69,Kroger® Heavy Whipping Cream Pint,90.0,Kroger API,333.0,0.0,3.3,33.3,0.0
+11110504920,Simple Truth Organic,Low Fat Milk,11.99,Simple Truth Organic® Low Fat Chocolate Milk,85.7,Kroger API,42.3,3.4,5.1,1.1,0.0
+11110504746,Kroger,Greek Nonfat Yogurt Lite Vanilla,0.89,Kroger® Vanilla Nonfat Light Greek Yogurt Cup,52.4,Kroger API,60.0,8.7,5.3,0.0,0.0
+51000234063,Campbell's Chunky,Chicken Tortilla with White Meat Chicken,2.5,Campbell's® Chunky® Soup Chicken Tortilla Soup with Grilled White Meat Chicken,85.3,Kroger API,121.0,7.1,19.6,1.7,0.6
+51000245083,Campbell's,Butternut Squash Bisque Soup,2.19,Campbell'S Sipping Soup Butternut Squash & Sweet Potato Soup,70.7,Kroger API,30.4,0.2,5.0,1.1,0.1
+11110503688,Kroger,"Greek Nonfat Yogurt, Blueberry",0.89,Kroger® Blueberry Fruit on the Bottom Nonfat Greek Yogurt Cup,33.0,Kroger API,73.0,9.3,9.3,0.0,0.0
+11110503640,Kroger,"Kroger, plain nonfat greek yogurt, original",4.29,Kroger® Plain Nonfat Greek Yogurt Tub,77.6,Kroger API,60.0,10.0,4.0,0.0,0.0
+51000245090,Campbell's,Campbell's well yes soup beef and barley,2.5,Campbell’s® Chunky® Soup Hearty Beef and Barley Soup Can,61.7,Kroger API,53.0,3.7,7.4,0.8,0.3
+11110503381,Kroger,Marbled Cheddar Shredded Cheese,2.33,Kroger® Marbled Cheddar Shredded Cheese,98.7,Kroger API,428.6,21.4,7.1,32.1,0.7
+11110503350,Kroger,Mild Cheddar Cheese Cubes,3.49,Kroger® Mild Cheddar Cubed Cheese,80.0,Kroger API,429.0,21.4,3.6,35.7,0.7
+51000245151,Campbell's,Grilled Chicken & Sausage Gumbo Soup,2.5,Campbell's® Chunky® Grilled Chicken & Sausage Gumbo Soup,91.3,Kroger API,57.9,2.5,8.8,1.2,0.2
+11110503268,"Kroger,The Kroger Co.",Chocolate 1% Lowfat Milk,1.69,Kroger® 1% Lowfat Chocolate Milk Pint,53.0,Kroger API,75.0,3.8,13.8,0.8,0.1
+51000245175,Campbell's,"Classic Chicken Noodle Soup, Classic Chicken",2.5,Campbell's® Chunky® Classic Chicken Noodle Soup Can,80.0,Kroger API,50.0,3.3,5.8,1.2,0.3
+11110575586,Kroger,Snowboard vanilla ice cream sandwiches,3.29,Kroger® Vanilla Frozen Dairy Dessert Sandwiches,63.0,Kroger API,269.8,4.8,42.9,9.5,0.3
+11110609144,"Kroger, The Kroger Co.",Grade a large eggs,2.59,Kroger® Grade A Large Eggs,74.6,Kroger API,140.0,12.0,0.0,10.0,0.1
+11110609052,Kroger,Grade a jumbo eggs,2.99,Kroger® Grade A Jumbo White Eggs,87.7,Kroger API,90.0,8.0,0.0,6.0,0.0
+11110609021,The Kroger Co.,Medium eggs grade a,6.19,Kroger® Medium Grade A White Eggs,62.7,Kroger API,136.4,13.6,0.0,9.1,0.1
+11110608048,Kroger,"Italian Sausage, Canadian Bacon, Pepperoni & Bacon",3.29,Kroger® Sliced Canadian Bacon,59.5,Kroger API,390.0,17.0,41.0,17.0,0.9
+11110607980,Kroger,Double Pepperoni Pizza,4.49,Kroger® Double Pepperoni Thin Crust Frozen Pizza,75.3,Kroger API,288.9,11.9,30.4,12.6,0.7
+11110607973,Kroger,Italian style six cheese pizza,4.49,Kroger® Four Cheese Rising Crust Frozen Pizza,48.8,Kroger API,267.1,11.0,32.9,9.6,0.5
+51000233394,Campbell's Chunky,Chili with Beans,2.99,Campbell's® Chunky™ Chili With Beans Microwavable Bowl,77.3,Kroger API,100.0,5.8,12.5,2.9,0.4
+11110604118,Kroger,100% Beef Burgers,8.99,Kroger® 100% Pure Beef Quarter Pound Burgers,70.6,Kroger API,214.0,18.8,0.0,15.2,0.1
+11110606402,The Kroger Co.,Organic Beef Burger,13.99,Kroger® 91% Lean Frozen Ground Beef Burger,57.9,Kroger API,166.0,11.8,0.0,13.2,0.0
+11110606273,Simple Truth,Natural Lunch Kit Turkey & Cheese,2.99,Simple Truth® Turkey and Cheese Lunchkit,62.8,Kroger API,333.3,16.0,28.4,17.3,0.6
+51000233448,Campbell's,Campbells chunky split pea & ham soup,2.5,Campbell’s® Chunky® Healthy Request® Split Pea and Ham Soup with Smoke Flavor,57.6,Kroger API,62.5,4.6,9.2,0.8,0.2
+11110605566,Kroger,Chorizo Ground Sausage,3.99,Kroger Mercado Ground Chorizo Sausage,66.7,Kroger API,303.6,12.5,7.1,25.0,0.4
+11110605498,Simple Truth,Uncured Hardwoord Smoked Bacon,6.29,Simple Truth® Uncured Hardwood Smoked Bacon,97.7,Kroger API,363.6,36.4,9.1,22.7,1.1
+11110605450,Private Selection,Angus Ground Beef 90% Lean,9.99,Private Selection® 90/10 Angus Ground Beef Tray 1 LB,79.2,Kroger API,178.6,19.6,0.0,9.8,0.1
+11110605078,Kroger,Keoger pork sausage,3.49,Kroger® Mild Pork Sausage Roll,71.4,Kroger API,309.1,18.2,1.8,27.3,1.1
+11110604651,Simple Truth,Hardwood Smoked Uncured Turkey Bacon,4.19,Simple Truth® Uncured Hardwood Smoked Turkey Bacon,82.8,Kroger API,179.0,21.4,0.0,8.9,0.0
+11110604309,Simple Truth,Sirloin Steak,9.99,Simple Truth Organic® Grass Fed Beef Top Sirloin Steak,65.0,Kroger API,65.7,12.5,0.0,1.4,0.0
+11110604293,Simple Truth,Natural Bison Ribeye Steak,16.49,Simple Truth™ Natural Bison Ribeye Steak,98.7,Kroger API,186.0,18.6,0.9,12.4,0.1
+11110609380,Simple Truth,Plant Based Sugar Cookies,5.99,Simple Truth® Gluten Free Non Dairy Sugar Cookie Dough,60.9,Kroger API,428.6,7.1,71.4,14.3,0.2
+11110609441,Private Selection,Angus Beef Chuck Patties,13.99,Private Selection™ Angus Beef Chuck Patties 6 Count,90.3,Kroger API,291.0,15.9,0.0,25.2,0.1
+11110609472,Private Selection,Thin Seasoned Angus Beef Patties,13.99,Private Selection® Thin Seasoned Angus Beef Patties,99.0,Kroger API,271.5,17.9,0.0,21.9,0.3
+11110615510,Kroger,Chorizo Smoked Sausage,3.29,Kroger® Chorizo Smoked Sausage,98.3,Kroger API,321.0,12.5,7.1,28.6,0.6
+11110615213,Private Selection,Heritage natural duroc pork,6.49,Private Selection® Heritage Natural Duroc Pork Boneless Uncured Carving Ham,75.0,Kroger API,363.6,20.5,0.0,31.8,0.6
+11110613189,Private Selection,Petite Potatoes with Parmesan,3.49,Private Selection® Petite Gold Gourmet Potatoes,70.2,Kroger API,79.6,2.6,17.7,0.0,0.2
+11110612762,Private Selection,Vanilla Bean Scones,5.99,Private Selection® Vanilla Bean Scones,98.7,Kroger API,400.0,6.7,53.3,18.7,0.3
+11110612588,Kroger,Limited Edition Jalapeno Cheddar Bratwurst Sausage,4.99,Kroger® Limited Edition Jalapeno Cheddar Bratwurst Sausage,99.1,Kroger API,308.0,17.9,6.4,24.4,1.0
+11110612533,Kroger,"Ham, turkey, cheese, &crackers",15.99,Kroger® Ham Turkey Cheese Tray,84.4,Kroger API,133.3,16.7,6.7,6.7,1.2
+11110612052,Kroger,Candy Apple,1.29,Light + Fit Caramel Apple Pie Fat Free Greek Yogurt Cup,27.4,Kroger API,177.0,1.8,36.3,3.1,0.0
+11110611116,Kroger,Smoky Bacon Cheddar Smoked Sausage,4.99,Hillshire Farm® Cheddar Lit'l Smokies® Smoked Sausage,57.4,Kroger API,500.0,20.7,11.5,41.3,0.0
+11110610850,Kroger,Mozzarella Tomato Salad,3.67,Kroger® Chicken Caesar Salad Kit,48.4,Kroger API,86.7,2.9,4.6,6.4,0.1
+11110610706,Kroger,Naturally Flavored Chocolate Milk Mix,11.49,Kroger® Milk Chocolate Flavored Covered Almonds,48.4,Kroger API,364.0,0.0,81.8,0.0,0.5
+11110610690,Kroger,Black Bean and Corn salad kit,4.39,Private Selection® Black Bean & Corn Salsa,61.5,Kroger API,172.0,3.8,9.7,12.9,0.2
+11110609489,Kroger,Original cocktail sauce,1.39,Kroger® Cocktail Sauce Original,68.9,Kroger API,120.7,1.7,25.9,0.0,1.1
+11110604279,Simple Truth,Bison Strip Loin Steak,15.99,Simple Truth Organic® Grass Fed Beef New York Strip Steak,58.7,Kroger API,115.0,21.2,0.0,2.2,0.1
+11110604057,Kroger,French green beans,0.89,Kroger® French Style Sliced Green Beans,78.1,Kroger API,35.3,2.4,8.2,0.0,0.0
+11110586391,Kroger,Colby And Monterey Jack Cheese,3.39,Kroger® Colby & Monterey Jack Cheese Sticks,85.0,Kroger API,1310.0,88.2,12.6,101.0,0.0
+11110587398,Kroger,Extra Sharp Cheddar Cheese,2.33,Kroger® Extra Sharp Cheddar Block Cheese,90.4,Kroger API,423.0,21.2,0.0,35.3,0.7
+11110587329,kroger,Medium cheddar cheese bar,2.33,Kroger® Medium Cheddar Block Cheese,83.6,Kroger API,428.6,21.4,3.6,35.7,0.7
+11110587299,Kroger,Mozzarella All Natural Cheese,2.33,Kroger® Mozzarella Shredded Cheese,74.3,Kroger API,1020.0,101.0,12.6,63.0,0.0
+11110587213,Kroger,Mild Cheddar Cheese Slices,2.33,Kroger® Mild Cheddar Sliced Cheese,77.6,Kroger API,381.0,23.8,4.8,33.3,0.7
+11110587190,Kroger,SWISS CHEESE SLICES,2.33,Kroger® Swiss Sliced Cheese,71.7,Kroger API,1770.0,136.0,0.0,136.0,0.0
+11110586940,Private Selection,Crumbled Gorgonzola Cheese,4.99,Treasure Cave® Crumbled Gorgonzola Cheese,75.3,Kroger API,1330.0,89.3,12.7,102.0,0.0
+11110586919,Private Selection,Vermont Extra Sharp White Cheddar Cheese,3.99,Private Selection® Vermont Extra Sharp White Cheddar Block Cheese,94.3,Kroger API,1420.0,88.2,12.6,113.0,0.0
+11110586582,Private Selection,Parmesan Cheese Wedge,5.79,Private Selection® Parmesan Cheese Wedge,98.7,Kroger API,1180.0,113.0,12.6,75.6,0.0
+11110586575,Private Selection,Chunk Feta Cheese,5.99,Private Selection® Traditional Feta Cheese Chunk,74.7,Kroger API,983.0,63.0,12.6,75.6,0.0
+11110586544,The Kroger Co.,Crumbled Blue Cheese,2.99,Private Selection® Crumbled Blue Cheese,67.6,Kroger API,1330.0,89.3,12.7,102.0,0.0
+11110586247,Kroger,"Kroger, monterey jack cheese",3.69,Kroger® Monterey Jack Block Cheese,79.4,Kroger API,357.0,25.0,3.6,28.6,0.6
+11110586001,Kroger,Mozzarella cheese bar,2.33,Kroger® Mozzarella Block Cheese,81.4,Kroger API,285.7,28.6,3.6,17.9,0.6
+11110584304,Kroger,Pepper jack cheese bar,2.33,Kroger® Pepper Jack Block Cheese,82.0,Kroger API,393.0,21.4,0.0,32.1,0.7
+11110583338,Kroger,Swiss All Natural Cheese,2.33,Kroger® Swiss Sliced Cheese,72.4,Kroger API,393.0,28.6,0.0,32.1,0.3
+11110582874,Kroger,Colby Jack Cheese Slices,4.49,Kroger® Colby Jack Sliced Cheese,76.2,Kroger API,1810.0,113.0,22.7,159.0,3.4
+11110581525,Kroger,MOZZARELLA STRING CHEESE,3.39,Kroger® Mozzarella String Cheese,98.4,Kroger API,285.7,21.4,3.6,21.4,0.7
+11110580887,Kroger,Whipped Cream Cheese Spread,2.19,Kroger® Original Whipped Cream Cheese Spread,87.2,Kroger API,238.0,4.8,9.5,21.4,0.4
+11110592361,Private Selection,Romano Cheese Wedge,5.99,Private Selection® Romano Wedge Cheese,82.7,Kroger API,1250.0,113.0,0.0,88.2,0.0
+11110597786,Kroger,Swiss Pasteurized Process Cheese Product,5.49,Kroger® Original Nice'N Cheesy® Pasteurized Prepared Cheese Product,68.4,Kroger API,635.0,113.0,45.3,0.0,0.0
+11110598059,Kroger,Pepper Jack Cheese Singles,2.5,Kroger® Singles Pepper Jack Sliced Cheese,67.6,Kroger API,1360.0,90.7,45.3,90.7,0.0
+11110598073,Kroger,"Kroger, swiss cheese",2.5,Kroger® Singles Swiss Sliced Cheese,72.1,Kroger API,333.0,19.0,4.8,23.8,1.2
+11110603173,Private Selection,strawberry swirl new york cheesecake,3.99,Private Selection® New York Style Classic and Strawberry Swirl New York Style Cheesecake Slices,72.5,Kroger API,276.6,5.0,34.0,15.6,0.3
+11110603166,Private Selection,Strawberry Cheesecake,3.99,Private Selection® New York Style Classic and Strawberry Swirl New York Style Cheesecake Slices,58.2,Kroger API,345.1,3.5,35.4,21.2,0.3
+11110603043,simple truth,Turkey & Cheese Lunchkit,2.99,Simple Truth® Turkey and Cheese Lunchkit,93.5,Kroger API,396.0,18.3,38.1,19.8,0.8
+11110603036,simple truth,UNCURED HAM & CHEESE LUNCHKIT,2.99,Simple Truth® Ham and Cheese Lunchkit,83.5,Kroger API,404.0,18.3,38.1,19.8,0.0
+11110602923,Kroger,Ground Turkey Breast Extra Lean,4.99,Kroger® 93/7 Lean Fresh Ground Turkey - 1 LB,58.5,Kroger API,115.0,23.8,0.0,1.8,0.1
+11110602893,Kroger,Seasoned Lean Turkey Burgers,7.99,Kroger® 85% Lean Seasoned Turkey Burgers,80.0,Kroger API,145.7,22.5,0.7,6.0,0.3
+11110602862,Kroger,Seasoned Turkey Burgers,7.99,Kroger® 85% Lean Seasoned Turkey Burgers,85.7,Kroger API,179.0,19.2,0.7,11.3,0.3
+11110602572,Private Selection,Beef Summer Sausage,6.99,Private Selection® Beef Summer Sausage,98.7,Kroger API,321.0,16.1,0.0,28.6,0.1
+11110602558,Private Selection,Deli Sliced Oven Roasted Turkey Breast,5.99,Private Selection® Turkey Breast Oven Roasted Deli Sliced,67.3,Kroger API,84.7,18.6,1.7,0.8,0.9
+11110602510,Private Selection,Wildflower Honey Turkey Breast,11.99,Private Selection® Wildflower Honey Deli Turkey Breast Sliced,88.1,Kroger API,174.0,31.6,8.6,1.4,0.0
+11110599636,Kroger,NEUFCHÂTEL CHEESE,2.19,Kroger® Low Fat Neufchatel Cheese,80.7,Kroger API,250.0,7.1,7.1,21.4,0.4
+11110599575,Kroger,Soft Cream Cheese,2.19,Kroger® Original Cream Cheese Spread,70.0,Kroger API,1180.0,22.2,22.2,111.0,0.0
+11110599285,Kroger,Deluxe American Pasteurized Process Cheese Slices,4.29,Kroger® Deluxe American Sliced Cheese,73.1,Kroger API,1770.0,113.0,22.7,136.0,0.0
+11110599155,Kroger,3 Cheese Blend,2.5,Kroger® Singles 4 Cheese Blend Sliced Cheese,61.5,Kroger API,1560.0,90.7,45.3,113.0,0.0
+11110598646,Kroger,American Singles Cheese,2.5,Kroger® Singles American Sliced Cheese,76.5,Kroger API,1560.0,83.1,27.7,125.0,0.0
+11110661890,Private Selection,Key Lime Cream Pie,14.99,Private Selection® Key Lime Creme Pie,95.9,Kroger API,382.0,4.1,47.2,19.5,0.2
+11110662064,Private Selection,Chicken Green Chile Soup,4.99,Private Selection® Chicken Green Chili Soup,96.5,Kroger API,56.5,2.8,5.9,2.4,0.3
+11110662088,Private Selection,Veggie Ancient Grain Soup,4.99,Private Selection® Veggie Ancient Grain Soup,98.9,Kroger API,40.0,1.4,7.1,0.8,0.2
+11110823397,Simple truth,"Whole Cranberry Sauce, Whole Cranberry",2.29,Simple Truth Organic® Canned Whole Cranberry Sauce,68.0,Kroger API,157.0,0.0,35.7,0.0,0.0
+51000212177,Campbell's,"Campbell'S, Creamy Poblano & Queso Condensed Soup",1.99,Campbell's® Condensed Creamy Chicken & Twists Soup Can,44.2,Kroger API,91.7,0.8,7.5,6.7,0.7
+11110824523,Kroger,Tempura Chicken With Orange Sauce,10.99,SeaPak Sweet Spicy Orange Sauce Tempura Shrimp,44.2,Kroger API,144.0,4.5,15.6,7.0,0.0
+11110824417,Kroger,Tempura chicken with general tsao's sauce,6.99,"InnovAsian General Tso's Chicken Meal, Frozen",45.2,Kroger API,207.0,7.1,20.7,10.0,0.8
+11110823601,Kroger,Cocoa Puffed Cereal,5.99,Malt-O-Meal® Cocoa Dyno-Bites® Bag Cereal,50.7,Kroger API,1440.0,13.7,316.0,13.7,0.0
+11110823595,Kroger,Honey Nut Toasted Oats,3.49,Kroger® Honey Nut Toasted Oats Cereal,87.9,Kroger API,1400.0,25.5,281.0,19.1,0.0
+11110823540,Kroger,French Fried Onions,2.5,Kroger® Crispy French Fried Onions,86.7,Kroger API,8880.0,204.0,612.0,714.0,0.0
+11110823533,Kroger,Crispy Fried Onion Bits,2.5,Kroger® Crispy French Fried Onions,81.2,Kroger API,7960.0,0.0,612.0,612.0,0.0
+51000212245,Campbell's,Campbell's pasta spaghettios,4.99,Campbell's® SpaghettiOs® Original Canned Pasta,51.8,Kroger API,67.0,2.4,13.1,0.4,0.2
+11110824981,Kroger,Meat flavored pasta sauce,4.99,Prego® Italian Pasta Sauce Flavored With Meat,36.4,Kroger API,35.0,1.6,7.0,0.8,0.4
+11110822789,Simple Truth,Park bar peanut butter nut bars,5.29,Simple Truth® Protein Crunchy Peanut Butter Energy Bars,76.8,Kroger API,500.0,20.0,40.0,32.5,0.1
+11110821614,"Kroger,The Kroger Co.",100% juice from concentrate,8.49,Kroger® 100% Orange Juice From Concentrate Original,68.0,Kroger API,46.0,0.0,11.7,0.0,0.0
+11110821416,"Kroger,  The Kroger Co.",Grapefruit Juice,4.29,Kroger® No Sugar Added Ruby Red Grapefruit Juice,63.6,Kroger API,16.9,0.0,4.2,0.0,0.0
+11110821126,"Kroger,The Kroger Co.",Vegetable juice,4.49,Kroger® 100% Vegetable Juice,70.8,Kroger API,20.8,0.8,4.2,0.0,0.3
+11110820747,Kroger,100% juice,2.89,Kroger® 100% Apple Juice,82.9,Kroger API,46.0,0.0,11.2,0.0,0.0
+11110820525,The Kroger Co.,"King Soopers, Cottage Cheese",3.29,Kroger® 4% Milkfat Small Curd Cottage Cheese,55.8,Kroger API,71.0,11.5,5.3,0.0,0.4
+51000212306,Campbell's,Chicken noodle condensed soup,1.25,Campbell's® Condensed Chicken Noodle Soup,74.1,Kroger API,58.3,2.5,7.5,1.7,0.8
+51000212382,Campbell's,"Vegetable Condensed Soup, Vegetable",1.99,Campbell's® Condensed Vegetable Beef Soup,65.1,Kroger API,75.0,2.5,15.8,0.4,0.7
+51000212160,Campbell's,"Condensed Soup, Tomato Chipotle & Olive Oil",1.25,Campbell's® Condensed Tomato Soup,67.4,Kroger API,91.7,1.7,17.5,1.2,0.7
+51000212108,Campbell's,"Campbell'S, Mexican Style Tomato Soup",1.99,Campbell's® Homestyle™ Mexican-Style Chicken Tortilla Soup,68.6,Kroger API,45.8,1.2,10.4,0.0,0.4
+11110662262,Kroger,Bone-In Pork Loin Chop,10.0,Kroger® Bone-In Pork Loin Chops,96.7,Kroger API,170.0,20.5,0.0,8.9,0.1
+11110827531,"Kroger,  The Kroger Co.",Spreadable Butter,3.99,Kroger® Spreadable Butter With Canola Oil,58.5,Kroger API,5050.0,0.0,0.0,561.0,0.0
+11110828378,Kroger,Pear halves in pear juice from concentrate,1.5,Kroger® Canned Pear Halves in Pear Juice,71.9,Kroger API,48.4,0.0,12.1,0.0,0.0
+11110827708,Simple Truth,Sliced Carrots,2.99,Simple Truth Organic® Shredded Carrots,76.9,Kroger API,24.4,0.8,4.9,0.0,0.2
+11110827678,Kroger,Au gratin potatoes with cheese sauce mix,1.25,Kroger® Au Gratin Potatoes with Cheese Sauce Mix,98.9,Kroger API,357.1,7.1,78.6,0.0,2.1
+11110827647,Kroger,"Potatoes With Cheese Sauce Mix, Three Cheese",1.25,Kroger® Au Gratin Potatoes with Cheese Sauce Mix,75.5,Kroger API,357.0,7.1,78.6,0.0,2.1
+11110827630,Kroger,Butter & herb instant mashed potatoes,1.99,Kroger® Butter & Herb Instant Mashed Potatoes,98.9,Kroger API,347.8,8.7,78.3,2.2,1.7
+11110827586,Kroger,Double Cheeseburger Add Hamburger & Milk,1.99,Hamburger Helper Double Cheeseburger Macaroni,63.0,Kroger API,1200.0,35.7,238.0,11.9,0.0
+11110827203,"Simple Truth, The Kroger Co.",Pack Bar - Peanut Butter,7.99,Simple Truth® Gluten Free Cauliflower Frozen Pizza Crust,55.9,Kroger API,500.0,20.0,40.0,32.5,0.1
+11110825506,Kroger,Beef corn dogs count,6.79,Kroger® Beef Corn Dogs,85.7,Kroger API,315.8,6.6,32.9,15.8,0.7
+11110827197,Kroger,Whole White Potatoes,0.99,Kroger® Whole White Potatoes,98.2,Kroger API,36.4,0.6,8.5,0.0,0.0
+11110826817,Kroger,Flaky Jumbo Biscuits Butter Flavored,1.99,Kroger® Flaky Butter Flavored Jumbo Biscuits,64.4,Kroger API,563.0,12.3,80.0,21.5,0.0
+11110826770,Kroger,Reduced fat mozzarella string cheese,3.39,Kroger® Reduced Fat Mozzarella String Cheese,98.9,Kroger API,208.3,25.0,4.2,10.4,0.8
+11110826473,Kroger,Lite Fruit Cocktail Juice,1.5,Kroger® Canned Fruit Cocktail in Pear Juice,77.3,Kroger API,46.8,0.0,11.7,0.0,0.0
+11110825872,Kroger,Bean Sprouts,1.89,La Choy Bean Sprouts,71.8,Kroger API,7.9,0.5,1.5,0.0,0.0
+11110825544,Kroger,Sliced yellow cling peaches in water,1.5,Kroger® Canned Yellow Cling Sliced Peaches in Pear Juice,74.7,Kroger API,25.0,0.8,5.8,0.0,0.0
+11110819277,Kroger,Strawberry Applesauce,2.0,Kroger® Strawberry Applesauce,98.2,Kroger API,68.7,0.0,17.2,0.0,0.0
+11110819215,Kroger,Classic Applesauce,2.0,Kroger® Classic Apple Applesauce Cups,80.6,Kroger API,62.4,0.0,15.6,0.0,0.0
+11110811912,Kroger,Original Macaroni & Cheese Dinner,1.5,Kroger® Deluxe Original Macaroni and Cheese,77.1,Kroger API,652.0,17.8,122.0,10.4,0.0
+11110814197,Kroger,Pizza snack pepperoni rolls count,8.49,Kroger® Pepperoni Frozen Pizza Snack Rolls,58.5,Kroger API,247.1,7.1,27.1,11.8,0.5
+11110813916,Kroger,Fully Cooked Chicken Fries,7.99,Kroger® Fully Cooked Frozen Chicken Bites,83.8,Kroger API,291.0,15.5,19.4,16.8,0.0
+11110813534,Kroger,Homestyle Cheese and Garlic Croutons,1.49,Kroger® Homestyle Cheese & Garlic Croutons,94.1,Kroger API,428.6,14.3,71.4,14.3,0.9
+51000213310,Campbell's,Slow kettle baked potato soup,4.49,Campbell's Slow Kettle Style Roasted Chicken Noodle Soup with White Meat Chicken,53.3,Kroger API,95.5,1.4,7.0,6.8,0.3
+11110812483,Kroger,Sweet Peas & Carrots,0.99,Kroger® Sweet Peas & Carrots,98.2,Kroger API,33.3,1.9,6.4,0.8,0.0
+11110811820,Simple Truth Organic,Microwave popcorn,4.49,Simple Truth Organic® Original Microwave Popcorn,88.4,Kroger API,367.0,10.0,66.7,8.3,0.9
+11110818782,Kroger,"Kroger, bread crumbs, traditional",4.19,Kroger® Gluten Free Traditional Bread Crumbs,53.7,Kroger API,393.0,14.3,67.9,5.4,0.7
+11110811813,simple truth organic,Butter Flavor Microwave Popcorn,4.49,Simple Truth Organic® Butter Flavor Microwave Popcorn,99.0,Kroger API,466.7,6.7,56.7,20.0,0.9
+11110811608,"Kroger,  The Kroger Co.",Spicy vegetable juice,4.49,Kroger® 100% Vegetable Juice,63.0,Kroger API,20.8,0.8,4.2,0.0,0.3
+11110811493,Kroger,Bbq Pork Rib Sandwich,4.29,On-Cor® BBQ Sauce & Boneless Rib Shaped Patties Family Size Frozen Meal,30.3,Kroger API,164.0,6.2,18.5,10.0,0.0
+11110810793,Kroger,Twisted Bread Sticks,2.39,Kroger® Garlic Texas Toast,37.7,Kroger API,294.0,7.8,47.1,7.8,0.0
+11110810298,Kroger,Chunk Yellowfin Tuna In Water,1.0,Kroger® Wild Caught Chunk Light Tuna in Water,71.6,Kroger API,205.0,44.1,0.0,3.2,0.0
+11110810250,Kroger,Mini Bags Popcorn,5.99,"Orville Redenbacher’s Movie Theater Butter Popcorn, Microwave Popcorn",30.1,Kroger API,1130.0,25.9,208.0,21.6,0.0
+11110810182,Kroger,Diced Petite Peeled Tomatoes In Tomato Juice,1.0,Kroger® Petite Diced Peeled Tomatoes,66.7,Kroger API,20.7,0.7,3.4,0.0,0.0
+11110809810,Kroger,Kroger salt and vinegar potato chips,1.99,Kroger® Salt & Vinegar Potato Chips,84.6,Kroger API,535.7,3.6,53.6,35.7,0.7
+11110818775,Kroger,Bread Crumbs,1.49,Kroger® Plain Bread Crumbs,84.4,Kroger API,1350.0,51.0,242.0,19.1,0.0
+11110818416,The Kroger Co.,Deluxe cheddar macaroni & cheese,1.5,Kroger® Deluxe Shells and Cheddar Macaroni and Cheese,76.0,Kroger API,309.9,12.7,46.5,9.9,0.8
+11110818287,Simple Truth,Tamari Sauce,3.99,Simple Truth Organic® Reduced Sodium Tamari Sauce,67.6,Kroger API,415.0,69.2,34.6,0.0,0.0
+11110818270,Simple Truth Organic,Macaroni & Cheese Shells,1.79,Simple Truth Organic® Deluxe Shells and Cheddar Macaroni and Cheese Cup,65.5,Kroger API,373.0,13.2,54.2,11.5,0.0
+11110818249,Simple Truth Organic,Original Macaroni & Cheese,1.79,Simple Truth Organic® Deluxe Shells and Cheddar Macaroni and Cheese Cup,66.1,Kroger API,395.0,14.8,54.2,13.2,0.0
+11110817068,Kroger,Reduced Fat Graham Cracker,3.0,"Keebler Ready Crust 9-Inch Reduced Fat Graham Cracker Pie Crust, 6 oz",58.8,Kroger API,2170.0,22.7,340.0,79.4,0.0
+11110816658,Private Selection,Chipotle Chili Pepper Salsa,4.39,Private Selection® Tomatillo and Chipotle Pepper Medium Salsa,73.6,Kroger API,88.9,0.0,22.2,0.0,0.0
+11110816337,Kroger,Tomato Paste,0.99,Kroger® Tomato Paste,97.4,Kroger API,91.0,3.0,18.2,0.0,0.1
+11110815446,Kroger,Diced tomatoes with green chilies,1.0,Kroger® Mild Diced Tomatoes with Green Chilies,93.0,Kroger API,21.4,0.9,4.3,0.0,0.4
+11110815347,Kroger,Diced Tomatoes With Jalapenos,1.0,Kroger® Diced Tomatoes with Jalapeños,95.9,Kroger API,16.4,0.7,3.4,0.0,0.0
+11110815286,Kroger,Stewed sliced tomatoes in tomato juice,1.0,Kroger® Stewed Tomatoes,64.7,Kroger API,24.0,0.8,5.7,0.0,0.2
+11110815132,Kroger,Mexican Style Stewed Tomatoes In Tomato Sauce,1.0,Kroger® Italian Style Stewed Tomatoes,71.9,Kroger API,21.1,0.7,4.6,0.0,0.0
+11110828446,Kroger,Sliced Peaches (Fruit Juice),1.5,Kroger® Canned Yellow Cling Sliced Peaches in Pear Juice,63.7,Kroger API,48.4,0.8,11.3,0.0,0.0
+11110838926,Kroger,Original chili with beans,2.29,Kroger® Original Chili With Beans,98.5,Kroger API,280.0,16.0,11.0,10.0,0.9
+11110838650,Simple Truth Organic,Creamed Honey,5.99,Simple Truth Organic™ Honey,85.2,Kroger API,1540.0,0.0,385.0,0.0,0.0
+11110838261,Kroger,Classic Wavy Potato Chips,1.99,Kroger® Classic Ripples Potato Chips,82.4,Kroger API,2050.0,12.6,189.0,139.0,0.0
+11110838063,Kroger,Home Team Ice Cream,2.99,Kroger® Cookies and Cream Ice Cream Tub,70.8,Kroger API,60.2,0.0,15.0,0.0,0.0
+11110837684,Kroger,Chicken bouillon cubes,2.19,Kroger® Chicken Bouillon Cubes,98.3,Kroger API,142.9,0.0,28.6,0.0,10.0
+11110837646,Kroger,90 Second Roasted Chicken Rice,1.5,Kroger® 90 Second Roasted Chicken Rice,98.7,Kroger API,157.0,3.3,30.1,2.0,0.3
+11110837639,Kroger,Red Beans & Rice,1.5,Kroger® 90 Second Red Beans & Rice,80.7,Kroger API,170.0,4.1,32.0,3.4,0.3
+11110837578,Kroger,Pineapple tidbits,1.49,Kroger® Canned Pineapple Tidbits in Pineapple Juice,64.0,Kroger API,53.0,0.0,14.2,0.0,0.0
+11110837448,Kroger,Roast Beef With Gravy,1.5,Kroger® Beef Gravy,73.9,Kroger API,61.2,8.8,3.1,1.5,0.0
+11110836557,Kroger,White chicken chili,1.5,McCormick White Chicken Chili Seasoning Mix,60.9,Kroger API,42.4,4.9,9.6,1.9,0.3
+11110837424,Kroger,Chunky Vegetable Ready To Serve Soup,2.5,Campbell's® Chunky® Savory Vegetable Soup,54.8,Kroger API,49.0,1.2,9.8,0.4,0.2
+11110837400,Kroger,Chunky Beef With Country Vegetables Soup,2.5,Campbell’s® Chunky® Beef Soup with Country Vegetables,74.0,Kroger API,21.1,1.7,2.5,0.5,0.0
+11110837387,The Kroger Co.,Double Filled Sandwich Cookies,3.29,Kroger® Kaleidos Original Double Filled Chocolate Sandwich Cookies,70.3,Kroger API,1690.0,11.9,250.0,71.3,0.0
+11110837332,Kroger,Whole Grain Brown Rice,1.5,Kroger® 90 Second Whole Grain Brown Rice,84.1,Kroger API,150.0,2.9,30.7,1.8,0.0
+11110837158,Kroger,Fat free cream of mushroom condensed soup,1.0,Kroger® 98% Fat Free Cream of Mushroom Condensed Soup,95.0,Kroger API,64.0,1.6,8.8,2.0,0.6
+11110836953,Kroger,Chicken & Rice Condensed Soup,1.25,Kroger Chicken with Rice Condensed Soup,93.3,Kroger API,31.4,0.6,5.8,0.6,0.0
+11110838964,Kroger,Hot chili with beans,0.89,Kroger® Spicy Chili Hot Beans in Hot Sauce,60.9,Kroger API,290.0,16.0,33.0,10.0,1.0
+11110839039,Kroger,Beef Stew,3.49,Kroger® Beef Stew,97.0,Kroger API,35.1,2.3,3.6,1.3,0.0
+11110839053,Kroger,Beef Ravioli In Tomato & Meat Sauce,4.79,Kroger® Beef Ravioli,61.3,Kroger API,41.0,1.4,5.7,1.4,0.0
+11110840608,Kroger,Rich & Creamy Vanilla Frosting,2.0,Betty Crocker Rich and Creamy Vanilla Frosting,81.9,Kroger API,1300.0,0.0,202.0,55.1,0.0
+11110839961,Kroger,Microwaveable Noodles And Chicken,2.79,Campbell's® Chicken Noodle Soup Microwavable Bowl,42.7,Kroger API,42.9,1.8,4.4,2.0,0.0
+11110839954,Kroger,Microwaveable Chili With Beans,2.99,Campbell's® Chunky™ Chili With Beans Microwavable Bowl,39.6,Kroger API,55.4,3.2,5.5,2.3,0.0
+11110839909,Kroger,Rice With Chicken And Vegetables,1.25,Chef Boyardee Rice With Chicken & Vegetables,77.1,Kroger API,46.3,1.6,6.0,1.8,0.0
+11110839732,Kroger,Rich & Creamy Chocolate Fudge Frosting,1.49,"Pillsbury Creamy Supreme Chocolate Fudge Flavored Frosting, 16 Oz Tub",57.9,Kroger API,1270.0,0.0,193.0,55.1,0.0
+11110839558,Kroger,"Chicken Breast, Canned in Water",1.29,Kroger® Premium Chicken Breast Chunk in Water,80.5,Kroger API,106.0,22.4,1.2,1.8,0.4
+11110839541,Kroger,Chunk Chicken In Water,1.29,Kroger® Chunk Chicken in Water,98.3,Kroger API,100.0,16.5,0.0,2.9,0.4
+11110839534,Simple Truth,Canadian Bacon Breakfast Sandwiches,6.99,Simple Truth® Cloud'Wich® Maple Chicken Sausage Cheese & Egg Breakfast Sandwiches,63.6,Kroger API,127.0,9.4,14.8,3.4,0.0
+11110839510,Kroger,Corned Beef Hash,4.79,Mary Kitchen® Homestyle Corned Beef Hash,63.5,Kroger API,69.7,4.0,3.8,4.3,0.0
+11110839220,Kroger,Corned beef,6.99,Select Boneless Flat Cut Corned Beef Brisket,45.2,Kroger API,214.3,23.2,0.0,14.3,1.0
+11110839176,Kroger,Pork Luncheon Meat,2.29,Kroger® Original Luncheon Meat,83.6,Kroger API,526.0,25.2,0.0,47.2,0.0
+11110839152,Kroger,Dumplings And Chicken,2.79,Progresso Traditional Chicken and Herb Dumplings Soup,39.5,Kroger API,38.5,2.2,4.9,1.1,0.0
+11110839107,Kroger,Spaghetti in tomato & cheese sauce,3.0,Classico Tomato & Basil Spaghetti Pasta Sauce,46.5,Kroger API,75.3,2.1,14.4,0.8,0.2
+11110839077,Kroger,Mini Beef Ravioli,4.79,Kroger® Beef Ravioli,86.4,Kroger API,34.1,1.5,5.7,1.2,0.0
+11110830043,Kroger,Sugar Free Bread & Butter Chips,2.29,Kroger® Sugar Free Bread & Butter Chips,98.7,Kroger API,50.4,0.0,12.6,0.0,0.0
+11110832832,Simple Truth Organic,Pizza Sauce,1.99,Simple Truth Organic™ Pizza Sauce,98.5,Kroger API,80.6,1.6,9.7,4.0,0.4
+11110831552,Kroger,"Pineapple Tidbits, In Pineapple Juice",1.49,Kroger® Canned Pineapple Tidbits in Pineapple Juice,91.5,Kroger API,57.0,0.8,13.9,0.0,0.0
+11110831439,"The Kroger Co., Kroger",Pure Corn Starch,2.69,Kroger® Pure Corn Starch,73.0,Kroger API,30.0,0.0,7.0,0.0,0.0
+11110831323,Kroger,Crushed Pineapple In Heavy Syrup,1.49,Kroger® Canned Crushed Pineapple in Heavy Syrup,90.7,Kroger API,64.5,0.8,16.1,0.0,0.0
+11110831293,Kroger,"Kroger, crushed pineapple, in pineapple juice",1.49,Kroger® Canned Crushed Pineapple in Pineapple Juice,89.1,Kroger API,57.0,0.0,13.9,0.0,0.0
+11110831187,Kroger,Sliced Pineapple In Pineapple Juice,1.49,Kroger® Canned Pineapple Slices in Pineapple Juice,84.8,Kroger API,49.3,0.0,12.3,0.0,0.0
+51000207814,Campbell's,"Condensed Soup, Cream Of Potato",1.99,Campbell's® Condensed Cream of Potato Soup,86.7,Kroger API,75.0,1.7,13.3,1.7,0.6
+11110836311,Kroger,Fruit & Yogurt Chewy Granola Bars,3.19,Quaker® Chewy Yogurt Strawberry Granola Bars,64.3,Kroger API,1180.0,16.3,204.0,32.7,0.0
+11110829856,Simple Truth Organic,Coconut Water,1.99,Simple Truth Organic® Original No Sugar Added Coconut Water Carton,68.0,Kroger API,16.0,0.0,4.0,0.0,0.0
+11110829214,Private Selection,Napoletana Roasted Garlic Sauce,3.79,Private Selection® Imported Roasted Garlic Pasta Sauce,81.6,Kroger API,38.7,1.9,7.0,0.3,0.0
+11110829122,Private Selection,Garlic butter,3.99,"Private Selection® Butter With Garlic, Parmesan & Basil",60.5,Kroger API,667.0,0.0,0.0,77.8,1.9
+51000207821,Campbell's,Classic Recipe Condensed Soup,2.99,Campbell's® Condensed Chicken Noodle Soup Dry Egg Noodle Recipe Family Size Can,38.7,Kroger API,83.3,2.5,15.0,1.7,0.7
+51000209634,Campbell's,"Campbell'S, Chunky, Soup, New England Clam Chowder",2.5,Campbell's® Chunky® Soup New England Clam Chowder Can,84.7,Kroger API,75.0,2.1,7.5,4.2,0.4
+11110828828,The Kroger Co.,Peeled Diced Tomatoes,1.0,Kroger® Petite Diced Peeled Tomatoes,66.7,Kroger API,16.4,0.7,3.4,0.0,0.0
+11110832962,Kroger,"Kroger, sausage & pancake, blueberry, blueberry",2.49,Kroger® Blueberry Frozen Waffles,45.8,Kroger API,355.0,7.1,31.9,22.0,0.5
+11110836205,Simple Truth Organic,Marinara Pasta Sauce,2.79,Simple Truth Organic® No Sugar Added Marinara Pasta Sauce,83.7,Kroger API,58.7,1.6,7.8,2.4,0.0
+11110836083,Simple Truth,Tart cherry juice,19.99,Simple Truth® 100% Tart Cherry Juice Concentrate,76.9,Kroger API,58.3,0.0,14.6,0.0,0.0
+11110836052,"Simple Truth,  The Kroger Co.",Cranberry juice,5.49,Simple Truth® Organic No Sugar Added Cranberry 100% Juice,66.7,Kroger API,29.2,0.0,7.5,0.0,0.0
+11110835826,Simple Truth Organic,Applesauce Variety pack,3.99,Simple Truth Organic® Unsweetened Applesauce Cups,71.0,Kroger API,66.7,0.0,17.8,0.0,0.0
+11110835369,Simple Truth,Greek nonfat yogurt,4.99,Simple Truth Organic® Plain Nonfat Greek Yogurt Tub,67.5,Kroger API,87.0,8.7,12.0,0.0,0.0
+11110835291,Simple Truth,Organic Plain Greek Nonfat Yogurt,4.99,Simple Truth Organic® Plain Nonfat Greek Yogurt Tub,82.5,Kroger API,35.5,6.7,2.2,0.0,0.0
+11110834607,simple truth organic,SNACK CRACKERS,3.49,Simple Truth Organic® Wheat Crackers,87.3,Kroger API,500.0,6.7,63.3,23.3,1.1
+11110834546,Simple Truth Organic,Plain Greek Nonfat Yogurt,4.99,Simple Truth Organic® Plain Nonfat Greek Yogurt Tub,82.5,Kroger API,24.1,4.7,1.4,0.0,0.0
+11110834492,Simple Truth,Unsweetened vanilla almond milk,2.69,Simple Truth® Dairy Free Unsweetened Vanilla Almond Milk Half Gallon,78.6,Kroger API,12.5,0.4,0.8,1.2,0.1
+11110834300,Simple Truth,Almond Butter,5.49,Simple Truth® Almond Butter Smooth No Stir,76.5,Kroger API,2040.0,68.4,68.4,166.0,0.0
+11110833747,Private Selection,Italian rigatoni pasta,1.99,Private Selection® Italian Rigatoni,90.7,Kroger API,357.1,12.5,75.0,1.8,0.0
+11110833259,The Kroger Co.,52% vegetable oil spread,4.49,Kroger® Buttery Vegetable Oil Spread,74.7,Kroger API,500.0,0.0,0.0,50.0,0.8
+11110809780,Simple Truth Organic,Deluxe cheddar shells & cheese,3.99,Simple Truth Organic® Deluxe Cheddar Shells & Cheese,99.0,Kroger API,309.9,12.7,46.5,9.9,0.8
+11110809544,Kroger,"Roasted Garlic, Tomato & Basil Rice Pilaf",2.99,Near East® Garlic & Herb Rice Pilaf Mix,65.1,Kroger API,343.0,10.0,74.3,1.4,1.1
+11110809520,Kroger,Savory Southwest Rice Pilaf,1.5,Rice-A-Roni® Rice Pilaf,45.6,Kroger API,494.0,14.1,105.0,2.0,0.0
+11110735195,Kroger,Sweet & Spicy Steak Sauce,1.79,Kroger® Sweet & Spicy BBQ Sauce,85.7,Kroger API,969.0,0.0,242.0,0.0,0.0
+51000215185,Campbell's,Oven sauces,1.59,Campbell's® Mushroom Gravy,54.2,Kroger API,66.7,1.7,8.3,1.7,1.2
+11110744210,Kroger,Taco sauce,2.99,Kroger® Mild Taco Sauce,85.0,Kroger API,81.0,0.0,16.1,0.0,0.7
+11110740373,Private Selection,Parmesan & Peppercorn Gourmet Dip,5.49,La Terra Fina® Artichoke & Jalapeno Dip & Spread,36.4,Kroger API,1220.0,33.3,22.2,111.0,0.0
+11110738639,"The Kroger Co., Kroger",Light corn syrup,6.49,Kroger® Light Corn Syrup,73.0,Kroger API,400.0,0.0,100.0,0.0,0.1
+11110738448,The Kroger Co.,Beef Broth,1.29,Kroger® Fat Free Beef Broth,69.2,Kroger API,0.7,0.2,0.0,0.0,0.0
+11110738127,Kroger,Three Cheese Ranch,5.49,Kroger® Three Cheese Pimento Cheese Spread,68.7,Kroger API,1640.0,11.9,23.8,166.0,0.0
+11110736727,Kroger,Caribbean Jerk With Papaya Juice,2.49,Kroger® Caribbean Jerk Marinade,71.4,Kroger API,830.0,0.0,208.0,0.0,0.0
+11110735140,Kroger,Original Steak Sauce,1.79,Kroger® This Is The Original BBQ Sauce,67.7,Kroger API,88.2,0.0,17.6,0.0,1.2
+11110719287,The Kroger Co.,Worcestershire Sauce,1.49,Kroger® Worcestershire Sauce,85.7,Kroger API,33.3,0.0,6.7,0.0,0.4
+11110734853,Kroger,"Kroger, chocolate milk mix, chocolate",2.49,Kroger® Reduced Calorieˆ Milk Chocolate Flavored Hot Cocoa Mix,46.2,Kroger API,375.0,6.2,93.8,0.0,0.2
+51000215338,Campbell's,Roasted Chicken Noodle Soup,4.49,Campbell's Slow Kettle Style Roasted Chicken Noodle Soup with White Meat Chicken,61.0,Kroger API,38.6,3.2,4.1,1.1,0.3
+11110732934,Kroger,Onion soup & dip mix,1.19,Kroger® Onion Soup & Dip Mix,98.2,Kroger API,285.7,14.3,57.1,0.0,6.7
+11110725868,Kroger,Chili Hot Beans,0.89,Kroger® Spicy Chili Hot Beans in Hot Sauce,68.8,Kroger API,74.2,4.1,12.4,0.9,0.0
+11110723826,Kroger,Ranch With Bacon,1.5,Kroger® Ranch and Bacon Pasta Salad,65.5,Kroger API,1390.0,11.1,11.1,144.0,0.0
+11110722607,Kroger,Apricot Pineapple Preserves,5.99,Private Selection® Apricot Preserves,57.1,Kroger API,1100.0,0.0,275.0,0.0,0.0
+11110722454,"Kroger,  The Kroger Co.",Lite Soy Sauce,1.49,Kroger® Brewed Soy Sauce,61.3,Kroger API,66.7,0.0,13.3,0.0,3.3
+11110719935,Kroger,Pork Flavored Gravy Mix,0.99,Kroger® Pork Flavored Gravy Mix,98.4,Kroger API,5560.0,278.0,1110.0,0.0,0.1
+11110719850,Kroger,Thick & Zesty Spaghetti Sauce Mix,0.99,Kroger® Thick & Zesty Spaghetti Sauce Seasoning Mix,87.9,Kroger API,3750.0,0.0,938.0,0.0,0.1
+11110749086,Kroger,Traditional pasta sauce,1.99,Kroger® Classic Tomato Traditional Pasta Sauce,78.9,Kroger API,62.5,1.6,10.9,2.0,0.4
+11110764157,Kroger,Cocktail Sauce For Seafood,10.0,Kroger® Surimi Snow Legs Bowl with Cocktail Sauce,51.2,Kroger API,218.0,2.1,52.5,0.0,0.0
+11110785572,Kroger,Unsweetened Apple Sauce,3.29,Kroger® No Sugar Added Classic Apple Applesauce,57.1,Kroger API,58.8,0.0,14.7,0.0,0.0
+11110784926,Kroger,Roasted Chicken Noodle,4.49,Campbell's Slow Kettle Style Roasted Chicken Noodle Soup with White Meat Chicken,44.0,Kroger API,17.6,1.2,2.7,0.2,0.0
+11110784902,Private Selection,Sweet Finishing Butter,3.59,Private Selection™ New Zealand Grass Fed Salted Butter Block,54.0,Kroger API,4290.0,0.0,153.0,408.0,0.0
+11110784261,Kroger,Fruity Crisp Rice,1.99,Kroger® Crispy Rice Cereal,68.0,Kroger API,1240.0,11.1,300.0,0.0,0.0
+11110784148,Kroger,Sweetened corn cereal,2.79,Kroger® Rice Bitz Cereal,61.5,Kroger API,385.0,3.8,84.6,3.8,0.5
+11110784131,Kroger,Frosted Toasted Oats With Marshmallows,1.99,Kroger® Pirate's Charrrms Cereal,46.8,Kroger API,1390.0,22.2,300.0,11.1,0.0
+11110784063,Simple Truth Organic,Spinach & Mushroom Alfredo Pizza,4.49,Simple Truth Organic™ Classic Alfredo Sauce,70.8,Kroger API,158.0,6.8,20.7,5.3,0.0
+212517016652,Private Selection,Private Selection Angus Ground Beef,7.99,Private Selection® 80/20 Angus Ground Beef Chuck Tray 1 LB,64.9,Kroger API,214.0,18.8,0.0,15.2,0.1
+11110780010,Kroger,Fajitas beef skirt steak,12.99,Steakhouse Tri Tip Steak,36.4,Kroger API,351.0,35.1,13.2,17.5,0.5
+11110766540,Kroger,Old Fashioned 100% Whole Grain Oats,2.79,100% WHOLE GRAIN OLD FASHIONED OATS - KROGER - 18 OZ,44.7,Kroger API,375.0,12.5,67.5,6.2,0.0
+11110766533,Kroger,"Kroger, cheesecake, cheese",3.29,Kroger® Strawberry Cheesecake Frozen Dairy Dessert Sandwiches,56.5,Kroger API,415.0,9.4,75.5,8.5,0.7
+11110719072,simple truth,INSTANT OATMEAL ORIGINAL,3.49,Simple Truth Organic® Original Instant Oatmeal,67.5,Kroger API,393.0,17.9,64.3,7.1,0.0
+11110786029,Kroger,Breaded Mushrooms,7.99,Farm Rich Crispy Breaded Mushrooms,69.0,Kroger API,131.0,3.9,16.4,5.5,0.0
+11110674401,Kroger,Hickory Smoke Flavored Barbecue Sauce,1.79,Kroger® Hickory Smoke BBQ Sauce,77.3,Kroger API,432.0,0.0,108.0,0.0,0.0
+11110674241,Kroger,Creamy French Dressing,2.0,Kroger® Creamy French Salad Dressing,89.2,Kroger API,1370.0,0.0,62.4,125.0,0.0
+11110672698,Kroger,"Kroger, creamy peanut butter, peanut",3.99,Kroger® Creamy Peanut Butter,78.3,Kroger API,562.0,21.9,25.0,46.9,0.5
+11110669469,Kroger,Chili Sauce,2.29,Kroger® Chili Sauce Bottle,81.8,Kroger API,889.0,0.0,222.0,0.0,0.0
+11110669124,Kroger,Creamy Ranch,2.0,Kroger® Creamy Ranch Salad Dressing,70.4,Kroger API,433.0,3.3,6.7,43.3,0.8
+11110667717,Kroger,Barbecue Sauce Sweet Honey,1.79,Kroger® Honey Sweet BBQ Sauce,51.6,Kroger API,463.0,0.0,116.0,0.0,0.0
+11110667625,Kroger,Picante sauce,2.19,Kroger® Mild Picante Sauce,87.0,Kroger API,48.0,0.0,9.7,0.0,0.7
+11110667434,Kroger,Taco Sauce Mild,2.99,Kroger® Mild Taco Sauce,75.6,Kroger API,96.8,0.0,22.6,0.0,0.7
+11110666710,Kroger,Cheddar Cheese Instant Grits,3.5,Quaker® Butter Instant Grits,63.5,Kroger API,1290.0,25.5,255.0,19.1,0.0
+11110717924,Kroger,Butter Beans,1.0,Kroger® Pinto Beans,73.7,Kroger API,57.4,3.6,9.5,0.6,0.0
+11110665096,Private Selection,Chicken Tortilla Soup,6.49,Private Selection® Kettle Cooked Chicken Tortilla Soup,83.9,Kroger API,102.0,8.2,6.9,4.9,0.4
+11110665058,Private Selection,Broccoli & Cheddar Soup,6.49,Private Selection® Kettle Cooked Broccoli and Cheddar Soup,80.8,Kroger API,113.0,4.2,6.1,8.2,0.4
+11110665041,Private Selection,Farmhouse Loaded Potato Soup,6.49,Private Selection® Kettle Cooked Farmhouse Loaded Potato Soup,86.0,Kroger API,102.0,3.3,7.8,6.1,0.4
+11110665034,Private Selection,Thai-Style Chicken Coconut Curry Soup - King Soopers,6.49,Private Selection® Kettle Cooked Thai Style Chicken Coconut Curry Soup,86.4,Kroger API,139.0,7.4,8.2,8.6,0.2
+11110665027,Private Selection,Broccoli And Cheddar Soup,6.49,Private Selection® Kettle Cooked Broccoli and Cheddar Soup,85.1,Kroger API,114.0,4.1,6.1,8.2,0.4
+11110665010,Private Selection,Tomato Bisque Soup,4.99,Private Selection® Kettle Cooked Tomato Bisque Soup,82.8,Kroger API,131.0,1.6,9.0,9.8,0.3
+11110664631,Private Selection,Key Lime Cheesecake,7.99,Private Selection® Key Lime Cheesecake,98.7,Kroger API,345.0,3.5,39.8,19.5,0.3
+11110663498,Kroger,Pork Chop,10.0,Kroger® Boneless Center Cut Pork Loin Chops,54.2,Kroger API,4440.0,0.0,1110.0,0.0,0.1
+41260004216,Kroger,"Butter Mints, Butter",7.19,Kroger® Milk Chocolate Flavored Mini Peanut Butter Cups,37.0,Kroger API,364.0,0.0,90.9,0.0,0.0
+11110677273,Kroger,Buttermilk Ranch Dressing,2.0,Kroger® Buttermilk Ranch Salad Dressing,90.1,Kroger API,350.0,0.0,90.0,0.0,0.2
+11110677532,Kroger,Apple Jelly,1.99,Smart Way™ Apple Jelly,65.0,Kroger API,1400.0,0.0,350.0,0.0,0.0
+11110717894,Kroger,GREAT NORTHERN BEANS,1.0,Kroger® Great Northern Beans,98.2,Kroger API,76.9,4.6,13.8,0.0,0.3
+11110715920,Kroger,Olive Oil & Vinegar Dressing,2.0,Kroger Zesty Italian Dress & Marinade 16 fl oz,44.4,Kroger API,1040.0,0.0,11.1,111.0,0.0
+11110715364,Kroger,1883 Sauce,3.49,Kroger® 1883 Steak Sauce,82.9,Kroger API,554.0,0.0,138.0,0.0,0.0
+51000215864,Campbell's,Campbell& chunky pub-style chicken pot pie soup,2.5,Campbell's® Chunky Pub-Style Chicken Pot Pie Soup,89.7,Kroger API,71.8,3.0,6.9,3.5,0.3
+11110714459,Kroger,Grape Jelly & Peanut Butter,9.99,Kroger® Crustless Peanut Butter & Grape Jelly Sandwiches,51.1,Kroger API,805.0,17.8,103.0,35.6,0.0
+11110714206,Kroger,White Corn Meal,3.29,Kroger® Mercado Pre Cooked White Corn Meal,68.8,Kroger API,1320.0,27.4,288.0,6.8,0.0
+11110714190,Kroger,Yellow Corn Meal,2.69,Kroger® Yellow Corn Meal,97.9,Kroger API,333.0,7.4,77.8,0.0,0.0
+11110712356,Kroger,Bacon & Honey French,2.0,Kroger® California Honey French Style Salad Dressing,58.2,Kroger API,1480.0,9.8,97.7,117.0,0.0
+11110711007,Kroger,Instant Sugar Free Pudding & Pie Filling,1.0,Kroger® Sugar Free Chocolate Pudding & Pie Filling,80.4,Kroger API,4080.0,0.0,1020.0,0.0,0.1
+11110702081,The Kroger Co.,Teriyaki Marinade & Sauce,2.19,Kroger® Japanese Inspirations Teriyaki Marinade & Sauce,71.6,Kroger API,533.0,44.5,88.9,0.0,0.0
+11110697394,Kroger,Creamy Buttermilk,1.29,Kroger® Cultured 1% Lowfat Buttermilk Pint,66.7,Kroger API,1630.0,11.1,22.2,167.0,0.0
+11110697370,Kroger,Creamy Italian Dressing,2.0,Kroger® Creamy Italian Salad Dressing,89.6,Kroger API,1380.0,0.0,23.8,143.0,0.0
+51000215918,Campbell's,Creamy Garlic Butter Chicken Oven Sauces,1.59,Campbell's® Mushroom Gravy,44.2,Kroger API,150.0,1.7,8.3,11.7,1.0
+11110688712,Kroger,"Flavored Stuffing Mix, Cornbread",1.0,Kroger® Cornbread Flavored Stuffing Mix,72.7,Kroger API,393.0,10.7,75.0,3.6,1.6
+41260001994,Simple Truth Organic,Banana Kiwi Spinach Oat,1.0,Simple Truth Organic® Banana Kiwi Spinach Oat Stage 2 Baby Food Puree,77.9,Kroger API,79.6,1.8,16.8,0.0,0.0
+11110809308,Simple Truth Organic,Crushed Tomatoes,2.29,Simple Truth Organic® No Salt Added Crushed Tomatoes,83.1,Kroger API,20.8,0.0,4.2,0.0,0.0
+11110802354,Kroger,"Green beans, cut",0.89,Kroger® No Salt Cut Canned Green Beans,60.0,Kroger API,12.5,0.8,2.5,0.0,0.2
+11110803931,Kroger,Minute microwave three meat pizza,1.25,Kroger® Three Meat Crispy Crust Personal Frozen Pizza,49.5,Kroger API,250.0,7.8,31.4,10.3,0.5
+11110803917,Kroger,Supreme pizza,4.49,Kroger® Supreme Rising Crust Pizza,74.1,Kroger API,119.0,3.6,15.4,4.8,0.0
+11110803818,Kroger,Classic Crispy Crust Pizza,1.25,Kroger® Supreme Classic Crispy Crust Personal Frozen Pizza,72.5,Kroger API,255.0,7.8,32.4,10.3,0.5
+11110803740,The Kroger Co.,Crinkle cut sweet potato fries,3.49,Kroger® Sweet Potato Crinkle Cut French Fries,55.6,Kroger API,190.0,1.2,22.6,10.7,0.2
+11110803719,Kroger,Minute microwave pizza cheese,1.25,Kroger® 3 Minute Margherita Microwave Pizza,73.4,Kroger API,235.3,8.3,30.4,8.8,0.4
+11110803320,Kroger,Purified drinking water,1.39,Kroger® Drinking Gallon Water,71.2,Kroger API,0.0,0.0,0.7,0.0,0.0
+11110803061,Kroger,Green Lime Beans,0.89,Kroger® Cut Canned Green Beans,67.9,Kroger API,56.6,2.6,10.9,0.3,0.0
+11110802101,Kroger,Whole Green Beans,0.99,Kroger® Whole Green Beans,98.0,Kroger API,13.9,0.7,2.8,0.0,0.0
+11110801869,Kroger,Teriyaki smokehouse beef jerky,3.5,Kroger® Teriyaki Smokehouse Beef Jerky,98.7,Kroger API,314.3,42.9,22.9,4.3,1.8
+11110801661,Kroger,Pecan Praline Ice Cream Bars,2.99,Kroger® Low Fat Caramel Praline Frozen Yogurt Tub,54.8,Kroger API,486.0,5.5,42.0,32.9,0.0
+11110801654,Kroger,Triple Cheese Macaroni & Cheese Dinner,5.49,Kraft Triple Cheese Mac N Cheese Macaroni and Cheese Cups Dinner,64.2,Kroger API,666.0,20.8,119.0,11.9,0.0
+11110801548,Kroger,Deluxe Shells & Cheese Dinner,1.5,Kroger® Deluxe Shells and Cheddar Macaroni and Cheese,62.9,Kroger API,493.0,15.1,69.2,17.3,0.0
+51000214508,Campbell's,Swanson broth unsalted chicken,2.0,Swanson® Unsalted Chicken Broth Carton,60.8,Kroger API,10.4,2.1,0.4,0.0,0.0
+11110801098,Kroger,Turkey Jerky,3.5,Kroger® Original Smokehouse Turkey Jerky,64.4,Kroger API,282.0,49.4,10.6,3.5,1340.0
+11110801005,Kroger,Original Smokehouse Beef Jerky,3.5,Kroger® Original Smokehouse Beef Jerky,98.7,Kroger API,286.0,35.7,21.4,3.6,1.1
+11110800466,Kroger,Chunk Chicken Breast In Lemon Pepper Sauce,1.29,Kroger® Premium Chicken Breast Chunk in Water,61.7,Kroger API,63.2,11.1,3.0,0.8,0.0
+11110800138,Kroger,French Bread Microwave Pizza In Minutes,1.25,Kroger® 3 Minute Margherita Microwave Pizza,60.7,Kroger API,157.0,6.2,16.0,7.6,0.0
+11110803979,Kroger,Beans & Franks,0.89,Kroger® Hot Dog Chili Sauce,33.3,Kroger API,61.9,2.9,7.0,2.5,0.0
+11110804686,Kroger,Wide Egg Noodles,1.79,Kroger® Extra Wide Egg Noodles,86.8,Kroger API,375.0,14.3,69.6,4.5,0.0
+11110804709,Simple Truth Organic,Living butter lettuce,3.49,Simple Truth Organic® Butter Lettuce,89.7,Kroger API,14.3,1.1,1.0,0.5,0.0
+11110808905,Simple Truth,Greek Frozen Yogurt Bars,4.49,Simple Truth® Yo Greek! Raspberry Cheesecake Greek Frozen Yogurt Bars,69.8,Kroger API,226.0,9.1,32.9,6.4,0.0
+11110808578,Kroger,Chicken Enchiladas,11.99,El Monterey® Signature Family Size Frozen Chicken Enchiladas,51.8,Kroger API,59.6,2.7,8.3,1.7,0.0
+11110808257,Simple Truth Organic,Cold brew vanilla arabica coffee,7.99,Bizzy Espresso Blend Organic Cold Brew Coffee,59.2,Kroger API,42.2,2.1,8.4,0.8,0.1
+11110808240,Kroger,Cream Style Golden Corn,0.89,Kroger® Canned Cream Style Golden Corn,88.2,Kroger API,64.6,1.3,13.4,0.6,0.0
+51000214119,Campbell's,Pasta,1.39,Campbell's® Spaghetti O's® Where's Waldo?® Shapes Canned Pasta,41.0,Kroger API,94.2,3.5,14.6,2.3,0.2
+11110807656,Kroger,White cranberry peach flavored juice cocktail,2.5,Kroger® White Cranberry Peach Juice Cocktail,89.6,Kroger API,50.0,0.0,12.9,0.0,0.0
+11110806338,Simple Truth Organic,Vanilla Cookie Spread,3.99,Simple Truth Organic™ Strawberry Fruit Spread,69.0,Kroger API,1560.0,7.3,153.0,102.0,0.0
+11110805515,Kroger,Toasted Flakes With Fruit & Yogurt,2.79,Kroger® Fruit and Yogurt Toasted Flakes Cereal,52.9,Kroger API,1220.0,19.5,264.0,9.8,0.0
+11110790446,Simple Truth Organic,Organic Tortilla Chips,2.99,Simple Truth® Blue Corn Tortilla Chips,76.5,Kroger API,1710.0,25.5,230.0,76.5,0.0
+11110790026,Kroger,Traditional Alfredo Sauce,1.99,Kroger® Traditional Alfredo Sauce,98.5,Kroger API,113.0,1.6,6.4,8.1,0.5
+11110789907,Kroger,Buttermilk Waffles,2.49,Kroger® Buttermilk Waffles,98.0,Kroger API,416.0,8.2,59.2,16.3,0.0
+11110789228,"The Kroger Co., Kroger",Grated parmesan cheese,5.99,Kroger® Grated Parmesan Cheese,77.3,Kroger API,400.0,40.0,0.0,30.0,1.3
+11110787835,The Kroger Co.,Vitamin Enhanced Water Beverage,2.49,Kroger® Vitamin Guava Water Enhancer Bottle,58.4,Kroger API,4.2,0.0,1.1,0.0,0.0
+11110787798,The Kroger Co.,Vitamin Enhancer Water Beverage,2.49,Kroger® Vitamin Grape Water Enhancer Bottle,58.4,Kroger API,4.9,0.0,1.2,0.0,0.0
+11110787552,Kroger,Peanut butter sandwich cookies,3.49,Kroger® Really Nutty Peanut Butter Sandwich Cookies,84.1,Kroger API,480.0,8.0,64.0,24.0,0.4
+11110799302,Kroger,Microwave Natural Popcorn,5.29,"Orville Redenbacher’s Naturals Simply Salted Microwave Popcorn, Microwave Popcorn",42.5,Kroger API,1540.0,33.3,178.0,77.8,0.0
+11110786968,Simple Truth Organic,Coffee Ice Cream,3.99,Simple Truth® No Sugar Added Mint Chip Frozen Dairy Dessert Pint,47.5,Kroger API,216.0,3.4,21.6,13.6,0.0
+11110786890,Kroger,"Kroger, blossom flower shaped pastry, caramel apple",1.5,Kroger® Sweet Apples & Caramel Snack Tray,51.5,Kroger API,292.0,2.6,39.8,13.3,0.3
+11110786715,Kroger,Natural Applesauce,2.0,Kroger® No Sugar Added Classic Apple Applesauce Cups,59.7,Kroger API,35.0,0.0,8.7,0.0,0.0
+11110786630,Simple truth,Refined Expeller Pressed Liquid Coconut Oil,5.49,Simple Truth Organic® Refined Coconut Oil,66.0,Kroger API,857.0,0.0,0.0,100.0,0.0
+11110786586,Kroger,Thin crust pizza - Tree pepperoni,4.49,Kroger® Four Cheese Thin Crust Frozen Pizza,69.7,Kroger API,248.0,11.8,20.3,13.7,0.6
+11110786579,Simple Truth Organic,Coconut Oil,6.49,Simple Truth Organic® Unrefined Virgin Coconut Oil,78.0,Kroger API,857.0,0.0,0.0,100.0,0.0
+11110786357,Kroger,Kroger Buttermilk Pancakes,2.19,Kroger® Complete Buttermilk Pancake & Waffle Mix,69.1,Kroger API,256.4,5.1,48.7,5.1,0.4
+11110786333,Kroger,Oval Cut Hamburger Dill Chips,2.69,Kroger® Hamburger Dill Oval Cut Pickle Chips,67.5,Kroger API,0.0,0.0,3.6,0.0,0.8
+11110786210,Kroger,Flatbread sandwiches,6.99,Sandwich Bros. Egg And Cheese Flatbread Pocket Breakfast Sandwiches,53.2,Kroger API,198.0,12.5,22.9,8.3,0.6
+11110790736,Simple Truth Organic,Animal Crackers,2.99,Simple Truth® Gluten Free Animal Crackers,77.9,Kroger API,428.6,7.1,75.0,12.5,0.2
+11110799203,Kroger,Sweet & salty kettle microwave popcorn,2.99,Kroger® Sweet and Salty Kettle Microwave Popcorn,94.6,Kroger API,100.0,3.3,13.3,6.7,0.1
+11110797926,Simple Truth Organic,Whole Milk,4.29,Simple Truth Organic® Vitamin D Whole Milk Half Gallon,72.9,Kroger API,26.8,1.4,2.1,1.4,0.0
+11110794031,Private Selection,Pineapple upside down cakes,14.99,Bakery Fresh Pineapple Upside Down Cake,71.4,Kroger API,300.0,3.6,44.3,11.4,0.2
+11110793478,Kroger,Fully Cooked Popcorn Chicken,10.99,Perdue® Frozen Fully Cooked Breaded Popcorn Chicken Breast Chunks,64.0,Kroger API,253.0,16.6,24.9,9.7,0.0
+11110791900,Simple Truth,Simple Truth Artesian Water,1.59,Simple Truth® Artesian Bottled Water,71.1,Kroger API,0.2,0.0,0.0,0.0,0.0
+11110791665,simple truth organic,Crunchy Peanut Butter Spread,4.69,Simple Truth Organic® Peanut Butter No Stir Crunchy,74.0,Kroger API,594.0,21.9,21.9,50.0,0.3
+11110791566,Simple Truth Organic,Peanut Butter,4.69,Simple Truth Organic® Peanut Butter No Stir Creamy,81.0,Kroger API,594.0,21.9,21.9,50.0,0.3
+11110791559,Simple Truth Organic,Crunchy Peanut Butter,4.69,Simple Truth Organic® Peanut Butter Crunchy,80.0,Kroger API,1950.0,78.1,58.6,156.0,0.0
+11110791535,Simple Truth Organic,Creamy Peanut Butter,4.69,Simple Truth Organic® Peanut Butter Creamy,81.9,Kroger API,594.0,25.0,21.9,50.0,0.4
+11110791351,Simple Truth Organic,Frozen pineapple chunks,2.79,Simple Truth Organic® Chunked Frozen Pineapple,82.2,Kroger API,49.6,0.7,12.8,0.0,0.0
+11110791238,The Kroger Co.,Chicken Strips,13.99,Kroger® Crispy Chicken Strip,77.2,Kroger API,242.0,18.4,19.8,9.9,0.0
+11110790859,The Kroger Co.,Classic alfredo sauce,2.49,Ragu® Classic Alfredo Sauce,76.2,Kroger API,112.9,1.6,4.8,11.3,0.7
+210121608348,Tyson,Chicken Thigh - Boneless Skinless,2.99,Tyson® All Natural Fresh Chicken Thighs,65.5,Kroger API,141.0,16.8,0.0,8.8,0.1
+210121606702,Tyson,Boneless Skinless Chicken Thighs,4.49,Tyson® All Natural Fresh Boneless Skinless Chicken Thighs,80.0,Kroger API,143.0,17.0,0.0,8.9,0.1
+210116606700,Tyson,"Thin sliced, boneless skinless chicken breast",5.99,Tyson® All Natural Fresh Thin Sliced Boneless Skinless Chicken Breasts with Rib Meat,74.6,Kroger API,98.2,24.1,0.0,0.0,0.0
+28400648707,Doritos,Top n go nacho tortilla chips,5.99,Doritos® Nacho Cheese Flavored Tortilla Chips,68.3,Kroger API,479.8,7.6,70.7,12.6,0.7
+28400623537,Cheetos,BAKED Flamin' Hot Flavored Cheese Flavored Snacks,4.99,Cheetos® Flamin' Hot® Oven Chips,58.4,Kroger API,444.0,8.1,72.6,16.1,0.5
+28400637695,Lay's,Poppables potato snacks,3.99,Lay's® Poppables Sweet Potato Potato Chips,67.6,Kroger API,536.0,3.6,60.7,28.6,0.6
+28400638173,Doritos,"Breaded Cheese Snacks, Cool Ranch",2.5,Doritos® Minis™ Cool Ranch Minis Tortilla Snack Stacks Crisps Chips,37.4,Kroger API,346.0,10.3,29.5,20.5,0.9
+28400643078,Doritos,Spicy Nacho Cheese Doritos,2.69,DORITOS® Spicy Nacho Cheese Tortilla Chips,81.6,Kroger API,152.0,2.0,18.0,8.0,0.2
+28400600934,Tostitos,"Black Bean Chips, Sea Salt",3.99,Tostitos® Simply Tortilla Chips Sea Salt Made With Avocado Oil,54.2,Kroger API,500.0,14.3,60.7,25.0,0.4
+28400657952,"Lay's, Lays",Crispy taco flavored potato chips,3.99,Lay's® Classic Potato Chips,63.9,Kroger API,150.1,2.0,15.0,10.0,0.2
+28400670562,Doritos,"Nacho Cheese Flavored Snack Mix, Nacho Cheese",5.99,Doritos® Nacho Cheese Flavored Tortilla Chips,72.2,Kroger API,536.0,10.7,53.6,32.1,0.7
+71921746520,Kraft,California Pizza Kitchen BBQ Chicken,9.49,California Pizza Kitchen BBQ Recipe Chicken Frozen Pizza Chicken Pizza on a Crispy Thin Crust,53.3,Kroger API,209.0,11.5,23.7,7.9,0.4
+28400691840,Tostitos,Nacho Cheese Dip,4.99,Tostitos® Medium Nacho Cheese Dip,86.2,Kroger API,468.0,0.0,52.0,31.2,2.7
+28400597319,Tostitos,"Black Bean & Corn Salsa, Mild",4.99,Private Selection® Chunky Mild Black Bean and Corn Salsa,60.2,Kroger API,45.5,3.0,6.1,0.0,0.7
+28400310406,Lay's,Lay € barbecue flavored potato chips,0.5,Lay's® Barbecue Flavored Potato Chips,91.1,Kroger API,536.0,7.1,57.1,32.1,0.7
+28400313681,Cheetos,Simply white cheddar flavored cheese puffs,5.99,Cheetos Simply Puffs Cheese Flavored Snacks White Cheddar Flavored,63.8,Kroger API,83.1,1.2,8.3,4.8,0.1
+1552997,Kroger,Kroger Stuffed Mac & Cheese Bites,2.99,Kroger® Baked Cheesy Bitz Cheddar Cheese Crackers,49.4,Kroger API,269.2,5.1,26.9,14.1,0.0
+28400323857,"Lay's, Lays",Salt & Vinegar Chips,3.99,Lay's® Kettle Cooked Sea Salt and Vinegar Kettle Potato Chips,60.2,Kroger API,571.0,7.1,53.6,35.7,0.8
+28400324205,"Lay's, Lays",Lay’s Barbecue Flavoted Potato Chips,2.69,Lay's® Barbeque Flavored Potato Chips,80.0,Kroger API,536.0,7.1,57.1,32.1,0.7
+28400335768,Doritos,"Doritos, Toasted Corn Tortilla Chips",5.99,Tostitos® Cantina Traditional Yellow Corn Tortilla Chips,64.6,Kroger API,500.0,7.1,64.3,25.0,0.4
+28400361408,Cheetos,Popcorn Cheddar,5.19,Smartfood® Cheetos® Cheddar Popcorn,51.7,Kroger API,565.0,11.3,45.2,39.5,0.9
+28400361415,Cheetos,Flamin' Hot Cheetos Popcorn,5.19,Smartfood® Cheetos® Flamin' Hot® Popcorn,72.0,Kroger API,565.0,5.6,45.2,39.5,1.1
+28400376877,Lay's,Limón Flavored Potato Chips,2.69,Lay's® Barbeque Flavored Potato Chips,80.0,Kroger API,16000.0,200.0,1700.0,1000.0,20.0
+28400385879,LAY'S,"Lay'S, Potato Chips, Honey Barbecue, Honey Barbecue",3.99,Lay's® Honey Barbecue Potato Chips,50.0,Kroger API,544.0,6.0,56.5,34.3,0.4
+28400412605,LAY'S,Potato Chips,3.99,Lay's® Classic Potato Chips,80.0,Kroger API,544.0,6.0,58.5,32.3,0.3
+8715700411231,Heinz,Cocktail Sauce,2.79,Heinz Original Cocktail Sauce,81.6,Kroger API,399.0,2.2,15.0,36.0,0.5
+28400415293,Doritos,"Tortilla Chips, Salsa Verde",5.99,Doritos Salsa Verde Flavored Tortilla Chips,57.1,Kroger API,494.0,7.0,67.0,26.5,0.8
+28400436342,Doritos,"Tortilla Chips, [Ranch Dipped Hot Wings]",5.99,Doritos® Cool Ranch Flavored Tortilla Chips,48.9,Kroger API,464.0,7.1,60.7,25.0,1.0
+28400465533,Lay's,French onion dip,4.99,Lays French Onion Dip 15 oz,85.7,Kroger API,181.8,3.0,6.1,15.2,0.6
+28400516310,Doritos,Cool Ranch Flavored Tortilla Chips,5.99,Doritos® Cool Ranch Flavored Tortilla Chips Party Size,87.5,Kroger API,535.7,7.1,53.6,28.6,0.6
+28400534758,Lay's,Creamy Jalapeño dip,3.99,Lay's® Kettle Cooked Jalapeño Kettle Potato Chips,54.1,Kroger API,176.5,2.9,2.9,17.6,0.5
+28400577816,Doritos,"Breaded Cheese Snacks, Nacho Cheese",2.5,Doritos® Minis™ Nacho Cheese Minis Tortilla Snack Stacks Crisps Chips,39.6,Kroger API,327.0,9.6,28.8,17.3,0.7
+28400578028,Doritos,"Loaded Breaded Cheese Snacks, Jalapeno & Cheese",2.5,Doritos® Minis™ Nacho Cheese Minis Tortilla Snack Stacks Crisps Chips,47.2,Kroger API,308.0,9.6,26.9,17.3,0.6
+28400704045,Doritos,Minis Nacho Cheese,2.5,Doritos® Minis™ Nacho Cheese Minis Tortilla Snack Stacks Crisps Chips,54.7,Kroger API,507.0,7.2,61.6,25.4,0.6
+44700006795,Heinz,Nachos cheese dip & salsa,2.29,"Lunchables Nachos with Cheese Dip and Salsa, Pack",67.5,Kroger API,360.9,5.3,48.1,17.3,0.6
+44700070611,Oscar mayer,"Turkey Breast, Honey Smoked",4.99,Oscar Mayer Deli Fresh Honey Smoked Turkey Breast Thin Sliced Lunchmeat,58.7,Kroger API,113.0,12.9,4.8,4.8,0.7
+44700061459,Oscar mayer,Natural Slow Roasted Turkey Breast,4.99,Oscar Mayer Deli Fresh Oven Roasted Turkey Breast Thin Sliced Lunchmeat,59.8,Kroger API,107.1,17.9,1.8,1.8,1.0
+44700061473,Oscar Mayer,Natural applewood smoked uncured ham,4.99,Oscar Mayer Deli Fresh Smoked Uncured Ham Thin Sliced Lunchmeat,59.5,Kroger API,107.0,17.9,3.6,3.6,0.8
+44700061893,Oscar Mayer,Selects natural slow roasted roast beef,4.99,Oscar Mayer Deli Fresh Slow Roasted Roast Beef Thin Sliced Lunchmeat,67.2,Kroger API,125.0,19.6,1.8,3.6,0.7
+44700063378,Oscar mayer,"Center Cut Bacon, Original",8.99,Oscar Mayer Original Center Cut Bacon,75.7,Kroger API,462.0,46.2,0.0,26.9,1.6
+44700063767,Oscar Mayer,Natural Angus uncured angus beef,8.49,Oscar Mayer Natural Selects Bun-Length Angus Beef Uncured Beef Franks Hot Dogs Pack,52.0,Kroger API,160.0,6.0,1.0,14.0,0.4
+28400719087,Lay's,buffalo chicken sandwich baked lays,3.99,Lay's® Barbecue Potato Chips,43.5,Kroger API,433.1,7.5,73.4,11.3,0.5
+44700064375,Oscar Mayer,Lean White Turkey Smoked,4.99,Oscar Mayer Lean Smoked White Turkey Sliced Lunch Meat Pack,69.5,Kroger API,383.0,63.8,25.5,19.1,2.7
+44700070147,Oscar Mayer,Cracked Black Pepper Turkey Breast,4.99,Oscar Mayer Deli Fresh Cracked Black Pepper Turkey Breast Thin Sliced Lunchmeat,73.6,Kroger API,88.2,15.9,3.5,1.8,0.9
+44700070680,Oscar mayer,"Turkey Breast, Mesquite Smoked",4.99,Oscar Mayer Deli Fresh Mesquite Smoked Turkey Breast Thin Sliced Lunchmeat,57.4,Kroger API,107.0,14.3,3.6,5.4,0.8
+44700070789,Oscar mayer,Bacon Dogs,8.99,Oscar Mayer Original Center Cut Bacon,57.6,Kroger API,260.0,12.0,4.0,22.0,0.7
+28400724944,Doritos,Doritos Cool Ranch popcorn,2.69,Doritos® Cool Ranch Tortilla Chips,61.8,Kroger API,571.4,7.1,50.0,39.3,0.7
+44700072752,Oscar Mayer,Turkey Colby Jack Almonds,1.99,"P3 Portable Protein Pack Turkey, Almonds, Colby Jack Cheese, Tray",43.1,Kroger API,321.4,23.2,7.1,23.2,0.8
+44700072899,Oscar mayer,Water Added Smoked Ham,5.99,Oscar Mayer Lean Smoked Ham Thin Sliced Lunchmeat,57.8,Kroger API,89.3,17.9,0.0,3.6,0.8
+44700073230,Oscar mayer,Beef & Cheddar Franks,6.49,"Oscar Mayer Classic Beef Franks Hot Dogs, Pack",58.2,Kroger API,300.0,12.0,2.0,26.0,0.8
+44700034521,Oscar mayer,Smoked Shaved White Turkey,4.99,Oscar Mayer Lean Smoked White Turkey Sliced Lunch Meat Pack,63.9,Kroger API,107.0,12.5,3.6,4.5,0.7
+44700033791,Oscar Mayer,Buffalo style grilled chicken breast strips,4.99,"Oscar Mayer Carving Board Buffalo Style Grilled Chicken Breast Strips, Pack",84.6,Kroger API,131.0,22.6,4.8,1.8,0.6
+44700033364,Heinz,Carving board applewood smoked turkey breast,4.99,Oscar Mayer Carving Board Applewood Smoked Turkey Breast Lunchmeat 7.5 oz,74.8,Kroger API,107.1,21.4,1.8,1.8,1.0
+44700033302,Oscar Mayer,Carving Board Oven Roasted Turkey Breast,4.99,Oscar Mayer Carving Board Oven Roasted Turkey Breast Thick Sliced Lunchmeat,81.9,Kroger API,107.1,21.4,1.8,1.8,1.0
+44700008775,Oscar Mayer,Beef bologna,7.49,Oscar Mayer Original Beef Bologna Thin Sliced Lunchmeat,60.8,Kroger API,321.4,10.7,3.6,28.6,0.9
+44700011201,Oscar Mayer,Beef Cotto Salami,3.29,Oscar Mayer Cotto Salami Thin Sliced Lunchmeat,64.0,Kroger API,214.3,14.3,3.6,16.1,0.8
+44700011843,Oscar Mayer,Ham and cheese loaf,4.99,Oscar Mayer Ham & Cheese Loaf Thin Sliced Lunchmeat,68.3,Kroger API,250.0,10.7,10.7,16.1,0.8
+44700012802,Oscar Mayer,Braunschweiger Liver sausage,3.59,Kroger® Authentic Braunschweiger,50.0,Kroger API,339.3,14.3,1.8,25.0,1.5
+44700019054,Heinz,Free boiled ham,5.99,Oscar Mayer Lean Smoked Ham Thin Sliced Lunchmeat,28.6,Kroger API,109.4,18.8,0.0,3.1,0.9
+44700019887,Oscar Mayer,Original Bacon,8.99,Oscar Mayer Original Center Cut Bacon,82.5,Kroger API,474.0,36.8,0.0,36.8,1.8
+44700021323,Oscar Mayer,"Maple Naturally Hardwood Smoked Bacon, Maple",8.99,Oscar Mayer 12-Hour Real Wood Smoked Bacon,70.1,Kroger API,500.0,33.3,0.0,38.9,2.1
+44700022566,Oscar mayer,"Original Fully Cooked Bacon, Original",4.99,"Oscar Mayer Original Fully Cooked Bacon, Box, 9-11 slices",80.0,Kroger API,429.0,42.9,0.0,28.6,2.0
+44700022689,Oscar Mayer,Center Cut Original Bacon,8.99,Oscar Mayer Original Center Cut Bacon,75.7,Kroger API,462.0,38.5,0.0,34.6,1.8
+44700023280,Oscar Mayer,Center cut thick sliced bacon,4.99,"Oscar Mayer Fully Cooked Thick Cut Bacon, Box, 7-9 slices",57.1,Kroger API,500.0,40.0,0.0,35.0,1.9
+44700023983,Oscar mayer,"Oscar Mayer, Applewood Smoked Bacon",8.99,Oscar Mayer 12-Hour Real Wood Smoked Bacon,77.3,Kroger API,500.0,27.8,5.6,38.9,1.8
+28400712293,Doritos,nacho cheese crackers,5.99,Doritos® Nacho Cheese Chips Multipack,75.8,Kroger API,63.9,1.0,7.4,3.5,0.1
+44700030394,Oscar Mayer,Deli Fresh Slow Roasted Roast Beef,4.99,Oscar Mayer Deli Fresh Slow Roasted Roast Beef Thin Sliced Lunchmeat,80.7,Kroger API,121.0,17.2,1.7,4.3,0.9
+44700030530,Oscar Mayer,Turkey breast,4.99,Oscar Mayer Carving Board Oven Roasted Turkey Breast Thick Sliced Lunchmeat,50.0,Kroger API,81.0,16.0,2.1,1.0,0.7
+44700031407,Oscar Mayer,Real bacon bits pouch,3.99,Oscar Mayer Real Hickory Smoke Bacon Bits Bag 0.5-1 cup,65.9,Kroger API,429.0,42.9,0.0,28.6,2.3
+44700031599,Oscar Mayer,Rotisserie Seasoned Chicken Breast,4.99,Oscar Mayer Deli Fresh Rotisserie Seasoned Chicken Breast Thin Sliced Lunchmeat,73.6,Kroger API,89.3,14.3,1.8,1.8,0.9
+15550186005,Simple Truth,Gluten Free 5 Cheese Pizza,8.99,Simple Truth® 5 Cheese Gluten Free Frozen Pizza,74.4,Kroger API,279.0,9.8,31.1,13.1,0.6
+28400305907,Cheetos,Popcorn flamin hot,5.19,Smartfood® Cheetos® Flamin' Hot® Popcorn,45.5,Kroger API,571.4,7.1,46.4,39.3,1.1
+28400305891,Cheetos,Cheetos Popcorn Cheddar,5.19,Smartfood® Cheetos® Cheddar Popcorn,54.5,Kroger API,571.4,10.7,46.4,39.3,0.9
+28400047234,Lay's,Lays Kettle Cooked Jalapeno Chips,3.99,Lay's® Kettle Cooked Jalapeño Kettle Potato Chips,75.0,Kroger API,535.7,7.1,60.7,28.6,0.4
+44000080808,SARGENTO,CHEESE BAKES PEPPER JACK,4.99,Sargento® Cheese Bakes Pepper Jack Crackers,86.8,Kroger API,1660.0,41.6,177.0,72.8,2.5
+44000080815,SARGENTO,CHEESE BAKES PARMESAN & OREGANO,4.99,Sargento® Cheese Bakes Parmesan and Oregano Crackers,84.8,Kroger API,516.0,19.4,51.6,25.8,0.8
+28400038447,Lay's,Kettle cooked potato chips,3.99,Lay's® Kettle Cooked Jalapeño Kettle Potato Chips,79.0,Kroger API,200.0,3.0,23.0,11.0,0.0
+28400038492,Doritos,Flamas tortilla chips,5.99,Doritos® Nacho Cheese Flavored Tortilla Chips,70.3,Kroger API,530.0,7.1,63.6,28.3,0.7
+28400039796,Cheetos,BAKED crunchy cheese flavored,4.99,Cheetos® Baked Crunchy Cheese Chips,80.6,Kroger API,471.0,7.1,70.6,16.5,0.8
+28400043465,Lay's,potato crisps,4.99,Lay's Baked Potato Crisps Original,71.7,Kroger API,110.0,2.0,19.0,3.0,0.5
+28400043496,Lay's,Wavy hickory bbq flavored potato chips,3.99,Lay's® Original Wavy Potato Chips,59.7,Kroger API,571.4,7.1,57.1,35.7,0.5
+28400079051,LAY'S,"Baked Potato Crisps, Original",4.99,Lay's Baked Potato Crisps Original,100.0,Kroger API,411.0,7.7,79.7,6.4,0.5
+28400069298,Doritos,Tortilla Chips Spicy Sweet Chili,5.99,Doritos® Spicy Sweet Chili Flavored Tortilla Chips,55.6,Kroger API,529.0,7.0,63.5,24.7,0.7
+28400069977,Tostitos,Oven baked scoops tortilla chips,4.99,Tostitos® Baked Scoops Tortilla Chips,92.3,Kroger API,443.5,8.1,76.6,10.1,0.5
+28400071031,Tostitos,Creamy Spinach Dip,4.99,Tostitos Creamy Spinach Dip,100.0,Kroger API,391.0,9.8,19.5,34.2,1.5
+28400072564,"Lay's, Lays",Baked potato crisps,4.99,Lay's Baked Potato Crisps Original,76.9,Kroger API,428.6,7.1,78.6,12.5,0.6
+28400076739,Tostitos,"Tostitos, Creamy Spinach Dip",4.99,Tostitos Creamy Spinach Dip,85.7,Kroger API,156.0,3.1,6.2,12.5,0.6
+44000080778,Sargento,Sargento Cheese Bakes,4.99,Sargento® Cheese Bakes Parmesan and Oregano Crackers,51.2,Kroger API,516.0,16.1,51.6,29.0,0.7
+28400028110,Cheetos,Cheese Flavored Snacks Puffs,5.99,Cheetos Simply Puffs Cheese Flavored Snacks White Cheddar Flavored,62.7,Kroger API,536.0,7.1,46.4,35.7,1.1
+28400004619,Tostitos,Bite size tortilla chips,5.99,Tostitos® Bite Size Rounds Tortilla Chips,89.2,Kroger API,150.0,2.0,18.0,7.0,0.0
+16000139626,General Mills,Oat Crunch Cheerios,5.49,General Mills Cheerios Oat Crunch Oats 'N Honey Large Size Cereal,57.1,Kroger API,392.0,5.9,78.4,8.8,0.4
+16000139565,General Mills,Oat Crunch Cinnamon Cheerios,5.49,General Mills Cheerios Oat Crunch Cinnamon Large Size Cereal,72.5,Kroger API,392.2,5.9,78.4,7.8,0.4
+28400006057,Doritos,Doritos Nacho Cheese,5.99,Doritos® Nacho Cheese Flavored Tortilla Chips Party Size,47.6,Kroger API,210.0,3.0,25.0,11.0,0.3
+28400008617,Lay's,Barbecue Flavored Chips,0.5,Lay's® Barbecue Flavored Potato Chips,87.9,Kroger API,530.0,7.1,56.5,31.8,0.7
+28400010702,Lay's,Classic potato chips,5.99,Lay's® Classic Potato Chips Party Size,81.2,Kroger API,567.0,7.1,56.7,35.5,0.6
+16000127562,General Mills,Frosted toasted oat cereal with marshmallows,4.29,General Mills Cinnamon Toast Crunch Cereal,58.0,Kroger API,389.0,8.3,83.3,4.2,0.6
+28400012072,Lay's,Lay's Potato Chips,3.99,Lay's® Classic Potato Chips,86.3,Kroger API,565.0,7.1,54.1,35.3,0.5
+16000125643,General Mills,Chocolate flavored whole grain oat cereal,5.49,General Mills Cheerios Oat Crunch Chocolate Large Size Cereal,63.8,Kroger API,370.4,11.1,77.8,3.7,0.6
+16000125421,General Mills,Apple Cinnamon Cheerios Cereal,5.49,General Mills Apple Cinnamon Large Size Cheerios,80.4,Kroger API,393.0,7.1,78.6,5.4,0.4
+16000121843,General Mills,Grahams cereal,4.99,General Mills Golden Grahams Cereal,88.9,Kroger API,378.4,8.1,81.1,5.4,0.6
+16000119499,General Mills,Lucky Charms Cereal,4.29,General Mills Lucky Charms with Marshmallows Cereal,78.6,Kroger API,391.3,8.7,82.6,4.4,0.7
+16000118157,General Mills,Cinnamon Toast Crunch Cereal,6.99,General Mills Cinnamon Toast Crunch Value Bag Cereal,89.4,Kroger API,393.0,3.6,78.6,10.7,0.6
+16000116597,General Mills,Total raisin bran cereal,6.29,General Mills Raisin Nut Bran Cereal,86.5,Kroger API,120.0,2.0,28.0,0.5,0.1
+28400022644,Doritos,Nacho cheese flavored tortilla chips,5.99,Doritos® Nacho Cheese Flavored Tortilla Chips Party Size,88.0,Kroger API,535.7,7.1,64.3,28.6,0.8
+28400224086,Lay's,Chile limon flavored potato chips,3.99,Lay's® Chile Limon Potato Chips,85.7,Kroger API,541.2,7.1,54.1,35.3,0.6
+28400183833,Lay's,barbecue flavored baked chips,4.99,Lay's® Baked Barbecue Potato Chips,66.7,Kroger API,429.0,7.1,78.6,12.5,0.5
+28400206594,LAY'S,"Sea Salt Potato Snacks, Sea Salt",3.99,Lay's® Poppables Sea Salt Potato Chips,61.3,Kroger API,536.0,3.6,60.7,28.6,0.8
+28400207317,Cheetos,Eggs double cheddar cheese flavored snacks,5.99,Cheetos Simply Puffs Cheese Flavored Snacks White Cheddar Flavored,58.6,Kroger API,159.9,2.0,15.0,10.0,0.2
+64555515,Campbell's,Cream of chicken,1.25,Campbell's® Condensed Cream of Chicken Soup,77.1,Kroger API,100.0,1.7,7.5,6.7,0.0
+28400216210,LAY'S,"Original Potato Chips, Original",3.99,Lay's® Original Wavy Potato Chips,78.3,Kroger API,500.0,7.1,67.9,21.4,0.5
+28400239851,Cheetos,"Crunchy Snacks, Flamin' Hot, Cheese",5.89,Cheetos® Flamin' Hot® Crunchy Cheese Flavored Snacks,55.9,Kroger API,571.0,3.6,46.4,39.3,0.9
+28400242929,Cheetos,Cheese flavored puffs snacks,5.99,Cheetos Simply Puffs Cheese Flavored Snacks White Cheddar Flavored,58.8,Kroger API,564.5,6.0,54.4,34.3,0.9
+28400249614,LAY'S,"Stax Potato Crisps, Thai Sweet Chili",1.5,Lay's® Stax Cheddar Snacks Stacks Crisps Potato Chips,46.8,Kroger API,500.0,7.1,64.3,28.6,0.7
+28400252034,Cheetos,Simply white cheddar cheese flavored snacks puffs,5.99,Cheetos Simply Puffs Cheese Flavored Snacks White Cheddar Flavored,65.0,Kroger API,571.4,7.1,57.1,32.1,1.0
+28400278362,Tostitos,"Mexican Style Dip, 4 Cheese Queso",5.99,Gordo's® Hot Mexican Restaurant Style Queso Cheese Dip,50.5,Kroger API,152.0,3.0,12.1,10.6,0.6
+28400183826,Lay's,Baked Original Potato Chips,4.99,Lay's Baked Potato Crisps Original,59.7,Kroger API,429.0,7.1,75.0,12.5,0.5
+240581505949,Simple truth,Natural chicken breast,6.99,Simple Truth® Natural Boneless Skinless Fresh Chicken Breast Cutlets,68.0,Kroger API,98.2,21.4,0.0,0.9,0.1
+240581507141,simple truth,Chicken,4.99,Simple Truth® Natural Boneless Skinless Fresh Chicken Breast Family Pack BIG DEAL!,39.2,Kroger API,98.2,23.2,0.0,0.9,0.0
+240581509411,Kroger,Simply Organic Chicken Breast Tenders,10.99,Perdue® Simply Smart® Organics Gluten-Free Frozen Fully Cooked Breaded Chicken Breast Tenders,58.4,Kroger API,98.2,23.2,0.0,0.9,0.0
+28400085366,Tostitos,"Medium Fiesta Bean & Cheese Dip, Medium",4.99,Tostitos® Medium Nacho Cheese Dip,70.0,Kroger API,136.0,6.1,15.2,6.1,0.7
+28400090094,Lay's,Salt & Vinegar Potato Chips,5.99,Lay's® Salt and Vinegar Potato Chips Party Size,80.0,Kroger API,565.0,7.1,53.0,35.3,0.8
+28400090803,Doritos,Nacho Cheese,5.99,Doritos® Nacho Cheese Flavored Tortilla Chips Party Size,52.6,Kroger API,100.0,1.3,12.0,5.3,0.1
+28400092258,Lay's,Barbecue Flavored Potato Chips,0.5,Lay's® Barbecue Flavored Potato Chips,98.6,Kroger API,380.0,4.0,40.0,24.0,0.2
+28400099394,Lay's,Thick cut potato chips,3.99,Lay's® Simply Sea Salted Thick Cut Potato Chips,74.7,Kroger API,524.0,4.0,56.5,32.3,0.5
+28400099400,Doritos,Simply organic tortilla chips,3.99,Simply™ Doritos® White Cheddar Nacho® Flavored Tortilla Chips,55.1,Kroger API,524.2,8.1,60.5,28.2,0.6
+28400105576,LAY'S,"Fiery Habanero Flavored Potato Chips, Fiery Habanero",3.99,Lay's® Classic Potato Chips,50.0,Kroger API,571.0,7.1,57.1,35.7,0.5
+28400136945,Tostitos,Scoops! tortilla chips,5.99,Tostitos® Scoops Tortilla Chips,96.8,Kroger API,500.0,7.1,60.7,25.0,0.4
+28400137003,LAY'S,"Original Baked Potato Crisps, Original",4.99,Lay's Baked Potato Crisps Original,88.3,Kroger API,429.0,7.1,78.6,12.5,0.6
+28400143943,Tostitos,"Cantina Chipotle Restaurant Style Salsa, Restaurant Style",3.99,Tostitos Medium Restaurant Style Salsa Dip,63.6,Kroger API,29.4,0.0,5.9,0.0,0.6
+28400155410,Lay's,Bold mix chips & snacks variety,10.99,Frito-Lay® Bold Mix Chips Variety Pack,69.3,Kroger API,494.7,7.1,56.5,28.3,0.7
+28400156097,Doritos,"Chips, Salsa Verde",5.99,Doritos Salsa Verde Flavored Tortilla Chips,55.9,Kroger API,500.0,7.1,67.9,25.0,0.8
+28400165624,Tostitos,Crispy rounds tortilla chips,5.99,Tostitos® White Corn Crispy Rounds Tortilla Chips,86.0,Kroger API,120.0,2.0,18.0,4.5,0.0
+240581510783,Simple Truth,Chicken Breast Tender,6.49,Simple Truth® Natural Boneless & Skinless Fresh Chicken Breast Tenders,65.4,Kroger API,107.0,22.3,0.0,1.3,0.1
+44700075050,Oscar Mayer,Beef Franks Classic,6.49,"Oscar Mayer Classic Beef Franks Hot Dogs, Pack",64.9,Kroger API,333.0,11.9,4.8,28.6,0.9
+85002401512,Kroger,Kroger Pork Chops,10.0,Kroger® Boneless Center Cut Pork Loin Chops,62.7,Kroger API,261.0,20.9,1.3,18.3,0.3
+46100010495,Sargento,Sharp Cheddar Cheese,3.5,Sargento® Sharp Cheddar Sliced Cheese,87.9,Kroger API,1460.0,113.0,22.7,102.0,0.0
+46100010716,SARGENTO,EXTRA SHARP CHEDDAR CHEDDAR CHEESE,3.5,Sargento® Extra Sharp Cheddar Sliced Cheese,90.7,Kroger API,429.0,23.8,0.0,33.3,0.7
+46100010747,Sargento,Reduced Fat Mild Cheddar Cheese Sticks,5.49,Sargento® Natural Mild Cheddar Cheese Sticks Pack,79.2,Kroger API,1460.0,136.0,0.0,102.0,0.0
+46100011164,Sargento,Balanced breaks monterey jack cheese,4.49,Sargento® Balanced Breaks® Monterey Jack & Cheddar Cheese + Wheat Thins® Crackers Snack Kit,66.2,Kroger API,395.4,16.3,30.2,23.3,0.5
+46100011188,Sargento,Sweet balanced breaks colby jack cheese,4.49,Sargento® Balanced Breaks® Pepper Jack & Colby-Jack + RITZ® Crackers Snack Kit,60.3,Kroger API,465.1,16.3,27.9,32.6,0.4
+46100011317,Sargento,Colby jack natural cheese sticks with jalapeno,5.49,Sargento® Colby-Jack Cheese Sticks,71.9,Kroger API,350.0,25.0,0.0,30.0,0.6
+46100019641,Sargento,New World Gouda Cheese,3.5,Sargento® Gouda Sliced Cheese,70.0,Kroger API,1120.0,73.5,0.0,91.8,0.0
+46100009697,Sargento,Sweet balanced breaks cheese,4.49,Sargento® Sweet Balanced Breaks® Monterey Jack Cranberries Dark Chocolate & Banana Chips Snack Kit,51.9,Kroger API,395.4,14.0,32.6,23.3,0.4
+46100019962,Sargento,Creamy Havarti,3.5,Sargento® Havarti Sliced Cheese,59.3,Kroger API,1170.0,64.3,0.0,101.0,0.0
+46100019979,Sargento,Parmentino cheese,4.49,Sargento® Parmesan Grated Cheese,79.3,Kroger API,370.0,29.6,3.7,29.6,0.9
+46100020005,Sargento,Cheese,3.5,Sargento® Colby-Jack Sliced Cheese,61.2,Kroger API,400.0,23.3,3.3,33.3,0.6
+46100020203,Sargento,Creamery 3 Cheese Mexican,3.5,Sargento® Creamery Cheddar Sliced Cheese,67.6,Kroger API,392.9,17.9,3.6,35.7,0.7
+46100020227,Sargento,Creamy mozzarella,5.49,Sargento® Mozzarella String Cheese®,62.3,Kroger API,321.4,21.4,3.6,25.0,0.7
+46100020463,Sargento,Cheddar Slice natural cheddar cheese,5.49,Sargento® Natural Mild Cheddar Cheese Sticks Pack,66.0,Kroger API,411.8,17.6,0.0,35.3,0.7
+46100201091,Sargento,Sliced colby jack natural cheese,3.5,Sargento® Colby-Jack Sliced Cheese,58.7,Kroger API,368.4,26.3,0.0,31.6,0.7
+46100201121,Sargento,Sliced Natural Cheddar Cheese,5.49,Sargento® Natural Mild Cheddar Cheese Sticks Pack,71.3,Kroger API,421.0,26.3,0.0,31.6,0.7
+46100009741,Sargento,Sharp cheddar natural cheese sticks snacks,4.49,Sargento® Balanced Breaks® Sharp White Cheddar Cheese Cashews & Raisins Snack Kit,59.1,Kroger API,428.6,23.8,0.0,33.3,0.7
+46100002285,Sargento,Colby natural cheese sliced ultra thin,3.5,Sargento® Ultra Thin® Sliced Swiss Cheese,43.2,Kroger API,406.0,25.0,3.1,31.2,0.6
+46100002308,Sargento,Baby Swiss Natural Cheese,3.5,Sargento® Baby Swiss Sliced Cheese,82.4,Kroger API,366.7,26.7,0.0,26.7,0.2
+46100002728,Sargento,Extra Sharp Cheddar Sliced Cheddar Cheese,3.5,Sargento® Extra Sharp Cheddar Sliced Cheese,90.3,Kroger API,400.0,25.0,0.0,35.0,0.0
+46100002759,Sargento,"Sargento, sharp cheddar-jack cheese",3.5,Sargento® Sharp Cheddar Sliced Cheese,75.0,Kroger API,368.0,26.3,0.0,31.6,0.6
+46100006160,"Sargento,  Sargento Foods Inc",Light Ricotta Cheese,5.49,Sargento® Light Mozzarella String Cheese,53.3,Kroger API,90.9,5.4,9.1,2.7,0.0
+46100009437,Sargento,Balanced breaks pepper jack cheese honey roasted,4.49,Sargento® Balanced Breaks® Pepper Jack Cheese Peanuts & Raisins Snack Kits,76.3,Kroger API,395.4,16.3,27.9,25.6,0.4
+46100006948,Sargento,Creamy provolone,3.5,Sargento® Provolone Sliced Cheese,62.1,Kroger API,353.0,23.5,0.0,29.4,0.7
+46100007013,Sargento,String Cheese Snacks,5.49,Sargento® Mozzarella String Cheese®,68.8,Kroger API,1190.0,104.0,17.4,78.1,3.0
+46100007051,Sargento,Light String Cheese,5.49,Sargento® Light Mozzarella String Cheese,82.4,Kroger API,1140.0,136.0,22.7,56.7,0.0
+46100007181,Sargento,Light String Mozzarella Cheese,5.49,Sargento® Light Mozzarella String Cheese,81.0,Kroger API,214.0,23.8,4.8,11.9,0.8
+46100007464,Sargento,Sargento Colby-Jack Natural Cheese,3.33,Sargento® Frank's Red Hot® Cheddar with Colby Jack and Natural American Cheese Shreds,59.4,Kroger API,366.7,23.3,3.3,30.0,0.7
+46100201701,Sargento,Sliced Swiss Natural Cheese,3.5,Sargento® Swiss Sliced Cheese,67.7,Kroger API,388.9,27.8,5.6,27.8,0.2
+46100203033,SARGENTO,AGED WHITE CHEDDAR SLICED CHEDDAR CHEESE,3.5,Sargento® Reserve Series™ Aged White Cheddar Sliced Cheese,76.6,Kroger API,400.0,25.0,0.0,35.0,0.7
+46100300916,Sargento,Fine Cut 4 Cheese Mexican,3.33,Sargento® Off the Block Fine Cut 4 Cheese Mexican Blend Natural Cheese Shreds,61.3,Kroger API,1440.0,76.5,25.5,115.0,0.0
+23700062338,Tyson,All Natural Chicken Breast Tenderloins,5.99,Tyson All Natural Fresh Chicken Breast Tenderloins,93.6,Kroger API,80.4,19.6,0.0,0.4,0.2
+46100400494,Sargento,"Colby-jack shredded natural cheese, colby-jack",3.33,Sargento® Frank's Red Hot® Cheddar with Colby Jack and Natural American Cheese Shreds,51.8,Kroger API,393.0,21.4,7.1,32.1,0.6
+46100400593,SARGENTO,SHREDDED PARMESAN CHEESE,3.33,Sargento® Off The Block Parmesan Shredded Cheese,59.3,Kroger API,393.0,35.7,3.6,25.0,0.9
+46100400913,"Sargento,  Sargento Foods Inc.",6 Italian Cheese,3.5,Sargento® Mozzarella Sliced Cheese,49.4,Kroger API,321.0,25.0,7.1,21.4,0.7
+46100411025,Sargento,Traditional Cut Pepper Jack Cheese,3.5,Sargento® Pepper Jack Sliced Cheese,69.2,Kroger API,1280.0,76.5,12.7,102.0,0.0
+46100800843,Sargento,Fresh Asiago & Romano Natural Cheeses,4.49,Sargento® Natural American Sliced Cheese,53.5,Kroger API,285.7,28.6,3.6,17.9,0.8
+23700624215,Tyson,Bacon Chunks,2.29,Kroger® Real Bacon Bits,43.9,Kroger API,541.0,7.0,0.0,57.0,0.7
+23700543929,Tyson,Boneless Skinless chicken breast,13.99,Tyson® Boneless Skinless Chicken Breasts,97.4,Kroger API,98.2,17.9,0.0,1.8,0.2
+46100302156,Sargento,Natural Sharp Cheddar Cheese Sticks Snacks,4.49,Sargento® Balanced Breaks® Sharp White Cheddar Cheese Cashews & Raisins Snack Kit,63.6,Kroger API,1880.0,113.0,0.0,159.0,0.0
+23700061584,Tyson,Popcorn Chicken Bites,3.99,Tyson Popcorn Chicken Bites Cup,93.1,Kroger API,260.0,20.0,14.0,13.3,0.5
+23700061041,Tyson,Breaded And Stuffed Chicken Broccoli And Cheese,4.99,Tyson Frozen Stuffed Chicken Breasts Broccoli Cheese,78.1,Kroger API,179.0,12.5,11.9,8.9,0.3
+290009008163,Kroger,"Kroger, smoked turkey drums",4.29,Smoked Turkey Drums,73.1,Kroger API,133.0,18.6,0.0,6.2,0.3
+23700061034,Tyson,Chicken Kiev,4.99,Tyson® Breaded & Stuffed Chicken Parmesan Chicken Breasts,40.0,Kroger API,236.0,13.6,9.3,15.7,0.4
+290017004430,Kroger,"Kroger, smoked turkey necks",3.29,Kroger® Turkey Smoked Sausage,61.3,Kroger API,124.0,19.5,0.0,5.3,0.4
+23700061003,Tyson,Breaded & Stuffed Chicken Parmesan,4.99,Tyson® Breaded & Stuffed Chicken Parmesan Chicken Breasts,82.5,Kroger API,179.0,14.3,10.7,8.6,0.4
+23700060990,Tyson,Breaded & Stuffed Chicken Asparagus & Cheese,4.99,Tyson Frozen Stuffed Chicken Breasts Broccoli Cheese,70.6,Kroger API,179.0,13.6,10.7,9.3,0.5
+23700060983,Tyson,Chicken Scallop & Lobster,5.99,Tyson Frozen Chicken Patties,50.8,Kroger API,186.0,13.6,12.9,8.6,0.4
+46100400395,Sargento,Whole Milk Mozzarella & Provolone Cheese,3.33,Sargento® Whole Milk Mozzarella Shredded Cheese,83.3,Kroger API,321.0,21.4,3.6,25.0,0.7
+46100339411,Sargento,Sargento Colby-Jack cheese,3.5,Sargento® Colby-Jack Sliced Cheese,75.4,Kroger API,372.0,20.9,2.3,30.2,0.7
+46100353387,Sargento,Balanced Breaks Cheese and Crackers,4.49,Sargento® Balanced Breaks® Gouda & Sharp Cheddar Cheese + Mini Triscuit® Crackers Snack Kits,61.8,Kroger API,372.1,18.6,20.9,23.3,0.6
+46100353516,Sargento,Balanced Breaks-Cheese & Crackers,4.49,Sargento® Balanced Breaks® Gouda & Sharp Cheddar Cheese + Mini Triscuit® Crackers Snack Kits,59.7,Kroger API,405.0,19.0,26.2,26.2,0.6
+46100354612,Sargento,Cheese and crackers,5.99,Sargento® Shareables Cheddar & Colby Jack Sliced Cheese with Ritz® Original Crackers,46.4,Kroger API,395.3,20.9,18.6,27.9,0.7
+46100354704,Sargento,Wheat thins Cheese and cracker,4.49,Sargento® Balanced Breaks® Monterey Jack & Cheddar Cheese + Wheat Thins® Crackers Snack Kit,43.1,Kroger API,395.3,18.6,20.9,27.9,0.7
+46100354759,Sargento,Creamery Mozzarella Natural Cheese,3.5,Sargento® Mozzarella Sliced Cheese,72.7,Kroger API,321.4,21.4,0.0,28.6,0.8
+46100354766,Sargento,Fiesta Pepper Jack Natural Cheese,5.49,Sargento® Fiesta™ Pepper String Cheese,77.5,Kroger API,357.1,25.0,0.0,28.6,0.8
+46100354810,Sargento,Creamy Mild Cheddar,3.33,Sargento® Off The Block Fine Mild Cheddar,69.6,Kroger API,392.9,21.4,0.0,39.3,0.8
+46100356845,Sargento,Smokehouse string Cheese,5.49,Sargento® Smokehouse String Cheese™ Sticks,88.0,Kroger API,292.0,25.0,4.2,18.8,0.7
+46100356852,Sargento,Fiesta Pepper String Cheese,5.49,Sargento® Fiesta™ Pepper String Cheese,97.3,Kroger API,292.0,25.0,0.0,20.8,0.8
+46100357293,Sargento,Pepper Jack Cheese,3.5,Sargento® Pepper Jack Sliced Cheese,87.1,Kroger API,364.0,22.7,0.0,31.8,0.6
+46100357866,Sargento,Franks Red Hot Cheddar Cheese,3.33,Sargento® Frank's Red Hot® Cheddar with Colby Jack and Natural American Cheese Shreds,61.8,Kroger API,393.0,25.0,0.0,32.1,0.8
+46100400036,Sargento,Shredded Swiss & Grand Cru Natural Cheese,3.33,Sargento® Off the Block Fine Cut 4 Cheese Mexican Blend Natural Cheese Shreds,48.8,Kroger API,392.9,25.0,10.7,28.6,0.2
+46100400128,Sargento,Mozzarella Cheese,3.33,Sargento® Whole Milk Mozzarella Shredded Cheese,71.2,Kroger API,321.0,25.0,7.1,21.4,0.7
+46100400142,SARGENTO,Colby-Jack Shredded Colby-Jack Cheese,3.33,Sargento® Frank's Red Hot® Cheddar with Colby Jack and Natural American Cheese Shreds,45.8,Kroger API,393.0,25.0,7.1,28.6,0.6
+46100002261,Sargento,Sharp Cheddar Ultra Thin Cheddar Cheese,3.5,Sargento® Ultra Thin® Mild Cheddar Sliced Cheese,70.8,Kroger API,406.0,25.0,0.0,34.4,0.7
+46100002247,Sargento,Mild Cheddar Ultra Thin Cheddar Cheese,3.5,Sargento® Ultra Thin® Mild Cheddar Sliced Cheese,71.6,Kroger API,41.2,1.2,9.4,0.0,0.1
+46100002230,Sargento,Natural Cheese Colby-Jack Cheese,3.33,Sargento® Frank's Red Hot® Cheddar with Colby Jack and Natural American Cheese Shreds,42.9,Kroger API,375.0,25.0,3.1,31.2,0.7
+28400767354,Cheetos,Cheetos Flamin Hot Dill Pickle Chips,5.89,Cheetos® Flamin' Hot® Dill Pickle Crunchy Cheese Flavored Snacks,63.0,Kroger API,536.0,3.6,57.1,35.7,0.5
+44700101964,Heinz,Deli Fresh Rotisserie Seasoned Chicken Breast,4.99,Oscar Mayer Deli Fresh Rotisserie Seasoned Chicken Breast Thin Sliced Lunchmeat,72.3,Kroger API,89.3,14.3,1.8,8.9,0.9
+44700103197,Oscar Mayer,chicken dunks,4.99,Oscar Mayer Carving Board Rotisserie Seasoned Chicken Breast Lunchmeat,46.3,Kroger API,221.2,8.0,31.0,7.1,0.5
+44700104019,Oscar Mayer,Chili Cheese Stuffed Dogs,5.79,"Oscar Mayer Stuffed Cheese Hot Dogs, Pack",66.7,Kroger API,263.0,12.3,5.3,22.8,1.0
+44700104194,Oscar mayer,Shaved chicken,4.99,Oscar Mayer Carving Board Rotisserie Seasoned Chicken Breast Lunchmeat,50.0,Kroger API,87.7,15.8,3.5,0.9,1.0
+28400759120,Cheetos,Puffs Cheese Pizza,5.89,Cheetos® Cheese Pizza Puffs Chips,67.8,Kroger API,524.0,8.1,56.5,32.3,0.5
+15318525,Chobani,Greek yogurt strawberry on the bottom,1.5,Chobani® Strawberry on the Bottom Nonfat Greek Yogurt Cup,62.7,Kroger API,73.3,7.3,10.7,0.0,0.0
+28400767194,Cheetos,Cheetos Cheese Pizza Puffs,5.89,Cheetos® Cheese Pizza Puffs Chips,77.6,Kroger API,537.0,7.1,56.5,33.9,0.5
+28400767873,Lay's,Baked Barbecue Flavored Potato Crisps,4.99,Lay's® Baked Barbecue Potato Chips,83.1,Kroger API,431.0,6.2,70.8,12.3,0.6
+44843113,Chobani,Greek yogurt non-fat plain,3.49,Chobani® Non-Fat Plain Greek Yogurt,60.9,Kroger API,90.0,16.0,6.0,0.0,0.1
+28400768641,Lay's,Bacon Grilled Cheese Potato Chips,3.99,Lay's® Barbecue Potato Chips,68.7,Kroger API,551.0,7.1,53.7,35.3,0.5
+15300201347,Cheetos,CHEETOS MACNCHEESE,1.5,Cheetos® Mac'N Cheese Pasta With Bold & Cheesy Flavored Sauce,41.4,Kroger API,194.0,5.7,26.9,7.4,0.3
+28400772280,Doritos,Loaded Taco Flavored Tortilla Chips,2.69,Doritos Tortilla Chips Late Night Loaded Taco Flavored,57.7,Kroger API,508.0,7.1,59.3,26.8,0.5
