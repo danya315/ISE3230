@@ -1,0 +1,94 @@
+Set parameter LogToConsole to value 0
+Total 7-day cost = $69.22
+Total weekly calories: 73288
+
+Day 1:
+  Cream of Mushroom Condensed Soup: 1 serving(s) - 57 cal, $0.79
+  Strawberry Banana: 1 serving(s) - 82 cal, $0.80
+  FRENCH STYLE GREEN BEANS: 1 serving(s) - 35 cal, $0.89
+  French green beans: 1 serving(s) - 35 cal, $0.89
+  Chili Hot Beans: 1 serving(s) - 74 cal, $0.89
+  Pork Flavored Gravy Mix: 2 serving(s) - 11120 cal, $1.98
+  Green beans, cut: 1 serving(s) - 12 cal, $0.89
+  Green Lime Beans: 1 serving(s) - 57 cal, $0.89
+  Beans & Franks: 1 serving(s) - 62 cal, $0.89
+  Cream Style Golden Corn: 1 serving(s) - 65 cal, $0.89
+  Day total: 11600 calories, $9.80
+
+Day 2:
+  Cream of Mushroom Condensed Soup: 1 serving(s) - 57 cal, $0.79
+  Chicken Pot Pie: 1 serving(s) - 93 cal, $0.89
+  FRENCH STYLE GREEN BEANS: 1 serving(s) - 35 cal, $0.89
+  Lite Nonfat Greek Yogurt: 1 serving(s) - 43 cal, $0.89
+  Nonfat Greek Yogurt: 1 serving(s) - 59 cal, $0.89
+  French green beans: 1 serving(s) - 35 cal, $0.89
+  Pork Flavored Gravy Mix: 2 serving(s) - 11120 cal, $1.98
+  Green beans, cut: 1 serving(s) - 12 cal, $0.89
+  Beans & Franks: 1 serving(s) - 62 cal, $0.89
+  Cream Style Golden Corn: 1 serving(s) - 65 cal, $0.89
+  Day total: 11581 calories, $9.89
+
+Day 3:
+  Hot dog chili sauce: 1 serving(s) - 62 cal, $0.89
+  Bean Soup Mix: 1 serving(s) - 947 cal, $1.25
+  Strawberry Banana: 1 serving(s) - 82 cal, $0.80
+  Nonfat Greek Yogurt: 1 serving(s) - 59 cal, $0.89
+  Blended peach lowfat yogurt: 1 serving(s) - 140 cal, $0.60
+  Blended blueberry lowfat yogurt: 1 serving(s) - 143 cal, $0.60
+  Chunk Yellowfin Tuna In Water: 1 serving(s) - 205 cal, $1.00
+  Thick & Zesty Spaghetti Sauce Mix: 2 serving(s) - 7500 cal, $1.98
+  Barbecue Flavored Chips: 1 serving(s) - 530 cal, $0.50
+  Barbecue Flavored Potato Chips: 1 serving(s) - 380 cal, $0.50
+  Day total: 10049 calories, $9.01
+
+Day 4:
+  SUPER SWEET CORN: 1 serving(s) - 106 cal, $0.89
+  Chicken Pot Pie: 1 serving(s) - 93 cal, $0.89
+  Chunk Light Tuna in Water: 1 serving(s) - 255 cal, $0.99
+  Blended peach lowfat yogurt: 1 serving(s) - 140 cal, $0.60
+  Blended blueberry lowfat yogurt: 1 serving(s) - 143 cal, $0.60
+  Greek Nonfat Yogurt, Blueberry: 1 serving(s) - 73 cal, $0.89
+  Chunk Yellowfin Tuna In Water: 1 serving(s) - 205 cal, $1.00
+  Hot chili with beans: 1 serving(s) - 290 cal, $0.89
+  Instant Sugar Free Pudding & Pie Filling: 2 serving(s) - 8160 cal, $2.00
+  Lay € barbecue flavored potato chips: 1 serving(s) - 536 cal, $0.50
+  Day total: 10001 calories, $9.25
+
+Day 5:
+  Original Vienna Sausage: 1 serving(s) - 339 cal, $0.85
+  Hot dog chili sauce: 1 serving(s) - 62 cal, $0.89
+  Mixed Beans: 1 serving(s) - 914 cal, $0.89
+  Mercado Pinto Beans: 1 serving(s) - 229 cal, $1.00
+  Lowfat Greek Yogurt: 1 serving(s) - 51 cal, $0.60
+  Greek Nonfat Yogurt Lite Vanilla: 1 serving(s) - 60 cal, $0.89
+  Greek Nonfat Yogurt, Blueberry: 1 serving(s) - 73 cal, $0.89
+  Hot chili with beans: 1 serving(s) - 290 cal, $0.89
+  Thick & Zesty Spaghetti Sauce Mix: 2 serving(s) - 7500 cal, $1.98
+  Lay € barbecue flavored potato chips: 1 serving(s) - 536 cal, $0.50
+  Day total: 10055 calories, $9.38
+
+Day 6:
+  Strawberry yogurt: 1 serving(s) - 90 cal, $0.60
+  Original Vienna Sausage: 1 serving(s) - 339 cal, $0.85
+  SUPER SWEET CORN: 1 serving(s) - 106 cal, $0.89
+  Chunk Light Tuna in Water: 1 serving(s) - 255 cal, $0.99
+  Sardines In Soybean Oil: 1 serving(s) - 367 cal, $1.19
+  Lite Nonfat Greek Yogurt: 1 serving(s) - 43 cal, $0.89
+  Lowfat Greek Yogurt: 1 serving(s) - 51 cal, $0.60
+  Greek Nonfat Yogurt Lite Vanilla: 1 serving(s) - 60 cal, $0.89
+  Instant Sugar Free Pudding & Pie Filling: 2 serving(s) - 8160 cal, $2.00
+  Barbecue Flavored Chips: 1 serving(s) - 530 cal, $0.50
+  Day total: 10001 calories, $9.40
+
+Day 7:
+  Strawberry yogurt: 1 serving(s) - 90 cal, $0.60
+  Original Instant Oatmeal: 1 serving(s) - 1400 cal, $1.79
+  Mixed Beans: 1 serving(s) - 914 cal, $0.89
+  Baby Lima Beans: 1 serving(s) - 947 cal, $1.49
+  Bean Soup Mix: 1 serving(s) - 947 cal, $1.25
+  Shortbread Tartlet Shells: 1 serving(s) - 2310 cal, $1.99
+  Bread Crumbs: 1 serving(s) - 1350 cal, $1.49
+  Rich & Creamy Chocolate Fudge Frosting: 1 serving(s) - 1270 cal, $1.49
+  Flavored Stuffing Mix, Cornbread: 1 serving(s) - 393 cal, $1.00
+  Barbecue Flavored Potato Chips: 1 serving(s) - 380 cal, $0.50
+  Day total: 10001 calories, $12.49
